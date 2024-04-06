@@ -1,9 +1,39 @@
 fileFormatVersion: 2
-guid: a591b461919b5104f95ade4f4e0a857a
+guid: b6331dea9624a6446864d47e242a3a65
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brick 2
+    second: {fileID: 2100000, guid: ec1283e2008b9c748ab43eabde49b818, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brick 3
+    second: {fileID: 2100000, guid: 82375d1b83e34374cb53542538de1bbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brick Plaster
+    second: {fileID: 2100000, guid: 9f468cc81ff77164fbc34b1796f8b6e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brick1
+    second: {fileID: 2100000, guid: 4f21b9e61a6e1534cb18f9f8b5497aa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: e92029f5f88e35a49abb451163906697, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oak
+    second: {fileID: 2100000, guid: 2525e8c2b7d0a0b40b5129c6e581d309, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
