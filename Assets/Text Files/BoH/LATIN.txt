@@ -1,36 +1,37 @@
-<align=left><size=300%><color=#D1B000>KL</color><size=100%>             December XXXI
-<align=left>                  Luna         XXX
-<align=left>xiij   f
-<align=left>  ii    g
-<align=left>        <color=red>a</color>
-<align=left>x      b          <color=red>S’ Barbera V’</color> 
-<align=left>        c
-<align=left>xviij d         <color=red>Nicolay Epī</color> 
-<align=left>  vii  e
-<align=left>        f           <color=red>Conceptio Marie</color>
-<align=left>xv    g
-<align=left>  iiij  <color=red>A</color>
-<align=left>        b
-<align=left>xii    c
-<align=left>  i     d          Lucie V’gīs
-<align=left>        e          <color=red>Nichasius</color>
-<align=left>ix     f 
-<align=left>        g 
-<align=left>xvij  <color=red>a</color>          Lazarii mar
-<align=left>   vi  b
-<align=left>        c
-<align=left>xiiij  d
-<align=left>  iij   e          <color=red>Thoma</color>
-<align=left>        f
-<align=left>xi     g
-<align=left>        <color=red>a</color>          Vig’
-<align=left>xix   b          <color=red>Nativitas Dnī</color>
-<align=left>        c           <color=red>Stephani mar</color>
-<align=left>viij   d          <color=red>Johannes evanga</color>
-<align=left>        e           <color=red>Scōrum Innocentium</color> 
-<align=left>xv    f
-<align=left>  v    g
-<align=left>xiij   <color=red>a</color>           S’ Silvester  
+<size=300%><color=#D1B000>KL</color><size=100%>             December XXXI
+                  Luna         XXX
+xiij   f
+  ii    g
+        <color=red>a</color>
+x      b          <color=red>Sâ€™ Barbera Vâ€™</color> 
+        c
+xviij d         <color=red>Nicolay EpÄ«</color> 
+  vii  e
+        f           <color=red>Conceptio Marie</color>
+xv    g
+  iiij  <color=red>A</color>
+        b
+xii    c
+  i     d          Lucie Vâ€™gÄ«s
+        e          <color=red>Nichasius</color>
+ix     f 
+        g 
+xvij  <color=red>a</color>          Lazarii mar
+   vi  b
+        c
+xiiij  d
+  iij   e          <color=red>Thoma</color>
+        f
+xi     g
+        <color=red>a</color>          Vigâ€™
+xix   b          <color=red>Nativitas DnÄ«</color>
+        c           <color=red>Stephani mar</color>
+viij   d          <color=red>Johannes evanga</color>
+        e           <color=red>ScÅrum Innocentium</color> 
+xv    f
+  v    g
+xiij   <color=red>a</color>           Sâ€™ Silvester
+
  /next/
  /next/
  /next/
@@ -41,40 +42,42 @@ um annunciabit
 laudem tuam. 
 <size=175%><color=blue>D</color><size=100%>eus in adiu-
 torium meum
-intende. Dn̄e ad adiuvandum 
-me festina. <size=175%><color=#D1B000>G</color><size=100%>loria prī, et filio, 
+intende. DnÌ„e ad adiuvandum 
+me festina. <size=175%><color=#D1B000>G</color><size=100%>loria prÄ«, et filio, 
 et spiritui sancto. <size=175%><color=blue>S</color><size=100%>icut erat 
-in principio, et nunc, et semp̱, 
+in principio, et nunc, et sempÌ±, 
 et in saecula saeculorum, Amen.
 <size=225%><color=#D1B000>P</color><size=100%>atris sapiencia, veritas 
 divina, Deus homo cap-
 tus est hora matutina: a suis 
 discipulis cito derelictus: a Iudeis 
 traditus, venditus, et afflictus.
-<color=red>V’.</color> Adoramus te Xpriste [sic] et bene-
+<color=red>Vâ€™.</color> Adoramus te Xpriste [sic] et bene-
+
 /next/
 dicimus tibi, quia per sanctam 
 crucem tuam redemisti mundum.
 <size=225%><color=#D1B000>D</color><size=100%>omine Jhesu Christe, fili Dei 
-vivi, pone passionem, crucē 
-et mortem tuam inter iudiciū 
-tuum et aīam meam, nunc et 
+vivi, pone passionem, crucÄ“ 
+et mortem tuam inter iudiciÅ« 
+tuum et aÄ«am meam, nunc et 
 in exitu eius et largiri digneris
-vivis mīam et graciam defūc-
+vivis mÄ«am et graciam defÅ«c-
 tis requiem et veniam ecclesie 
 tue pacem et concordiam et no-
 bis peccatoribus vitam et glo-
 riam sempiternam. Qui vivis 
-et regnas Deus. Per omnia scl’a 
+et regnas Deus. Per omnia sclâ€™a 
 seculorum. Amen. <color=red>Ad primam</color>
 Deus in adiutorium.
-<size=225%><color=#D1B000>H</color><size=100%>ora prima ductus est Ihūs 
+<size=225%><color=#D1B000>H</color><size=100%>ora prima ductus est IhÅ«s 
 ad Pylatum, falsis testimoniis 
 multum accusatum. In collo
+
 /next/
 percutiunt manibus ligatum, 
 vultum Dei conspuunt lumen ce-
-li gratum. <color=red>V’</color>: Adoramus te. <color=red>Oratio:</color> 
+li gratum. <color=red>Vâ€™</color>: Adoramus te. <color=red>Oratio:</color> 
 Domine Ihesu Xpe. <color=red>Ad Terciam.</color>
 Deus in adiutorium. <color=red>[H]ymnus.</color> 
 <size=225%><color=#D1B000>C</color><size=100%>rucifige clamitant hora t[er]-
@@ -82,15 +85,2767 @@ ciarum, illusus indiutur veste
 purpurarum, capud [sic] eius pungi-
 tur corona spinarum, crucem por-
 tat humeris ad locum penarum. 
-<color=red>V’</color>: Adoramus te. <color=red>Or̄o</color>: D[omi]ne Ihū Xpe. <color=red>Ad</color> 
+<color=red>Vâ€™</color>: Adoramus te. <color=red>OrÌ„o</color>: D[omi]ne IhÅ« Xpe. <color=red>Ad</color> 
 Deus in adiutorium. <color=red>Sextam.</color> 
-<size=225%><color=#D1B000>H</color><size=100%>ora sexta Ihesus est cruci cō-
+<size=225%><color=#D1B000>H</color><size=100%>ora sexta Ihesus est cruci cÅ-
 clavatus, atque cum latronibus 
 pendens deputatus. Pre tormentis 
 sitiens felle saturatus, agnus cri-
-men diluit sic deificatus. <color=red>V’</color>: Ado-
-ramus te. <color=red>Or̄o</color>: D[omi]ne Ihū Xpe. <color=red>Ad No<sup>a</sup></color>
+men diluit sic deificatus. <color=red>Vâ€™</color>: Ado-
+ramus te. <color=red>OrÌ„o</color>: D[omi]ne IhÅ« Xpe. <color=red>Ad No<sup>a</sup></color>
+
 /next/
- 
+Deus in adiutorium. <color=red>Aâ€™ apâ€™</color> [sic] 
+Hora Nona DnÌ„s Ihesus expi-
+ravit: hely clamans animam 
+patri commendavit. Latus eius
+lancea miles perforavit, terra
+tunc contremuit et sol obscura-
+vit. <color=red>Vâ€™</color>: Adoramus te. <color=red>OrÌ„</color>: DnÌ„e IhÅ«.
+Deus in adiutorium. <color=red>Ad vers</color>
+De cruce deponitur hora vesp[er]-
+tina. Fortitudo latuit in mente 
+divina. Talem mortem subiit 
+vitae medicina: Heu corona glo-
+rie iacuit supina. <color=red>Vâ€™sâ€™</color>: Adoramus 
+te. <color=red>OrÌ„o</color>: DnÌ„e IhÅ« XpÄ“. <color=red>Ad cÅpleto</color>
+Converte nos, Deus saluta-
+ris noster, et averte iram 
+tuam a nobis. Deus in ad-
+iutorium meum intende.
+
 /next/
+Hora completorij datur sepul-
+ture corpus Xpristi nobile,
+spes vite future: conditur aroma-
+te. Complentur scripture Jugis sit
+memoria mors hec michi [sic] cure.
+<color=red>Vâ€™</color>: adoramus te. <color=red>OrÌ„o</color>: DnÌ„e IhÅ«. <color=red>Y[m]nus</color>
+Has horas canonicas cum
+devocione, tibi Xpriste reco-
+lo pia ratione: ut qui pro me pas-
+sus es penas in agone, sic labori 
+consonans consors sim corone.
+Amen.
+
+/next/
+/next/
+/next/
+/next/
+/next/
+/next/
+/next/
+/next/
+/next/
+<color=red>Incipiunt hore de Sancto Spiritu</color>
+Domine labia mea
+aperies et os me-
+um annunciavit
+laudem tuam.
+Deus in adiu-
+torium meum in-
+tende. Domine ad adiuvandÅ«
+me festina. Gloria PrÄ«, et filio, 
+et spiritui sancto. Sicut erat Ä«
+principio et nunc et semper et Ä«
+secula seculorum. Amen.  
+Nobis Sancti Spiritus gracia
+sit data, de qua virgo virginÅ«
+fuit obumbrata, cum per s[an]c[tu]m
+angelum fuit salvata: VerbÅ«
+caro factum est, virgo fecundata. 
+<color=red>An[tiphona]</color>: Veni Sancte Spiritus, reple tuo-
+
+/next/
+rum corda fidelium et tui amo-
+ris in eis ignem accende. <color=red>Vâ€™</color>: Emit-
+te spiritum tuum et creabintur
+a renovabis faciem terre <color=red>OrÌ„o</color>: 
+Omnipotens sempiterne Deâ€™
+Da nobis illam sancti Sp[iritu]s
+graciam quam discipulis tue
+in die sancto penthecoste trans-
+misisti, qui vivis et regnas Deus
+per omnia secula seculorÅ«. Amen. 
+Benedicamus Domino Deus gra[tia]s.
+Deus, in adiutorium. <color=red>Ad pâ€™</color>
+De filia virgine Xpristus fuit
+natus, crucifixus, mortuus atque
+tumulatus, resurgens discipulis
+in die fuit demonstratus et ip-
+sis cernentibus, in celis elevatus. 
+<color=red>Ana</color>: Veni stÄ“. <color=red>Vâ€™</color>: Emitte sp[iritu]m. <color=red>OrÌ„o</color>:
+
+/next/ # Fol. 13r
+Omnipotens sempiterne <color=red>Ad</color>
+Deus in adiutorium <color=red>terciÄ</color>
+Suum sanctum spiritÅ« vite
+delegavit, in die scÅ penthecostes,
+ipsos informavit linguis loqui
+variis, ipsos nam amavit or-
+phanos reliquere eos denegavit.
+An[tiphona]: Veni scÄ“. Vâ€™s: Emitte sp[iritum]. OrÌ„o:
+Omnipotens sempiterne Ad sex
+Deus in adiutorium        tam
+Septiformis graciam tÅ«c 
+acceptaverunt. Quare ydeomata  
+cuncta cognoverunt et diversa
+climata mundi recesserunt. Et fi-
+dem catholicam tunc predicaverÌ„t 
+<color=red>Ä€:</color> Veni scÄ“ spÅ«s. <color=red>Vâ€™:</color> Emitte spÅ«m. <color=red>OrÌ„o:</color>
+Omniptens sÄ“piterne <color=red>Ad no-</color>
+Deus in adiutorium   <color=red>nam</color>
+
+/next/ # Fol. 13v
+Spiritus paraclitus fuit ap-
+pellatus, dono Dei, digito
+fons vivificatus spiritalis, un-
+tio ignis inflammatus, septifor-
+mis gracie carisma vocatus. <color=red>Ä€</color>: 
+Veni scÄ“. <color=red>Vâ€™s</color>: Emitte spÅ«m. <color=red>Oracio</color>:
+Omnipotens sempiterne. <color=red>Ad v[espera]s</color>
+Deus in adiutorium
+Dextere Dei digitus, virtus
+spiritalis, nos defendens eruat
+ab omnibus malis. Ut nobis nÅ 
+noceat demon infernalis, prote-
+gat ac nutriat foveat sub alis. 
+<color=red>Ä€</color>: Veni scÄ“. <color=red>Vâ€™s</color>: Emitte spiritum.
+Omnipotens sÄ“piterne. <color=red>Ad [com]pl[etorium].</color>
+Converte nos Deos salutans 
+noster et averte iram tuÄ
+a nobis. Deus in adiutorium.
+
+/next/ # Fol. 14r
+Spiritus paraclitus nos ve-
+lit iuvare, gressus nostrus re-
+gere et illuminare, ut cum Deus 
+venerit omnes iudiare, nos ve-
+lit ad dexteram suam collocare.
+<color=red>Anâ€™</color>: Veni scÄ“. <color=red>Vâ€™s</color>: Emitte spiritÅ«. <color=red>OrÌ„o</color>:
+Omnipotens sÄ“piterne.  <color=red>ymnâ€™</color>
+Has horas canonicas cum
+devotione tibi sancte spÅ«s
+pia ratione dixi, ut nos visites Ä« [sic]
+inspiracione nos vivamus iu-
+giter celi regione. Amen.
+
+/next/
+/next/
+/next/
+/next/
+/next/
+/next/
+/next/
+/next/
+/next/ # Fol. 16r
+<color=red>Incipit missa beate Marie Vâ€™</color>
+Et introibo ad alta-
+re Dei. Ad Deum qui
+letificat iuventu-
+tem meam. Dig-
+nare, Domine, die
+isto sine peccato 
+nos custodire. Confitemini Do-
+mino, qnÄ« bonus, quoniam in se-
+culum misericordia eius.
+Confiteor Deo celi, et beate 
+Marie Virgini, et omnibus
+sanctis Dei, et nobis Pater, quia
+ego infelix peccator peccavi ni-
+mis contra legem Dei cogitatio-
+ne, locutione, consensu, visu, ver-
+bo et opere, mea culpa, mea culpa, 
+mea maxima culpa. Ideo precor
+
+/next/ # Fol. 16v
+beatissimam virginem Mariam et
+omnes sanctos et sanctas Dei: et noster
+Pater, orate pro me peccatore. 
+Misereatur vestri omnipotens
+Deus et dimissis omnibus
+peccatis vestris, perducat nos et vos
+Ihesus Xpristus sine macula cum
+gaudio ad vitam eternam. AmÄ“.
+Non nobis Domine, non nobis  
+sed nomini tuo da gloriam. Ab
+occultis meis munda me DomÄ«e,
+et ab alienis parte servo tuo. O-
+stende nobis Domine mÄ«am tua
+et salutare tuum da nobis. Ora 
+pro nobis, sancta Dei genitrix ut
+digni efficiamur promissione 
+Xpristi. Domine exaudi or[ati]one[m]
+meam, et clamor meus ad te ne
+
+/next/ # Fol. 17r
+veniat. DnÌ„s vobiscum et cum spiri-
+tu tuo. Adiutorium nostrum Ä«
+nomine Domini qui fecit celum
+et terram. Sit nomen Domini 
+benedictum ex hoc nunc et utque
+in seculum.
+Salve, Sancta parens, enixa
+purpera [sic] regem, qui celum
+terram[que] regit in secula seculorÅ«.
+<color=red>Vâ€™</color>: Senciant [sic] omnes tuÅ« iuvamÄ“ 
+quicum[que] celebrant tuam cÅme-
+morationem. Gloria PrÄ« sicut 
+erat. Salve Sancta parens. Ky-
+rieleyson. Kyrie eleysÅ. Kyrie eleysÅ. 
+Kyrie eleysÅ. Kyrie elâ€™. Kyrie eleyson.
+Gloria in excelsis Deo et in 
+terra pax hominibus bo-
+
+/next/ # Fol. 17v
+ne voluntates. Laudamus te. Be-
+nedicimus te. Adoramus te. Glo-
+rificamus te. Gracias agimus 
+tibi propter magnam gloriam
+tuam, Domine Deus Rex et celestis
+Deus, Pater omnipotens, Domine
+filii unigenite Ihesu Xpriste, DnÄ“
+Deus, agnus Dei, filius Patri. Qui
+tollis peccata mundi, miserere no-
+bis. Qui tollis peccata mundi, sus-
+cipe deprecacionem nostram. Qui
+sedes ad dexteram Patris, miserere
+nobis. Quoniam tu solus san-
+tus. Tu solus DnÌ„s. Tu solus altis-
+simus Ihesu Xpriste. Cum sancto
+SpÅ« in gloria Dei Patris. Amen. 
+Concede nos famulos tuos
+quesumus Domine Deo
+
+/next/ # Fol. 18r
+p[er]petua mentis et corporis salute
+gaudere et gloriasa [sic] beate Marie
+semper virginis intercessione, ap-
+senti liberari tristicia et eterna per-
+perfrui leticia per eundem Xpristum
+DominÅ« nostrÅ«. Amen. <color=red>I[ni]cio libri</color>
+Ab inicio, et ante            <color=red>Sapiencie</color>
+secula creata sunt, et usque
+ad futurum seculum non desinam,
+et in habitacione sancta coram
+ipso ministravi. Et sic in Syon
+firmata sum et in civitate sanc-
+tificata similiter requiem et in 
+Iherusalem potestas mea et ra-
+dicavi in populo honorificato
+et in partes Dei mei hereditas il-
+lius et in plenitudine s[an]c[t]orum 
+detencio mea. <color=red>V[e]r[sus]</color>: Benedicta es,
+
+/next/ # Fol. 18v
+venerabilis Virgo Maria, que sine
+tactu pudoris inventa est mater 
+salvatoris. <color=red>Vâ€™</color>: Virgo Dei Genetrix, quÄ“
+totus non capit orbis, tua se clau-
+sit viscera factus homo. Alleluja. 
+<color=red>Vâ€™</color>: Post partum, Virgo, inviolata 
+permansisti, Dei genitrix, intercede 
+pro nobis. Alleluya. <color=red>S[e]c[un]d[u]m Lucam.</color>
+In illo tempore loquente Ihe-
+su ad turbas, extollens vo-
+cem quedam mulier de turba, dix-
+it illi: Beatus venter, qui te port-
+avit, et ubera que suxisti. At ille 
+dixit: Quinymmo beati qui au-
+diunt verbum Dei, et custodiÅ«t 
+illud. Deo gracias.
+Credo in unum Deum, PatrÄ“
+omnipotentem, factorem celi et tâ€™- 
+
+/next/ # Fol. 19r
+re. Visibilium omnium, et in in-
+visibilium. Et in unum Dominum 
+Ihesum Xpristum, filium Dei uni-
+genitum. Et ex Patre natum ante
+omnia secula. Deum de Deo, lumÄ“
+de lumine, Deum verum de Deo ve-
+ro. Genitum, non factum, consub-
+stancialem Patri: per quem omnia
+facta sunt. Qui propter nos ho-
+mines, et propter nostram sa-
+lutem descendit de celis. Et in-
+carnatus est de Spiritu Sanctu ex
+Maria Virgine: et homo factus Ä“.
+Crucifixus eciam [sic] pro nobis: sub
+Poncio Pylato passus, et sepultus 
+est. Et resurrexit tercia die s[e]c[un]d[u]m
+scripturas. Et ascendit in celum,
+sedet at dexteram Patris. Et iterâ€™
+
+/next/ # Fol. 19v
+venturus est cum gloria, iudicare 
+vivos et mortuos: cuius regni nÅ
+erit finis. Et in Spiritum Sanctum,
+Dominum, et vivificantem: qui ex
+Patre Filioque procedit. Qui cum Pa-
+tre et Filio simil adoratur, et cum-
+glorificatur: qui locutus est per
+prophetas. Et unam sanctam catho-
+licam et apostolicam ecclesiam. CÅ-
+fiteor unum baptisma in remissio-
+nem peccatorÅ«. Et expecto resurrecti-
+onem mortuorum. Et vitam vÄ“-
+turi seculi. Amen. <color=red>Off[ertorius]:</color> Felix nam-
+que es sacra Virgo Maria et omni   
+laude dignissima quia ex te or-
+tus est sol iusticie Xpristus Deus 
+noster. Per omnia secula secu-
+lorum. Amen. DnÌ„s vobiscum,
+
+/next/ # Fol. 20r
+et cum spiritu tuo. Sursum cor-
+da habemus ad Dominum. Gra-
+cias agamus, Domino Deo nostro.
+Dignum et iustum est. Sanc-
+tus, sanctus, sanctus DnÌ„s De-
+us sabaoth. Pleni sunt celi et ter-
+ra, gloria tua, osanna in excelsis.
+Benedictus qui venis in nomi-
+ne Domini, osanna in excelsis. Per
+omnia secula seculorum. Amen.
+Et ne nos inducas in tempta-
+cionem sed libera nos a malo. A[men].
+Per omnia secula seculorum. 
+Amen. Pax Domini sic semper 
+vobiscum et cum spiritu tuo. Ag-
+nus Dei qui tollis peccata mun-
+di, miserere nobis. Agnus Dei qâ€™
+tollis peccata mundi miserere
+
+/next/ # Fol. 20v
+nobis. Agnus Dei qui tollis pec-
+cata mundi, dona nobis pacem.
+<color=red>Post</color> Post [sic] Beata viscera Marie vir-
+ginis que portaverunt eterni 
+patris filium, DnÌ„e exaudi. <color=red>OrÌ„o:</color>
+Graciam tuam, quaesumus, Domine,
+mentibus nostris infun-
+de; ut qui angelo nunciante, car-
+nem cognovimus per passionÄ“
+eius et crucem ad resurrectionis
+gloriam perducamur. Per eundÄ“
+Xpristum DnÌ„m nostrum. Amen.
+<color=red>Inicium sancti evangelii secÅ«-
+dum Iohannem. Glâ€™a tibi DnÌ„e.</color>
+In Principio erat verbum 
+et verbum erat apud De-
+um et Deus erat verbum. Hoc
+
+/next/ # Fol. 21r
+erat in principio apud Deum. O[mn]ia 
+per ipsum facta sunt et sine ipso 
+factum est nihil quod factum 
+est. In ipso vita erat et vita erat 
+lux hominÅ«. Et lux in tenebris lu-
+cet et tenebrae eam non conprehÄ“-
+derunt. Fuit homo missus a Deo, cui
+nomen erat Iohannes. Hic venit
+in testimonium, ut testimonium 
+perhiberet de lumine, ut omnes
+crederent per illum. Non erat 
+ille lux, sed ut testumoniÅ« perhi-
+beret de lumine. Erat lux vera quae 
+illuminat omnem hominem ve-
+nientem in hunc mundum. In 
+mundo erat, et mundus per ip[su]m 
+factus est et mundus eum non 
+cognovit. In propria venit, et sui 
+
+/next/ # Fol. 21v
+eum non receperunt quod autÄ“ 
+receperunt eum, dedit eis potesta-
+tem filios Dei fieri, hiis, qui credÅ«t
+in nomine eius: qui non ex san-
+guinibus, neque ex voluntate vi-
+ri sed ex Deo nati sunt. Et verbÅ« 
+caro factum est, et habitavit in 
+nobis: et vidimus gloriam eius, 
+gloriam quasi unigeniti a Pa-
+tre, plenum gracie et veritas Deo 
+gracias. <color=red>Sâ€™cdâ€™m Lucam</color>
+In illo tempore, missus Ä“
+angelus Gabriel a Deo in civita-
+tem Galylee cui nomen Naza-
+reth ad virginem desponsatam
+viro cui nomen erat Ioseph de
+domo David, et nomen virginis
+Maria. Et ingressus angelus ad 
+
+/next/ # Fol. 22r
+eam dixit Ave gracia plena DnÌ„s 
+tecum benedicta tu in mulieribus. 
+Que cum audisset, turbata in 
+sermone eius, et cogitabat qualis 
+esset ista salutatio. Et ait ange-
+lus ei: ne timeas Maria, invenis-
+ti enim graciam apud Deum: 
+ecce concipies, et paries filium, 
+et vocabis nomen eius IhesÅ«: 
+hic erit magnus, et Filius Altis-
+simi vocabitur, et dabit illis
+Dominus Deus sedem David patris 
+eius: et regnabit in domo Iacob 
+in eternum, et regni eius non erit 
+finis. Dixit autem Maria ad a[n]-
+gelum: Quomodo fiet istud, q[uonia]m 
+virum non cognosco? Et respondens 
+angelus dixit ei: Spiritus sanctus 
+
+/next/ # Fol. 22v
+superveniet in te, et virtus Altis-
+simi obumbrabit tibi. Ideoque 
+et quod nascetur ex te sanctum, 
+vocabitur Filius Dei. Et ecce Eliza-
+beth cognata tua, et ipsa conce-
+pit filium in senectute sua: et 
+hic mensis est sextus illi, que 
+vocatur sterilis: quia non erit 
+impossibile apud Deum omne 
+verbum. Dixit autem Maria: 
+Ecce ancilla Domini, fiat michi 
+secundÅ« verbum tuum. <color=red>Scdâ€™m</color>
+In illo tempore,            <color=red>MatheÅ«</color>
+cum natus esset Ihesus Ä«
+Bethleem Iude in diebus Herodis 
+regis, ecce magi ab oriente ve-
+nerunt IherosolimÄ, dicentes:
+ ubi est qui natus est rex Iudaeor[um].
+
+/next/ # Fol. 23r
+vidimus stellam eius in Oriente 
+et venimus adorare cum audie[n]s
+autem Herodes rex turbatus est 
+omnes Iherolimam cum illo et 
+congregans principes sacerdotÅ«
+et scribas populi, scissitabatur ab
+eis ubi Xpristus nasceretur. Illi
+autem dixerunt ei: sic enim script-
+um est per prophetam dicentem
+et tu Bethleem terra Iuda nequa-
+quam minima es in principi-
+bus Iuda; ex te enim exiet dux,
+qui regat popolum meum Israel. 
+Tunc Herodes, clam vocatis ma-
+gis, diligenter didici ab eis tÄ“-
+pus stelle, que apparuit eis; et 
+mittens illos in Bethleem dixit:
+Ite et interrogate diligenter de
+
+/next/ # Fol. 23v
+puero; et cum inveneritis, renuncia-
+te mihi, ut ego vivens [sic] adorem eÅ«.
+Qui cum audissent regem, abie-
+runt . Et ecce stella, quam viderant 
+in Oriente antecedebat eos, usque
+dum vivens [sic] staret supra, Dominum,
+ubi erat puer. Videntes autem stel-
+lam gavisi sunt gaudio magno
+valde. Et intrantes domum vive-
+nerunt [sic] puerum cum Marie ma-
+tre eius, et procedentes adoraver[un]t
+eum; et apertis tesauris suis, obtu-
+lerunt ei munera, aurÅ« thus et sop-
+Nis ab angelo ne redirent ad Hero-
+dem per aliam viam reversi sunt
+in regionem suam. <color=red>Scdâ€™m MarcÅ«</color>
+In illo tempore recumbenti-
+bus, undecim discipulis ap-
+
+/next/ # Fol. 24r
+paruit illis dominus Ihesus: expro-
+bravit incredulitatem illorum et
+duriciam cordis: quia hiis qui vi-
+derant eum resurrexisse a mortuis,
+non crediderunt. Et dixit eis: Euntes 
+in mundÅ« universum predicate 
+evangelium omni creature qui [sic]
+crediderit et baptizatus fuerit 
+salvus erit qui [sic] vero non crediderit 
+condempnabitur. Signa autem 
+eos que crediderunt hec sequentur. 
+In nomine meo demonia eiciÄ“t 
+linguis loquentur novis serpÄ“-
+tes tollent. Et si mortiferum q[ui]d 
+biberint non eis nocebit super 
+egros manus imponent et bene 
+habebunt. Et DnÌ„s quidem Ihesus 
+postqua[m] locutus est eis assump-
+
+/next/ # Fol. 24v
+tiis est in celum et sedet ad dexterÄ 
+Patris. Illi autem profecti predi-
+caverunt ubique domino cooperÄ-
+te et sermonem confirmante sequÄ“-
+tibus signis. Deo gracias.
+
+/next/ # Fol. 25r
+Blank page (back of the illumination)
  
+/next/ # Fol. 25v
+Illumination
+
+/next/ # Fol. 26r
+<color=red>Incipiunt Hore Beate Marie Vâ€™</color>
+<size=300%>D</size>omine labia mea 
+aperies. Et os meo
+annuntiabit laudÄ“
+tuam. <color=blue>D</color>eus in 
+adiutorium meÅ«
+intende. Domine 
+ad adiuvandum me festine. <color=#D1B000>G</color>lo-
+ria Patri, et Filio: et Spiritui sancto. 
+<color=blue>S</color>icut erat in principio, et nÅ«c,
+et semper: et in secula seculorÅ«. Ä€.
+<color=red>InvitatoriÅ«.</color> Ave Maria, gracia
+plena: Dominus tecum. <color=red>Psâ€™</color>
+<color=#D1B000>V</color>enite exultemus Domino,
+iubilemus Deo salutari nostro: pâ€™-
+ocupemus [sic] faciem eius in confes-
+sione: et in psalmis iubilemus
+ei. Ave Maria. <color=#D1B000>Q</color>[uonia]m Deus mag-
+
+/next/ # Fol. 26v
+nus Dominus, et rex magnus sup[er]
+omnes Deos: q[uonia]m non repellet DnÌ„s  
+plebem suam: quia in manu eius 
+sunt omnes fines terrae, et altitudi-
+nes moncium ipse conspicit. Do-
+minus tecÅ«. <color=blue>Q</color>[uonia]m  ipsius est ma-
+re, et ipse fecit illud: et aridam fun-
+daverunt manus eius: venite ado-
+remus, et procidamus ante Deum: 
+ploremus coram Domino, qui fe-
+cit nos: quia ipse est Dominus De-
+us noster: nos autem populus ei[us], 
+et oves pascuae eius. Ave Maria.
+<color=#D1B000>H</color>odie si vocem eius audieritis, 
+nolite obdurare corda vestra, sicut 
+in exacerbatione secundum diem 
+temptacionis [sic] in deserto: ubi temp-
+taverunt me patres vestri: proba-
+
+/next/ # Fol. 27r
+verunt, et viderunt opera mea. DnÌ„s
+tecum. <color=blue>Q</color>uadraginta annis prox-
+imus fui generationi huic et dixi, 
+semper hij errant corde: ipsi vero nÅ 
+cognoverunt vias meas: quibus 
+iuravi in [T] requiem mea. Ave           T. ira mea si introibÅ« in
+Maria, Gracia plena: DnÌ„s tecÅ«.
+<color=#D1B000>G</color>loria P[at]ri. <color=blue>S</color>icut erat. DnÌ„s 
+tecum. Ave Maria, gracia plena. 
+Dominus tecum. <color=red>Ymnus</color>. 
+<color=#D1B000>Q</color>uem terra, pontus, aethera
+colunt, adorant, predicÄt, TrinÄ
+regentem machinam, claustrÅ« 
+Marie baiulat. <color=#D1B000>C</color>ui luna, sol, 
+et omnia deserviunt per tempora:
+perfusa celi gracia, gestant puel-
+le viscera. <color=blue>B</color>eata mater mune-
+re, cuius supernus artifex, mun-
+
+/next/ # Fol. 27v
+dum pugillo continens, ventris 
+sub archa clausus est. Gloria 
+tibi Domine, qui natus es de vir-
+Gine, cum patre, et sancto spiritu,
+in sempiterna saecula, Amen.   <color=red>An</color>
+Benedicta tu                            <color=red>Psalmus</color>
+Domine DnÌ„s noster: q[uam] ad-
+mirabile est nomen tuum in
+univ[er]sa terra! Q[uonia]m elevata est mag-
+nificentia tua: super celos. Ex ore 
+infantium et lactantium perfe-
+cisti laudem propter inimicos 
+tuos: ut destruas inimicum, et 
+ultorem. Quoniam videbo celos 
+tuos opera digitorum tuorum: 
+lunam et stellas que tu fundas-
+ti. Quid est homo, quod memor 
+es eius: aut filius hominis, q[uonia]m 
+
+/next/ # Fol. 28r
+visitas eum? Minuisti eum pau-
+lo minus ab Angelis, gloria et ho-
+nore coronasti eum: et constituis-
+ti eum super opera manuum tu-
+arum. Omnia subiecisti sub 
+pedibus eius: oves et boves uni-
+versas, insuper et pecora campi.
+Volucres caeli, et pisces maris: 
+qui perambulant semitas ma-
+ris. Domine DnÌ„s noster: quam 
+admirabile est nomen tuum 
+in universa terra. Gloria p[at]ri. <color=red>A</color>:
+Benedicta tu in mulieribus, et be-
+nedictus fructus ventris tui. <color=red>AÃ±</color>:
+Sicut mirra. <color=red>Psalmus</color>:
+Celi enarrant gloria Dei
+et opera manÅ« tuarum eius annun-
+ciat firmamentum. Dies Diei
+
+/next/ # Fol. 28v
+eructat verbum, et nox nocti indi-
+cat scienciam. Non sunt loquele,
+neque sermones, quorum non au-
+diantur voces eorum. In omnÄ“ 
+terram exivit sonus eorum, et in 
+fines orbis terre verba eorum. In sole 
+posuit tabernaculÅ« suum; et ipse 
+tamquÄ sponsus procedens de tha-
+lamo suo. Exsultavit ut gygas 
+ad currendam viam; a summo ce-
+lo egressio eius. Et occursus eiâ€™ 
+usque ad summÅ« eius; nec est qui 
+se abscondat a calore eius. Lex 
+Domini Ä«maculata, convertens 
+animas; testimonium DnÄ« fidele, sapiÄ“-
+ciam prestans parvulis. Ius-
+ticie Domini recte, letificantes cor-
+da; preceptum Domini lucidum, 
+
+
+/next/ # Fol. 29r
+illuminans oculos. Timor Do-
+mini sanctus, permanens in seculÅ«
+seculi; iudicia Domini vera, iustifi-
+cata in semetipsa. Desiderabilia 
+super aurum et lapidem preciosum 
+multum; et dulciora super mel et 
+favum. Etenim servus tuus 
+custodit ea; in custodiendis illis retribu-
+cio multa. Delicta quis intel-
+ligit? ab occultis meis munda 
+me Domine; et ab alienis parce ser-
+vo tuo. Si mei non fuerint do-
+minati, tunc Ä«maculatus ero, et 
+emundabor a delicto maximo. Et 
+erunt ut complaceant eloquia ori[s]  
+mei, et meditacio cordis mei in 
+conspectu tuo semper. DnÌ„e, adiu-
+tor meus, et redemptor meus. Glâ€™a
+
+/next/ # Fol. 29v
+prÄ«. <color=red>A</color>: Sicut mirra electa, odorem
+dedisti suavitatis, sancta Dei ge-
+nitrix. <color=red>AÃ±</color>: Ante thorum. <color=red>Ps David</color>.
+Domini est terra, et plenitu-
+do eius: orbis terrarÅ«, et uni-
+versi qui habitant in eo. Quia 
+ipse super Maria fundavit eÅ«: 
+et super flumina preparavit 
+eum. Quis ascendit in montÄ“ 
+Domini: aut quis stabit in loco 
+sancto eius? Innocens mani-
+bus, et mundo corde, qui non ac-
+cepit in vano aÄ«am suam: nec 
+iuravit in dolo proximo suo. Hic 
+accipiet benedictionÄ“  a Domino: 
+et mÄ«am a Deo salutari suo. Haec 
+est generacio querencium eum: 
+querencium faciem Dei Iacob.
+
+/next/ # Fol. 30r
+Attollite portas principes v[est]ras, 
+et elevamini porte eternales: et Ä«-
+troibit rex glorie. Quis est iste rex 
+glorie? Dominus fortis et potens, 
+Dominus potens in prelio. At-
+tollite portas principes vestras, 
+et elevamini porte eternales: et 
+introibit rex glorie. Quis est 
+iste rex glorie? DnÌ„s virtutÅ«, ipse est 
+rex glorie. Gloria P[at]ri. <color=red>A</color>: Ante tho-
+rum huius virginis, frequenta-
+te nobis dulcia cantica drag-
+matis. <color=red>V[e]r[sus]</color>: Diffusa est gratia in 
+labiis tuis. Propterea benedixit 
+te Deus in eternum. Pater Noster. 
+Precibus et meritis beate 
+Marie virginis, et omniÅ« 
+sanctorum, perducat nos DnÌ„s ad 
+
+/next/ # Fol. 30v
+regna caelorum. Iube domine benedi-
+cere. Nos cum prole pia benedi-
+cat virgo Maria. Amen. <color=red>Lectio pri-</color>
+In omnibus requiem                 <color=red>ma</color>
+quesivi, et in hereditate Do-
+mini morabor. Tunc precepit, et 
+dixit mihi creator omnium, qui 
+creavit me, requievit in tabernaculo meo, 
+et dixit michi: In Iacob inhabi-
+ta, et in Israel hereditare, et in elec-
+tis meis mitte radices. Tu autÄ“ 
+Domine miserere n[ost]ri. Deo gracias.
+<color=red>R</color>: Beata et Ä«maculata virgini-
+tas, quibus te laudibus effera[m], 
+nescio: Quia, quem caeli capere nÅ 
+poterant, tuo gremio contulisti.
+<color=red>V[er]s[us]</color>: Benedicta tu in mulieribus, 
+et benedictus fructus ventris tui. 
+
+/next/ # Fol. 31r
+Quia, quem. Iube domine bene-
+Dicere. Sancta Dei genitrix sit no-
+bis auxiliatrix. Amen. <color=red>Le[c]tio s[e]c[un]da</color>
+Et sic in Syon firmata sum, 
+et in civitate sanctificata 
+similiter requiem: et in Ih[e]r[usa]l[e]m 
+potestas mea. Et radicavi in po-
+pulo honorifacto, et in partes Dei 
+mei hereditas illius: et in pleni-
+tudine sanctorum detencio mea. 
+Tu autem. <color=red>R</color>: Ffelix [sic] namque es 
+sacra virgo Maria, et omni lau-
+de dignissima: Quia ex te ortus 
+est Sol iusticie, Xpristus Deus n[oste]r.
+<color=red>V[er]s[us]</color>: Ora pro populo, interveni 
+pro clero, intercede pro devoto fe-
+mineo sexu: senciant omnes 
+tuum iuvamen, quicunque cele-
+
+/next/ # Fol. 31v
+brant tuam sanctam commemorationÄ“. 
+Quia ex te ortus est. Gloria P[at]ri. 
+Quia ex te ortus est sol iusticie, 
+Xpristus Deus n[oste]r. <color=red>Psalm[us]:</color>
+Te Deum laudamus: te DominÅ«  
+confitemur. Te eternum pa-
+trem: omnis terra veneratur. Ti-
+bi omnes angeli: tibi celi, et uni-
+verse potestates. Tibi cherubÄ«, 
+et seraphim: incessabili voce pro-
+clamant. Sanctus, SanctÅ«, 
+Sanctus: Dominus Deus Saba-
+oth. Pleni sunt celi, et terra: ma-
+iestatis glorie tue. Te gloriosus 
+apostolorum chorus. Te pro-
+phetarum laudabilis numerus.
+Te martyrÅ« candidatus lau-
+dat exercitus. Te per orbem 
+
+/next/ # Fol. 32r
+terrarÅ« sancta confitetur ecclesia.
+Patrem Ä«mense maiestatis.
+Venerandum tuum verum: 
+et unicum filium. Sanctum 
+quoque paraclitum spiritum. Tu 
+rex glorie Xpriste. Tu patris sÄ“-
+piternus es filius. Tu ad libe-
+randum suscepturus hominÄ“: 
+non horruisti virginis uterum.
+Tu, devicto mortis aculeo: a-
+peruisti credentibus regna celo[rum].
+Tu ad dexteram Dei sedes: in 
+gloriam patris. Iudex crederis 
+esse venturus. Te ergo ques[umus], 
+famulis tuis subveni: quos pre-
+cioso sanguine redemisti. Eter-
+na fac cum sanctis tuis: in gl[ori]a numerari.
+SalvÅ« fac populÅ« 
+
+/next/ # Fol. 32v
+tuum Domine: et benedic heredita-
+ti tue. Et rege eos: et extolle illos 
+usque in eternum. Per singulos 
+dies benedicimus te. Et lauda-
+mus nomen tuÅ« in s[e]c[u]l[u]m: et in 
+s[e]c[u]l[u]m seculi. Dignare Domine 
+die isto: sine p[e]c[ca]to nos custodire.
+Miserere n[ost]ri Domine: miserere n[ost]ri.
+Fiat mÄ«a tua DnÌ„e super nos: 
+quemadmodum speravimus 
+in te. In te Domine speravi: nÅ 
+confundar in eternum. Versus: Ora pro
+nobis, sancta Dei genitrix. Ut dig-
+ni efficiamur promissionibus XpÄ«.
+
+/next/ # Fol. 33r
+Deus. <color=red>Ad laudes</color>
+in adiutorium meÅ« 
+Intende. Domine ad
+adiuvandum me 
+festina. Gloria PrÄ«.
+Dominus regnavit, decore 
+indutus est: indutus est DnÌ„s 
+fortitudinem, et precinxit se. Et-
+enim firmavit orbem terre: qui nÅ 
+commovebitur. Parata sedes 
+tua ex tunc: a saeculo tu es. E-
+levaverunt flumina Domine: ele-
+vaverunt flumina vocem suam.
+Elevaverunt flumina fluctus 
+suos: a vocibus aquarÅ« multarÅ«.
+Mirabiles elaciones maris: mi-
+rabilis in altis Dominus. Tes-
+timonia tua credibilia facta sÅ«t 
+
+/next/ # Fol. 33v
+nimis: domum tuam decet sancti-
+tudo Domine, in longitudine dierum.
+Gloria Patri. <color=red>AÃ±</color>: Assumpta est 
+Maria in caelum: gaudent angeli, 
+laudantes et benedicunt DnÌ„m. <color=red>A</color>:
+Maria Virgo. <color=red>Psalmus Ddâ€™</color>
+Iubilate Deo omnis terra: ser-
+vite Domino in leticia. Introi-
+te in conspectu eius: in exultacio-
+ne. Scitote q[uo]ni[am] Dominus ipse Ä“ 
+Deus: ipse fecit nos, et non ipsi 
+nos. Populus eius, et oves pas-
+cue eius, introite portas eius in 
+confessione: atria eius in hymnis 
+confitemini illi. Laudate no-
+men eius, q[uonia]m suavis D[o]m[i]n[u]s: in e-
+ternum mÄ«a eius. Gloria PrÄ«.
+<color=red>An[tiphona]</color>: Maria Virgo assumpta est 
+
+/next/ # Fol. 34r
+ad ethereum thalamum, in quo 
+rex regum stellato sedet solio. <color=red>AÃ±</color>: In odorem. <color=red>Psalm[us]</color>
+Deus, Deus meus: ad te de luce 
+vigilo. Sitivit in te anima me-
+a: quam multipliciter tibi caro 
+mea. In terra deserta, invia, et ina-
+quosa, sic in sancto apparui ti-
+bi: ut viderem virtutem tuam, 
+et gloriam tuam. Q[uonia]m melior est 
+MÄ«a tua super vitas: labia mea 
+laudabunt te. Sic benedicam 
+te in vita mea: et in nomine tuo 
+levabo manus meas. Sicut 
+adype, et pinguidine repleatur 
+anima mea: et labiis exultacio-
+nis laudabit os meum. Sic me-
+mor fui tui super stratum meÅ«, 
+
+/next/ # Fol. 34v
+in matutinis meditabor in te: quia 
+fuisti adiutor meus. Et in vela-
+mento alarum tuarum exultabo, 
+adhaesit anima mea post te: me sus-
+cepit dextera tua. Ipsi vero in 
+vanum quesierunt animam me-
+am, introibunt in inferiora ter-
+re: tradentur in manus gladii, 
+partes vulpium erunt. Rex ve-
+ro letabitur in Deo, laudabitur 
+omnes, qui iurant in eo: quia 
+obstructum est os loquentium
+Deus misereatur.          iniqua.
+noster, et benedicat nobis: 
+illuminet vultum suum super 
+nos, et misereatur nostri. Ut cog-
+noscamus in terra viam tuam: 
+in omnibus gentibus saluta-
+
+/next/ # Fol. 35r
+re tuum. Confiteantur tibi po-
+puli Deus: confiteantur tibi p[o]p[u]li
+omnes. Letentur, et exultent gÄ“-
+tes, q[uonia]m iudicas populos in equi-
+tate: et gentes in terra dirigis.
+Confiteantur tibi populi Deus, 
+confiteantur tibi populi omnes: 
+terra dedit fructum suÅ«. Benedi-
+cat nos Deus et metuant eum o[mn]es 
+fines terre. Gloria PrÄ«. <color=red>A</color>: In odorÄ“
+unguentorum tuorum currimus: 
+adolescentule dilexerunt te nimis. 
+<color=red>AÃ±</color>: Benedicta filia. <color=red>Ps</color>: 
+Benedicite omnia opera DnÄ« 
+Domino: laudate et superexaltate 
+eum in secula. Benedicite an-
+geli Domini Domino: benedicite ce-
+li Domino. Benedicite aque o[mn]es 
+
+/next/ # Fol. 35v
+que super celos sunt Domino: bened[icite] 
+omnes virtutes Domini D[omi]no. Be-
+nedicite ymber, et ros Domino: bene-
+dicite omnis [sic] spiritus Dei Domino.
+Benedicite ignis, et estus Domino: 
+benedicite frigus, et estas Domino.
+Benedicite rores, et pruina Do-
+mino: bened[icite] gelu, et frigus Domino.
+Benedicite glacies, et nives Do-
+mino: bened[icite] noctes et dies Domino.
+Benedicite lux, et tenebre D[omi]no: 
+bened[icite] fulgura, et nubes Domino.
+Benedicat terra Dominum: lau-
+det, et superexaltet eum in secula.
+Benedicite montes et omnes
+colles DnÅ: benedicite universa 
+germinantia in terra Domino.
+Benedicite fontes Domino: be-
+
+/next/ # Fol. 36r
+nedicite mari, et flumina Domino.
+Benedicite cete, et omnia que 
+moventur in aquis, Domino: be-
+nedicite omnes volucres caeli DnÅ.
+Benedicite omnes bestiae, et peco-
+ra Domino: bened[icite] filii hominÅ« 
+Domino. Benedicat Israel D[o]m[inu]m: 
+laudet, et superexaltet eum in se-
+cula. Benedicite sacerdotes Do-
+mini DnÌ„o: benedicite servi DnÌ„i 
+DnÌ„o. Bened[icite] spiritus et anime 
+iustorum Domino: benedicite scÄ«, 
+et humiles corde Domino. Bene-
+dicite Anania, Azaria, Misael 
+Domino: laudate, et superexaltate 
+eum in secula. Benedicamus 
+patrem et filium cum sancto 
+spiritu: laudemus, et super[ex]alte-
+
+/next/ # Fol. 36v
+mus eum in secula. Benedictus 
+es Domine in firmamemto celi: 
+et laudabilis, et gloriosus, et super-
+exaltatus eum in secula. Amen.
+<color=red>AÃ±t</color>: Benedicta filia tu Domina: 
+quia per te fructum vite communi-
+cavimus. <color=red>AÃ±</color>: Pulchra es. <color=red>Ps Ddâ€™</color>: 
+Laudate D[o]m[inu]m de celis: lau-
+date eum in excelsis. Lau-
+date eum omnes angeli eius: 
+laudate eum omnes virtutes eius.
+Laudate eum sol, et luna: 
+laudate eum omnes stelle, et lu-
+men. Laudate eum celi celorum: 
+et aque omnes que super celos 
+sunt, laudent nomen Domini.
+Quia ipse dixit, et facta sunt: 
+ipse mandavit, et creata sunt.
+
+/next/ # Fol. 37r 
+Statuit ea in eternum, et in se-
+culum at in seculÅ« seculi: precep-
+tum posuit, et non preteribit.
+Laudate D[o]m[inu]m de terra: draco-
+nes et omnes abyssi. Ignis, 
+grando, nix, glacies, sp[iritu]s procel-
+larum: que faciu[n]t verbum ei[us].
+Montes, et omnes colles: lin-
+gua [sic] fructifera, et omnes cedri.
+Bestie, et univ[er]sa pecora: serpÄ“-
+tes, et volucres pennate. Reges 
+terre, et omnes populi: principes, 
+et omnes iudices terre. Iuve-
+nes, et virgines, senes cum iuni-
+oribus laudent nomen Domini: 
+quia exaltatum est nomÄ“ eius 
+solius. Confessio eius super 
+celum et terram: et exaltabit 
+
+/next/ # Fol. 37v 
+cornu populi sui. Hymnus om-
+nibus sanctis eius, filiis Israel: 
+populo appropinquanti sibi. <color=red>Ps</color>:
+Cantate Domino canticum 
+novum: laus eius in eccle-
+sia sanctorum. Letetur Israel 
+in eo, qui fecit eum: et filiae Syon 
+exultent in rege suo. Laude[n]t 
+nomen eius in choro: in tympa-
+no, et psalterio psallant ei. Quia 
+beneplacitum est Domino in po-
+pulo suo: et exaltavit mansue-
+tos in salutem. Exultabunt 
+sancti in gloria: laetabuntur in 
+cubilibus suis. Exaltationes 
+Dei in guctuere eorum: et gladij 
+ancipites in manibus eorum.
+Ad faciendam vindictam in 
+
+/next/ # Fol. 38r 
+nationibus: increpationes in po-
+pulis. Ad alligandos reges eorum 
+in conpedibus: et nobiles eorÅ« 
+in manicis ferreis. Ut faciant 
+in eis iudicium conscriptum: gl[ori]a 
+hec est omnibus sanctis eius.
+Laudate D[o]m[inu]m in sanctis eius: 
+laudate eum in firmamen-
+to virtutis eius. Laudate eum 
+in virtutibus eius: laudate eÅ«  
+secundum multitudinÄ“ mag-
+nitudinis eius. Laudate eum 
+in sono tube: laudate eum in psal-
+terio et cythara. Laudate eum 
+in tympano et choro: laudate eÅ« 
+in cordis, et organo. Laudate 
+eum in cymbalis iubilacionis: 
+omnis spiritus laudet D[o]m[inu]m.
+
+/next/ # Fol. 38v 
+Gloria PrÄ«. <color=red>AÃ±</color>: Pulchra es et deco-
+ra filia Ih[e]r[usa]l[e]m, terribilis ut castro-
+rum acies ordinata. <color=red>CapitulÅ«</color>: 
+Viderunt eam filie et beatissi-
+mam predicaverunt, et re-
+gine laudaverunt ea[m]. Deo gra[cia]s.
+Gloriosa domina excelsa
+supra sydera, qui te creavit 
+provide, lactasti sacro ubere. Quod 
+Eva tristis abstulit, tu reddis al-
+mo germine: intrent ut astra 
+flebiles, celi fenestra facta es. Tu 
+reddis [sic] alti ianua, et porta lucis 
+fulgida, vitam datam per virgi-
+nem, gentes redempte plaudite.
+Gloria tibi Domine, qui natus 
+est de virgine, cum Patre et sanc-
+to Spiritu, in sempiterna secula. 
+
+/next/ # Fol. 39r
+Amen. Versus: Benedicta tu in mu-
+lieribus, et benedictus fructus 
+ventris tui. <color=red>AÃ±</color>: Beata Dei. <color=red>Ps</color>:
+Benedictus DnÌ„s Deus Israel:
+quia visitavit, et fecit re-
+demptionem plebis sue. Et erex-
+it cornu salutis nobis in domo 
+David pueri sui. Sicut locutus
+est per os sanctorum: qui a se-
+culo sunt prophetarum eius. Sa-
+lutem ex inimicis nostris: et de 
+manu omniÅ« qui oderunt nos.
+Ad faciendam mÄ«am cum pa-
+tribus nostris: et memorari tes-
+tamenti sui sancti. Iusiuran-
+dum, quod iuravit ad AbrahÄ 
+patrem nostrum: daturum se no-
+bis. Ut sine timore, de manu 
+
+/next/ # Fol. 39v
+inimicorum nostrorum liberati: ser-
+viamus illi. In sanctitate, et ius-
+ticia coram ipso: omnibus die-
+bus nostris. Et tu puer, prophe-
+ta altissimi vocaberis: preibis enÄ« 
+ante faciem Domini, parare vi-
+as eius. Ad dandam scienciam 
+salutis plebi eius: in remissionÄ“ 
+peccatorum eorum. Per viscera 
+mÄ«e Dei nostri: in quibus visita-
+vit nos oriens ex alto. Illumi-
+nare hijs, qui in tenebris et in
+umbra mortis sedent: ad dirigÄ“-
+dos pedes nostros in viam pacis. 
+Gloria PrÄ«. A: Beata Dei genitrix
+Maria, virgo perpetua, templÅ« 
+Domini, sacrarium spiritus s[an]c[t]i: tu
+sola sine exemplo placuisti DnÌ„o 
+
+/next/ # Fol. 40r
+Ihesu Xpristo: ora pro populo, in-
+terveni pro clero, intercede pro de-
+voto femineo sexu. Kyrie eleison, 
+Christe eleison, Kyrie eleison. DnÌ„e exaudi.
+Deus, qui de beate Marie di [sic]
+virginis utero, verbum tuÅ«  
+angelo nunciante, carnem sus-
+cipere voluisti: pr[est]a supplicibus 
+tuis, ut qui vere eam Dei genitri-
+cem credimus: eius apud te intâ€™-
+cessionibus adiuvemur. Per eÅ«-
+dem Xpristum D[o]m[inu]m nostrum. A[men].
+<color=red>AÃ±</color>: Sancti Dei omnes intercedere 
+dignemini pro nostra, omniÅ«que 
+salute. <color=red>Vâ€™</color>: Letamini in D[o]m[in]o, et ex-
+ultate iusti. Et gloriamini om[ne]s
+recti corde. Oremus. <color=red>Oratio</color>:
+Protege Domine populum 
+
+
+/next/ # Fol. 40v
+tuÅ«: et apostolorum tuorÅ« Petri et 
+Pauli, et aliorum apostolorÅ« pa-
+trocinio confidentÄ“, perpetua defen-
+sione conserva. <color=red>Oracio</color>: Om[ne]s sancti tui qu[esum]us Domine 
+nos ubique adiuvent: ut dÅ« eorÅ« 
+merita recolimus, patrocinia sen-
+Et pacem tuÄ nostris        tiamus: 
+concede temporibus: et ab ec-
+clesia tua cunctÄ nequicia: iter, ac-
+tus, et voluntates nrÄs, et omniÅ« 
+famulorum tuorum in salutis 
+sue prosperitate dispone: benefac-
+toribus nostris sempiterna bona 
+retribue: et omnibus fidelibus de-
+functis requiem aeternam concede.
+Per Xpristum Dominum nostrÅ«.
+Amen.
+
+/next/ # Fol. 41r
+Deus <color=red>Ad primam</color>
+In adiutorium meÅ«
+intende. DnÌ„e ad ad-
+iuvandum me festi-
+na. Gloria PrÄ«. <color=red>Ymnus</color>
+Memento salutis auctor. Quod 
+nostri quondam corporis,
+ex illibata virgine nascendo, for-
+mam sÅ«pseris. Maria mater 
+gracie, mater mÄ«e, tu nos ab hos-
+te protege, et hora mortis susci-
+pe. Gloria tibi Domine, qui na-
+tus es de virgine, cum patre, et 
+sancto spiritu, in sempiterna secula. 
+Amen. <color=red>AÃ±</color>: Assumpta est. <color=red>Ps</color>:
+Deus in nomine tuo salvÅ« 
+me fac: et in virtute tua iudica 
+me. Deus exaudi orationem me-
+
+/next/ # Fol. 41v
+am: auribus percipe verba oris 
+mei. Q[uonia]m alieni insurrexerÅ«t 
+adversum me, et fortes quesi-
+erunt aÄ«mam meam: et non potu-
+erunt [sic] Deum ante conspectum 
+suum. Ecce enim Deus adiu-
+vat me et Dominus susceptor Ä“
+anima mea. Averte mala ini-
+micis meis: et in veritate tua 
+disperde illos. Voluntarie sacri-
+ficabo tibi: et confitebor nomini 
+tuo Domine, q[uonia]m bonum est. Q[uo]ni[am]
+ex omni tribulacione eripuisti 
+me: et super inimicos meos de-
+spexit oculus meus. <color=red>Ps</color>:
+Benedixisti Domine terram 
+tuam: avertisti captivitatem 
+Iacob. Remisisti iniquitatÄ“
+
+/next/ # Fol. 42r 
+plebis tue: operuisti omnia p[e]cc[at]a 
+eorum. Mitigasti omnem iram 
+tuam: avertisti ab ira indigna-
+cionis tue. Converte nos Deus 
+saluctaris n[oste]r: et averte iram tu-
+am a nobis. Nunquid in eter-
+num irasceris nobis: aut extendes 
+iram tuam a generacione in 
+generacionem? Deus tu conver-
+sus vivificabis nos: et plebs tua 
+letabitur in te. Ostende nobis 
+Domine mÄ«am tuam: et salu-
+tare tuum da nobis. Audiam 
+quid loquatur in me Dominus 
+Deus: quoniam loquetur pacÄ“ 
+in plebem suam. Et super s[an]c[t]os 
+suos: et in eos, qui convertuntur 
+ad cor. Veruntamen prope 
+
+/next/ # Fol. 42v 
+timentes eum salutare ipsius: ut 
+inhabitet gloria in terra n[ost]ra.
+MÄ«am et veritas obviaverunt 
+sibi: iusticia et pax osculate sunt.
+Veritas de terra orta est: et ius-
+ticia de celo prospexit. EtenÄ« 
+Dominus dabit benignitatÄ“: et t[er]ra 
+n[ost]ra dabit fructum suum. Ius-
+ticia ante eum ambulabit: et 
+ponet in via gressus suos.
+Laudate D[o]m[inu]m omnes gen-
+tes: laudate eum omnes po-
+puli. Q[uonia]m confirmata est super 
+nos mÄ«a eius: et veritas DomÄ«
+manet in eternum. Gloria PrÄ«.
+<color=red>A</color>: Assumpta est Maria in celÅ«:
+gaudent angeli, laudantes be-
+nedicunt D[o]m[inu]m. <color=red>Capitulum</color>
+
+/next/ # Fol. 43r 
+Que est ista, que progreditur, 
+quasi aurora consurgens, 
+pulchra ut luna, electa ut sol, terri-
+bilis ut castrorum acies ordina-
+ta. Deo gracias. Dignare me
+laudare te virgo sacrata. Da m[ihi] 
+virtutem contra hostes tuos. 
+KyrieleysÅ. Xpeleyson. Kyrie eley-
+son. Domine exaudi. Et clamor. <color=red>OrÌ„o</color>:
+Deus qui virginalem au-
+lam beate Marie, in qua 
+habitares, eligere dignatus es: 
+da qu[aesum]us: ut sua nos defensione 
+munitos, iucundos facias sue 
+intercesse commemoracioni. Qui 
+vivis et regnas Deus, per omnia 
+secula seculorum. Amen. <color=red>A</color>: 
+Sancti Dei omnes. <color=red>V[er]s[us]</color>: LetamÄ«
+
+/next/ # Fol. 43v
+in Domino. <color=red>Oratio</color>:
+Exaudi nos Deus salutari
+noster et apostolorum tuorum
+Petri et Pauli, et aliorum apos-
+tolorum nos tuere presidijs quo-
+rum donasti fideles esse doctrinis. 
+Omnes sancti tui. <color=red>Oratio</color>: 
+Et pacem tuam. Benedica-
+mus Domino. Deo gracias.  
+
+/next/ # Fol. 44r
+Deus <color=red>Ad terciam</color>
+in adiutorium me-
+um intende. DnÌ„e ad
+adiuvandum me 
+festina. Memento 
+salutis auctor. Maria mater 
+gr[ati]e. Gloria tibi DnÌ„e. <color=red>A</color>: Maria.
+Ad D[o]m[inu]m cum tribularet, 
+clamavi: et exaudivit 
+me. DnÌ„e libera aÄ«am meam 
+a labijs iniquis: et a lingua do-
+losa. Quid detur tibi, aut quid 
+apponatur tibi: ad linguam do-
+losam? Sagitte potentis acu-
+te: cum carbonibus desolatorijs.
+Heu mihi, quia incolatus me-
+us prolongatus est, habitavi cÅ« 
+habitationibus Cedar: multÅ« in-
+
+/next/ # Fol. 44v
+cola fuit anima mea. CÅ« hijs, 
+qui oderant pacem, eram pacifi-
+cus: cum loquebar illis, inpug-
+nabant me gratis. Gloria PrÄ«. <color=red>A</color>: 
+Levavi oculos meos in mÅ-
+tes: unde veniet auxilium 
+mihi. Auxilium meum a Do-
+mino: qui fecit celum et terram.
+Non det in commotionem pedÄ“  
+tuum: neque dormitet, qui custo-
+dit te. Ecce non dormitabit: ne-
+que dormiet, qui custodit Israel.
+Dominus custodit te, Dominus 
+protectio tua: super manum dex-
+teram tuam. Per diem sol non 
+uret te: neque luna per noctem. Do-
+minus custodit te ab omni ma-
+lo: custodiat aÄ«am tuam DnÌ„s.
+
+/next/ # Fol. 45r
+Dominus custodi[a]t introitum 
+tuum, et exitum tuum: ex hoc nÅ«c, 
+et usque in seculum. <color=red>Ps Ddâ€™</color>: 
+Letatus sum in hijs, que 
+dicta sunt michi: in domum Do-
+mini ybimus. Stantes erant 
+pedes nostri: in atrijs tuis Ih[ie]r[usa]l[e]m.
+Iherusalem que edificatur 
+ut civitas: cuius participacio ei[us] 
+in idipsum. Illuc enim ascÄ“-
+derunt tribus, tribus Domini, 
+testimoniÅ« Israel: ad confiten-
+dum nomini Domini. Quia 
+illic sederunt sedes in iudicio: se-
+des super domÅ« David. Rogate 
+que ad pacem sunt Iherusalem: 
+et abundancia diligentibus 
+te. Fiat pax in virtute tua: et 
+
+/next/ # Fol. 45v
+habundancia in turribus tuis.
+Propter fratres meos, et prox-
+imos meos: loquebar pacem de 
+te. Propter domum Domini Dei 
+nostri: quesivi bona tibi. Gl[ori]a 
+Patri. <color=red>A</color>: Maria virgo assumpta
+est ad ethereum thalamum: in 
+quo rex regum stellato sedet 
+Et sic in Syon firmata   solio.
+sum: et in civitate sancti-
+ficata similiter requievi, et in 
+Iherusalem potestas mea. Deo
+gracias. <color=red>Vâ€™</color>: Diffusa est gracia 
+in labijs tuis. Propterea bene-
+dixit te Deus in eternum. Kyrieley-
+son. Domine exaudi or[ati]onem
+meam. Et clamor meus ad te.
+
+/next/ # Fol. 46r
+Veniat. Oremus. <color=red>Oratio</color>: 
+Deus qui salutis eterne bea-
+te Marie virginitate fecunda, 
+humano generi premia presti-
+tisti, tribue qu[esum]us, ut ipsam pro 
+nobis intercede[re] sentiamus, per 
+quam meruimus auctorem 
+vite suscipere per eundem Christum 
+Dominum n[ost]r[u]m. Amen. <color=red>AÃ±t</color>: 
+Sancti Dei omnes. <color=red>V[er]s[us]</color>: Letamini
+in D[omi]no et exultate. <color=red>Oratio</color>:
+Protege Domine populum.
+Omnes sancti tui. <color=red>OrÌ„o</color>:
+Et pacem tuam. Benedi-
+camus Domino. Deo gracias. 
+
+/next/ # Fol. 46v
+Blank page
+
+
+/next/ # Fol. 47r
+Deus in <color=red>Ad sextam</color>. 
+adiutorum meÅ«
+intende. Domine
+ad adiuvandÅ« me
+festina. Memento
+salutis auctor. Maria mater
+grÄ“. Gloria tibi DnÌ„e. <color=red>A</color>: In odore.
+Ad te levavi oculos meos: 
+qui habitas in caelis. Ec-
+ce sicut oculi servorÅ«: in ma-
+nibus dominorum suorum.
+Sicut oculi ancille in ma-
+nibus domine sue: ita oculi 
+nostri ad D[o]m[inu]m Deum no[st]r[u]m, do-
+nec misereatur no[st]ri. Miserere 
+nostri Domine, miserere no[st]ri: 
+quia multum repleti sumus 
+despectione. Quia multum 
+
+/next/ # Fol. 47v
+repleta est anima nostra: obpro-
+brium habundantibus, et despec-
+tio superbis. <color=red>Psalmus</color>.
+Nisi quia DnÌ„s erat in nobis, 
+dicat nunc Israel: nisi quia DnÌ„s 
+erat in nobis. Cum exurgerÄ“t 
+homines in nos: forte vivos de-
+glutissent nos. Cum irascere-
+tur furor eorum in nos: forsitan 
+aqua absorbuisset nos. Tor-
+rentem pertransivit anima n[ost]ra: 
+forsitan pertransisset nos for [sic]
+nostra aquam intolerabilÄ“.
+Benedictus DnÌ„s: qui non de-
+dit nos in captionem dentibus eorum.
+Anima nostra sicut passer 
+erepta est: de laqueo venantiÅ«.
+Laqueus contritus est: et nos 
+
+/next/ # Fol. 48r
+liberati sumus. AdiutoriÅ« 
+nostrum in nomine Domini: 
+qui fecit celum et terram. <color=red>Ps</color>:
+Qui confidunt in Domino, 
+sicut mons Syon: non cÅ-
+movebitur in eternum, qui ha-
+bitat In Iherusalem. Montes 
+in circuitu eius, et DnÌ„s in cir-
+cuitu populi sui: ex hoc nunc 
+et usque in seculum. Quia nÅ 
+relinquet DnÌ„s virgam pecca-
+torum, super sortem iustorÅ«: 
+ut non extendant iusti ad ini-
+quitatem manus suas. Bene-
+fac Domine bonis: et rectis corde.
+Declinantes autem in obli-
+gationes adducet Dominus cÅ« 
+operantibus iniquitatem: pax 
+
+/next/ # Fol. 48v
+super Israel. Gloria PrÄ«. <color=red>AÃ±t</color>:  
+In odorem unguentorum tu-
+orum currimus adulescentu-
+le dilexerunt te nimis. <color=red>Capit[u]lâ€™</color>:
+Et radicavi in populo ho-
+norificato, et in partes Dei 
+mei hereditas illius: et in 
+plenitudine sanctorÅ« deten-
+cio mea. Deo gracias. <color=red>V[er]s[us]</color>: 
+Benedicta tu in mulieribus 
+et benedictus fructus ventris 
+tui. Kyrieleyson, XpÄ“leyson, Kyrieleyson. DnÌ„e exaudi or[ati]o-
+nem meam. Et clamor meus
+ad te veniat. <color=red>Oratio</color>:
+Concede misericors Deus 
+fragilitati n[ost]re presidium: ut, 
+qui sancte Dei genitricis Ma-
+
+/next/ # Fol. 49r
+rie memoriam agimus: inter-
+cessionis eius auxiliatrix a n[ost]ris 
+iniquitatibus resurgamus.
+Per eundem Xpristum DominÅ«
+nostrum. Amen. <color=red>AÃ±</color>: Sancti Dei
+omnes. <color=red>V[er]s[us]</color>: Letamini in DomÄ«o.
+Exaudi nos Deus. <color=red>Oratio</color>:
+Omnes sancti tui. <color=red>Oratio</color>:
+Et pacem tuam. Benedica-
+mus Domino. Deo gracias.
+
+/next/ # Fol. 49v
+Blank page
+
+/next/ # Fol. 50r
+Deus in <color=red>Ad nonam</color>. 
+adiutorum meÅ«
+intende. DnÌ„e ad ad-
+iuvandum me fes-
+tina. Memento sa-
+lutis auctor. Maria
+m[a]t[e]r. Gl[ori]a
+tibi DnÌ„e. <color=red>AÃ±</color>: Pulchra es. <color=red>Ps</color>:  
+In convertendo Dominum 
+captivitatem Syon: facti sumus 
+sicut consolati. Tunc repletÅ« 
+est gaudio os nostrum: et lin-
+gua nostra exultatione. TÅ«c 
+dicent inter gentes: magnifi-
+cavit DnÌ„s facere cum eis. Mag-
+nificavit DnÌ„s facere nobiscÅ«: 
+facti sumus letantes. Con-
+vertere [sic] Domine captivitatÄ“ 
+nostram: sicut torrens in aus-
+
+/next/ # Fol. 50v
+tro. Qui seminant in lacrimis: Ä« 
+exultacione metent. Euntes iba[n]t, 
+et flebant: mittentes semina sua.
+Venientes autem venient cÅ« 
+exultacione: portantes manipu-
+los suos. Gloria PrÄ«. <color=red>Ps</color>:  
+Nisi Dominus edificaverit 
+domum: in vanum laboraver[un]t 
+qui edificant eam. Nisi DnÌ„s cus-
+todierit civitatem: frustra vigilat 
+qui custodit eam. Vanum Ä“
+vobis ante lucem surgere: surgi-
+te, postquam sederitis, qui mandu-
+catis panem doloris. Cum dede-
+rit dilectis suis somnÅ«: ecce he-
+reditas Domini, filii merces, fructus 
+ventris. Sicut sagitte in ma-
+nu potentis: ita filij excussorÅ«.
+
+/next/ # Fol. 51r
+Beatus vir, qui non implevit 
+desiderium suÅ« ex ipsis: non cÅ-
+fundetur cum loquetur Ä«mi-
+cis suis in porta. <color=red>Psalmus</color>:
+Beati omnes qui timent 
+Dominum: qui ambulant in 
+vijs eius. Labores manuÅ« 
+tuarum quia manducabis: 
+beatus es, et bene tibi erit. Ux-
+or tua sicut vitis habundans: 
+in lateribus domus tue. Filij 
+tui sicut novelle olivarum: in 
+circuitu mense tue. Ecce sic 
+benedicetur homo: qui timent [sic]
+Dominum. Benedicat tibi Do-
+minus ex Syon: et videas bona 
+Iherusalem, omnibus diebus 
+vite tue. Et videas filios fi-
+
+/next/ # Fol. 51v
+liorum tuorum: pax super 
+Israel. Gloria PrÄ«. <color=red>AÃ±t</color>: Pulcra
+es et decora filia Iherusalem, ter-
+ribilis ut castrorum acies ordi-
+nata. <color=red>Capitulum</color>:
+In plateis sicut cynamo-
+mum, et balsamum aromati-
+sans odorem dedi: quasi mirra 
+electa dedi suavitatem odoris.
+Deo gracias. <color=red>V[er]s[us]</color>: Post partum
+virgo inviolata permansisti.
+Dei genitrix intercede pro nobis
+ad Dominum. Kyrileyson. XpÄ“-
+leyson. Kyrileyson. Domine
+exaudi orÅnem meam. Et cla-
+mor meus ad te veniat. <color=red>Oracio</color>:
+Famulorum tuorum, que-
+sumus, Domine, dilectis 
+
+/next/ # Fol. 52r
+ignosce: ut qui tibi placere de 
+actibus nostris non valemus: 
+genitricis filij tui Domini Dei 
+nostri intercessione salvemur. Per
+eundem Xpristum Dominum nos-
+trum. Amen. <color=red>AÃ±</color>: ScÄ« Dei omnes. <color=red>V[er]s[us]</color>:
+Letamini in Domino. <color=red>OrÌ„o</color>:
+Presta, quesumus, Domine 
+omnipotens Deus, ut nullis
+nos perturbacionibus concuti
+quos in apostolice confessionis 
+petra solidasti. <color=red>Alia oracio</color>:
+Omnes sancti tui. <color=red>Oracio</color>:
+Et pacem tuam. Benedi-
+camus Domino. Deo gracias.
+
+/next/ # Fol. 52v
+Blank page.
+   
+/next/ # Fol. 53r
+Deus in <color=red>Ad vesperas</color>. 
+adiutorum meum
+intende. D[omi]ne ad ad-
+iuvandum me festi-
+na. <color=red>A</color>: Dum esset. <color=red>Ps</color>:
+Dixit Dominus Domino meo: 
+sede a dextris meis. Donec 
+ponam inimicos tuos: scabellÅ« 
+pedum tuorum. Virgam vir-
+tutis tuae emittet DnÌ„s ex Syon: do-
+minare in medio inimicorum 
+tuorÅ«. Tecum principium in 
+die virtutis tue in splendoribus 
+sanctorum: ex utero ante luci-
+ferum genui te. Iuravit Do-
+minus, et non penitebit eÅ«: 
+tu es sacerdos in eternum, se-
+cundum ordinem Melchisedech.
+
+
+/next/ # Fol. 53v
+Dominus a dexteris tuis: con-
+fregit in die ire sue reges. Iudi-
+cabit in nacionibus, implebit 
+ruinas: conquassabit capita in 
+terra multorÅ«. De torrente Ä« via 
+bibet: propterea exaltabit caput.
+Gloria PrÄ«. <color=red>A</color>: Dum esset rex in ac-
+cubitu a suo, nardus mea dedit 
+odorem suavitatis. <color=red>A</color>: Leva. <color=red>Ps</color>:
+Laudate pueri D[o]m[inu]m: laudate 
+nomen Domini. Sit nom[en] 
+Domini benedictum: ex hoc nÅ«c, 
+et usque in seculum. A solis or-
+tu usque ad occasÅ«: laudabile no-
+men Domini. Excelsus super 
+omnes gentes DnÌ„s: et super celos 
+gloria eius. Quis sicut DnÌ„s 
+Deus n[oste]r, qui in altis habitat: 
+
+/next/ # Fol. 54r
+humilia respexit in celo et in 
+terra? Suscitans a terra in-
+opem: et de stercore erigens paupe-
+perem [sic]. Ut collocet eum cum 
+principibus: cum principibus 
+populi sui. Qui habitare facit 
+sterilem in domo: matrem filiorum 
+letantem. Gloria PrÄ«. <color=red>AÃ±</color>: Leva eius 
+sub capite meo, a dextera illius 
+amplexabitur me. <color=red>AÃ±</color>: Nigra sÅ«.
+Letatus sum in hijs, que 
+dicta sunt michi: in domÅ« 
+Domini ybimus. Stantes 
+erant pedes nostri: in atrijs tuis 
+Ih[e]r[usa]l[e]m. Ih[e]r[usa]l[e]m que edificatur 
+ut civitas: cuius participacio eius 
+in idipsum. Illic enim as-
+cenderunt tribus, tribus DomÄ«, 
+
+/next/ # Fol. 54v
+testimonium Israel: ad confiten-
+dum nomini Domini. Quia il-
+lic sederunt sedes in iudicio: sedes 
+super domum David. Rogate 
+que ad pacem sunt Ih[e]r[usa]l[e]m: et ha-
+bundancia diligentibus te. Fiat 
+pax in virtute tua: et habunda[n]-
+cia in turribus tuis. Prop-
+ter Dominum Domini Dei nostri: q[ue]-
+sivi bona tibi. Gloria PrÄ«. <color=red>AÃ±</color>: 
+Nigra sum, sed formosa filia 
+Ih[e]r[usa]l[e]m: ideo dilexit me Rex, et in-
+troduxit me in cubiculum suÅ«.
+Nisi Dominus <color=red>AÃ±</color>: Jam. <color=red>Ps</color>: 
+edificaverit domum: in 
+vanum laboraverunt qui edi-
+
+/next/ # Fol. 55r
+ficant eam. Nisi DnÌ„s custodie-
+rit civitatem: frustra vigilat qui 
+custodit eam. Vanum est vobis 
+ante lucem surgere: surgite, post-
+quam sederitis, qui manduca-
+tis panem doloris. Cum dede-
+rit dilectis suis somnÅ«: ecce he[re]-
+ditas Domini, filij merces, fructus 
+ventris. Sicut sagitte in manu 
+potentis: ita filij excussorum. Be-
+atus vir, qui implevit desi-
+derium suum ex ipsis: non con-
+fundetur cum loquetur inimicis suis in porta. Gl[ori]a Patri.
+<color=red>AÃ±</color>: Jam hyemps tra[n]sijt: ymber 
+abijt, et recessit: surge amica mea, 
+et veni. <color=red>A</color>: Speciosa. <color=red>Ps Ddâ€™</color>:
+Lauda Iherusalem D[o]m[inu]m.
+
+/next/ # Fol. 55v
+lauda Deum tuum Syon. Q[uonia]m 
+confortavit seras portarÅ« tu-
+arum: benedixit filijs tuis in te.
+Qui posuit fines tuos pacem, 
+adype frumenti satiat te. Qui 
+emittit eloquium suÅ« terre: ve-
+lociter currit sermo eius. Qui 
+dat nivem sicut lanam: nebu-
+lam sicut cynerem spargit. Mit-
+tit cristallum suÅ« sicut buccel-
+las: ante faciem frigoris eius 
+quis sustinebit? Emittet ver-
+bum suÅ«, et liquefaciet ea: flabit 
+spiritus eius, et fluent aque.
+Qui annunciat verbum suÅ« 
+Iacob: iusticias, et iudicia sua 
+Israel. Non fecit taliter omni 
+nationi: et iudicia sua non ma-
+
+/next/ # Fol. 56r
+nifestavit eis. Gloria PrÄ«. <color=red>A</color>: Specio-
+sa facta es, et suavis in delicijs tu-
+is, sancta Dei genitrix. <color=red>CapitulÅ«</color>:
+Ab inicio, et ante secula crea-
+ta sum, et usque ad futurÅ« 
+seculum non desinam: et in ha-
+bitacione sancta coram ipso mi-
+nistravi. Deo gracias. <color=red>Ymnus</color>:
+Ave maris stella, Dei mater 
+alma, atque semper virgo, felix 
+celi porta. Sumens illud ave,
+Gabrielis ore, funda nos in pace,
+mutans nomen Eve. Solve 
+vincula reis, profer lumen cecis:
+mala nostra pelle, bona cuncta 
+posce. Monstra te esse matrem,
+sumat per te preces, qui pro no-
+bis natus tulit esse tuus. Vir-
+
+/next/ # Fol. 56v
+go singularis inter omnes mitis,
+nos culpis solutos, mites fac, et 
+castos. Vitam presta puram, iter 
+para tutum, ut videntes Ihesum,
+semper collaetemur. Sit laus Deo 
+patri, summo Xpristo decus, Spi[rit]Å« 
+sancto, honor tribus et unus. Am[en]. 
+<color=red>Vâ€™</color>: Diffusa est gracia in labijs 
+tuis. Propterea benedixit te Deus 
+in eternÅ«. <color=red>A</color>: Beata m[ate]r.
+Magnificat: anima mea D[omi]n[u]m.
+Et exultavit spiritus meus: Ä« 
+Deo salutari meo. Quia respex-
+it humilitatem ancille sue: ecce 
+enim ex hoc beatam me dicent 
+omnes generaciones. Quia fe-
+cit michi magna, qui potens Ä“: 
+est [sic] sanctum nomen eius. Et 
+
+/next/ # Fol. 57r
+mÄ«a eius, a progenie in proge-
+nies: timentibus eum. Fecit po-
+tenciam in brachio suo: dispersit 
+superbos mente cordis sui. De-
+posuit potentes de sede: et exalta-
+vit humiles. Esurientes imple-
+vit bonis: et divites dimisit in-
+anes. Suscepit Israel puerÅ« 
+suum: recordatus mÄ«e sue. Sicut 
+locutus est ad patres nostros: 
+Abraham, et semini eius in s[e]c[u]la.
+Gloria PrÄ«. <color=red>Antâ€™</color>: Beata mater
+et Ä«nupta virgo gloriosa regina 
+mundi, intercede pro nobis ad 
+Dominum. Kyrieleyson. XpÄ“ley-
+son. Kyrieleyson. Domine ex-
+audi or[ati]onem meam. Et clamor
+meus ad te veniat. <color=red>Oratio</color>:
+
+/next/ # Fol. 57v
+Concede nos famulos tuos 
+tuos [sic] quesumus Domine 
+Deus perpetua mentis, et corpo-
+ris salute gaudere: et gloriosa 
+beate Marie semper virginis 
+intercessione a praesenti libera-
+ri tristicia, et eterna perfrui leti-
+cia. Per Christum D[omi]n[u]m nostrÅ«. 
+Amen. <color=red>AÃ±</color>: S[an]ctÄ« Dei omnes. <color=red>Versus</color>:
+Letamini in Domino. <color=red>Oracio</color>:
+Protege Domine p[o]p[u]l[u]m. <color=red>Oracio</color>:
+Et pacem tuam. Benedica-
+mus Domino. Deo gracias.
+
+/next/ # Fol. 58r
+Converte <color=red>Ad completoriÅ«</color>.
+nos Deus salutaris n[oste]r. 
+Et averte ira[m] tuam 
+a nobis. Deus in ad-
+iutorium meum.
+Sepe expugnaverunt me a 
+iuventute mea: dicat nÅ«c 
+Israel. Sepe expugnaverunt 
+me a iuventute mea: etenim nÅ 
+potuerunt michi. Supra dorsÅ« 
+meum fabricaverunt peccatores: 
+prolongaverunt iniquitatem 
+suam. DnÌ„s iustus concidet cer-
+vices peccatorum: confundantur, 
+retrorsum omnes, qui oderunt Sion. Fi-
+ant sicut fenum tectorum: quod 
+priusquam evellatur, exaruit. De 
+quo non implevit manum sua[m], 
+
+/next/ # Fol. 58v
+qui metet: et sinum suum, qui 
+manipulos suos. Et non dix-
+erunt qui preteribant, benedic-
+tio Domini super vos: benediximus 
+vobis in nomine Domini.
+De profundis clamavi ad 
+te Domine: DnÌ„e exaudi vocem 
+meam. Fiant aures tue in-
+tendentes: in vocÄ“ deprecationis 
+mee. Si iniquitates observa-
+veris Domine: DnÌ„e quis sustine-
+bit? Quia apud te propicia-
+cio est: et propter legem tuam 
+sustinui te DnÌ„e. Sustinuit 
+aÄ«a mea in verbo eius: spera-
+vit anima mea in DnÌ„o. A custo-
+dia matutina usque ad noctÄ“: 
+speret Israel in DnÌ„o. Quia apud 
+
+/next/ # Fol. 59r
+D[o]m[inu]m misericordia: et copiosa apud 
+eum redemptio. Et ipse redimet 
+Israel: ex oÄ«bus Ä«iquitatibus eius.
+Domine non est exaltatÅ« cor 
+meÅ«: neque elati sÅ«t oculi 
+mei. Neque ambulavi in mag-
+nis: neque in mirabilibus super 
+me. Si non humiliter sencie-
+bam: sed exaltavi aÄ«am meam.
+Sicut ablactatus super ma-
+trem suam: ita retribucio in aÄ«a me-
+a. Speret Israel in D[omi]no: ex hoc 
+nunc et usque in seculum. <color=red>Cap[itulum]</color>:
+Ego mater pulcre dilectioÄ«s, 
+et timoris, et magnitudi-
+nis, et sancte spei. Deo gracias. <color=red>Vâ€™</color>:
+Ora pro nobis sancta Dei genitrix.
+â€‹â€‹Ut digni efficiamur promissionÄ“
+
+/next/ # Fol. 59v
+Xpristi. <color=red>AÃ±</color>: Sub tuum. <color=red>Ps</color>:
+Nunc dimittis servum tuÅ«  
+Domine: secundum verbum tu-
+um in pace. Quia viderunt oclÄ« 
+mei: salutare tuum. Quod pa-
+rasti: ante faciem o[mn]i[u]m populorÅ«.
+Lumen ad revelacionem gen-
+cium: et gloriam plebis tuae Isr[ae]l.
+<color=red>AÃ±</color>: Sub tuum presidiÅ« confugi-
+mus sancta Dei genitrix: nostras 
+deprecaciones ne despicias in 
+necessitatibus: sed a periculis 
+cunctis libera nos semper virgo semper, 
+benedicta. Kyriel[eyson]. XpÄ“l[eyson]. Kyriel[eyson]. 
+D[omi]ne exaudi. Oremus. <color=red>Oro</color>: 
+Beate, et gloriose s[em]p[er] virgi-
+nis, intercessio gloriosa nos p[ro]tegat, 
+et ad vitam p[er]ducat et[er]nam. P[er] 
+
+/next/ # Fol. 60r
+<color=red>Aâ€™</color>: S[an]c[t]i Dei oÄ“s. <color=red>Vâ€™</color>: LetamÄ« in D[omi]no. <color=red>Oro</color>: 
+Exaudi nos Deus. <color=red>Oratio</color>:
+Omnes sancti tui. <color=red>Oratio</color>:    
+Et pacem tuam. Benedica-
+mus Domino. Deo gra[ci]as. <color=red>AÃ±t</color>: 
+Salve regina misericor-
+die, vita, dulcedo et spes 
+nostra salve. Ad te cla-
+mamus exsules filij Eve, ad te 
+suspiramus gementes, et flen-
+tes in hac lacrimarum valle. 
+Eya ergo advocata nostra il-
+los tuos misericordes oculos ad nos 
+converte. Et Ihesum benedictÅ«,  
+fructum ventris tui, nobis post 
+hoc exilium ostende. O clemens, 
+O pia, O dulcis Maria.<color=red>V[er]s[us]</color>: Ave
+Maria gracia plena DnÌ„s tecÅ«.
+
+/next/ # Fol. 60v
+Benedicta tu in mulieribus et be-
+nedictus fructus ventris tui. <color=red>OrÌ„o</color>: 
+Omnipotens sempiterne Deus, 
+qui gloriose virginis ma-
+tris Marie corpus et aÄ«am, ut dig-
+ni filii tui habitaculum effici 
+mereretur, cooperante spiritu s[an]c[t]o 
+preparasti: da, ut cuius commo-
+racione [sic] letamur: eius pia inter-
+cessione ab instantibus malis, 
+et a morte perpetua liberemur.
+Per Xpm D[o]m[inu]m n[ost]r[u]m. Amen.
+
+/next/ # Fol. 61r
+Back of the illumination
+
+/next/ # Fol. 61v
+Illumination
+
+/next/ # Fol. 62r
+<color=red>Incipiunt septem psalmi David</color>
+Domine ne in furo-
+re tuo arguas me:
+neque in ira tua 
+corripias me. Mi-
+serere mei Domine, 
+quoniam infir-
+mus sum: sana me Domine, q[uonia]m 
+conturbata sunt ossa 
+mea. Et anima mea turbata 
+est valde: sed tu DnÌ„e usquequo.
+Convertere Domine, et eripe 
+animam meam: salvum me 
+fac propter mÄ«am tuam. Q[uonia]m 
+non est in morte, qui memor 
+sit tui: in inferno autem quis 
+confitebitur tibi? Laboravi
+in gemitu meo, lavabo per 
+
+/next/ # Fol. 62v
+singulas noctes lectum meum: la-
+crimis meis stratum meÅ«, rigabo.
+Turbatus est a furore oculus 
+meus: inveteravi inter omnes iÄ«-
+micos meos. Discedite a me om[ne]s, 
+qui operamini iniquitatem: q[uonia]m 
+exaudivit Dominus vocem fle-
+tus mei. Exaudivit DnÌ„s depre-
+cacionem meam: DnÌ„s or[ati]onem 
+meam suscepit. Erubescant, et 
+conturbentur vehementer om[ne]s 
+inimici mei: convertantur, et eru-
+bescant valde velociter. <color=red>Ps</color>:
+Beati quorum remissae sunt 
+iniquitates: et quorÅ« tecta sunt 
+peccata. Beatus vir cui non Ä«-
+putavit DnÌ„s peccatum: nec est 
+in spiritu eius dolus.
+Q[uonia]m ta-
+
+/next/ # Fol. 63r
+cui, inveteraverunt ossa mea: dÅ« 
+clamarem tota die. Q[uonia]m die, ac 
+nocte gravata est super me manus 
+tua: conversus sum in erumpna 
+mea, dum configitur spina. De-
+lictum meum cognitum tibi fe-
+ci: et iniusticiam meam non ab-
+scondi. Dixi, confitebor adversÅ« 
+me iniusticiam meam Domino: et 
+tu remisisti impietatem peccati 
+mei. Pro hac orabit ad te omnis 
+sanctus: in tempore oportuno. Ve-
+rumptamen in diluvio aquarum 
+multarum: ad eum non approxi-
+mabunt. Tu es refugiÅ« meum 
+a tribulatione, que circumdedit me: 
+exultacio mea, erue me a circum-
+dantibus me. Intellectum ti-
+
+/next/ # Fol. 63v
+bi dabo, et instruam te in via hac, 
+qua gradieris: firmabo super te o-
+culos meos. Nolite fieri sicut e-
+quus et mulus: quibus non est 
+intellectus. In chamo et freno 
+maxillas eorum constringe: qui 
+non approximant ad te. Multa 
+flagella peccatoris: sperantem 
+autem in Domino misericordia 
+circumdabit. Letamini in D[omi]no, 
+et exultate iusti: et gloriamini 
+omnes recti corde. <color=red>Psalmus</color>:
+Domine ne in furore tuo ar-
+guas me: neque in ira tua corri-
+pias me. Q[uonia]m sagittae tuae in-
+fixe sunt michi: et confirmasti 
+super me manum tuam. Non 
+est sanitas in carne mea a facie 
+
+/next/ # Fol. 64r
+ire tue: non est pax ossibus meis 
+a facie peccatorum meorum. Q[uonia]m 
+iniquitates mee supergresse sÅ«t 
+caput meum: et sicut onus grave 
+gravate sunt super me. Putru-
+erunt, et corruptae sunt cycatrices 
+mee: a facie insipienciae mee. Mi-
+ser factus sum, et curvatus sum 
+usque in finem: tota die contrista-
+tus ingrediebar. Q[uonia]m lumbi 
+mei impleti sunt illusionibus: 
+et non est sanitas in carne mea.
+Afflictus sum, et humiliatus 
+sum nimis: rugiebam a gemitu 
+cordis mei. DnÌ„e ante te omne 
+desiderium meum: et gemitus 
+meus a te non est absconditus.
+Cor meum conturbatum est, 
+
+/next/ # Fol. 64v
+dereliquit me virtus mea: et lu-
+men oculorum meorum, et ipsÅ« 
+non est mecum. Amici mei, et 
+proximi mei: adversum me appro-
+pinquaverunt, et steterunt. Et 
+qui iuxta me erant, de longe stete-
+runt: et vim faciebant, qui quere-
+bant animam meam. Et qui 
+inquirebant mala michi, locuti 
+sunt vanitates: et dolos tota die me-
+ditabantur. Ego autem tamquam 
+surdus non audiebam: et sicut 
+mutus non aperiens os suum.
+Et factus sum sicut homo non 
+audiens: et non habens in ore suo 
+redargutiones. Q[uonia]m in te Domine 
+speravi: tu exaudies Domine 
+Deus meus. Quia dixi, ne quando 
+
+/next/ # Fol. 65r
+supergaudeant michi Ä«imici mei: 
+et dum commoventur pedes mei, 
+super me magna locuti sunt. Q[uonia]m
+ego in flagella paratus sum: et dolor 
+meus in conspectu meo semper.
+Q[uonia]m iniquitatem meam annÅ«-
+ciabo: et cogitabo pro peccato meo.
+Inimici autem mei vivunt, et 
+confirmati sunt super me: et mul-
+tiplicati sunt, qui oderunt me inique.
+Qui retribuunt mala pro bonis, 
+detrahebant michi: q[uonia]m sequebar 
+bonitatem. Ne derelinquas me 
+Domine Deus meus: ne discesseris 
+a me. Intende in adiutorium 
+meum: D[omi]ne Deus salutis mee. <color=red>Ps</color>:
+Miserere mei Deus: secundum 
+magnam mÄ«am tuam.
+
+/next/ # Fol. 65v
+Et secundum multitudinem mi-
+seracionum tuarÅ«: dele iniquitatÄ“  
+meam. Amplius lava me ab ini-
+quitate mea: et a peccato meo mÅ«-
+da me. Q[uonia]m iniquitatem meam 
+ego cognosco: et peccatum meum 
+contra me est semper. Tibi soli 
+peccavi, et malum coram te feci: 
+ut iustificeris in sermonibus tu-
+is, et vincas cum iudicaris. Ecce 
+enim in iniquitatibus conceptus 
+sum: et in peccatis concepit me 
+mater mea. Ecce enim verita-
+tem dilexisti: incerta et occulta 
+sapiencie tue manifestasti michi.
+Asperges me Domine ysopo, et 
+mundabor: lavabis me, et super 
+nivem dealbabor. Auditui meo 
+
+/next/ # Fol. 66r
+dabis gaudium, et leticiam: et exul-
+tabunt ossa humiliata. Averte 
+faciem tuam a peccatis meis: et o[mn]es 
+iniquitates meas dele. Cor mun-
+dum crea in me Deus: et rect [sic] spiritÅ« 
+rectum innova in visceribus me-
+is. Ne proicias me a facie tua: et 
+spiritum sanctum tuum ne au-
+feras a me. Redde michi leticiam 
+salutaris tui: et spiritu principa-
+li confirma me. Docebo Ä«iquos 
+vias tuas: et impij ad te conver-
+tentur. Libera me de sanguini-
+bus Deus, Deus salutis mee: et ex-
+ultabit lingua mea iusticiam tu-
+am. D[omi]ne labia mea aperies: et 
+os meum annunciabit laudem 
+tuam. Q[uonia]m si voluisses, sacrifi-
+
+/next/ # Fol. 66v
+um [sic] dedissem utique: holocaustis nÅ 
+delectaberis. Sacrificium Deo sp[iritu]s 
+contribulatus: cor contritum, et 
+humiliatum Deus non despicies.
+Benigne fac Domine in bona vo-
+luntate tua Syon: ut edificentur 
+muri Iherusalem. Tunc accep-
+tabis sacrificium iusticie, oblacio-
+nes, et holocausta: tunc inponent 
+super altare tuum vitulos. <color=red>Ps</color>:
+Domine exaudi or[ati]onem mea[m]: 
+et clamor meus ad te veniat.
+Non avertas faciem tua[m] a me: 
+in quacumque die tribulor, incli-
+na ad me aurem tua[m]. In qua-
+cumque die invocavero te: velociter 
+exaudi me. Quia defecerunt si-
+cut fumus, dies mei: et ossa mea 
+
+/next/ # Fol. 67r
+sicut gremium aruerunt. Per-
+cussus sum, ut fenum, et aruit 
+cor meum: quia oblitus sum co-
+medere panem meÅ«. A voce ge-
+mitus mei: adhaesit os meum car-
+ni mee. Similis factus sum 
+pellicano solitudinis: factus sÅ« 
+sicut nicticorax in domicilio. Vi-
+gilavi: et factus sum sicut passer 
+solitarius in tecto. Tota die ex-
+probrabant michi inimici mei: 
+et qui laudabant me, adversÅ«  
+me iurabant. Quia cynerem ta[m]-
+quam panem manducabam: 
+et poculum meum cum fletu mis-
+cebam. A facie ire et indignacioÄ«s 
+tue: quia elevans allisisti me.
+Dies mei sicut umbra declina-
+
+/next/ # Fol. 67v
+verunt: et ego sicut fenum arui. Tu 
+autem Domine in eternum perma-
+nes: et memoriale tuum in gene-
+ratione, et generationem. Tu ex-
+surgens Domine misereberis Syon: 
+quia tempus miserendi eius, q[ui]a 
+venit tempus. Q[uonia]m placuerunt 
+servis tuis lapides eius: et terre 
+eius miserebuntur. Et timebÅ«t 
+gentes nomen tuum Domine: et o[mn]es 
+reges terre gloriam tuam. Quia 
+edificavit Dominus Syon: et vide-
+bitur in gloria sua. Respexit in 
+or[ati]onem humiliÅ«: et non sprevit 
+precem eorÅ«. Scribantur hec in 
+generatione altera: et populus q[ui] 
+creabitur, laudabit Dominum. Q[ui]a 
+prospexit de excelso sancto suo: Do-
+
+/next/ # Fol. 68r
+minus de celo in terram aspexit.
+Ut audiret gemitus conpedito-
+rum: ut solveret filios interemp-
+torum. Ut annuncient in Syon 
+nomen Domini: et laudem eius in 
+Iherusalem. In conveniendo 
+populos in unum: et reges ut ser-
+viant Domino. Respondit ei 
+in via virtutis sue: paucitatem 
+dierum meorÅ« nuncia michi. Ne 
+revoces me in dimidio dierum me-
+orum: in generacione, et generatio-
+nem anni tui. Inicio tu DnÌ„e 
+terram fundasti: et opera manuÅ« 
+tuarÅ« sunt celi. Ipsi peribunt, 
+tu autem permanes: et omnes si-
+cut vestimentum veterescent. Et 
+sicut opertorium mutabis eos, 
+
+/next/ # Fol. 68v
+et mutabuntur: tu autem idem 
+ipse es, et anni tui non deficient.
+Filij servorum tuorum habi-
+tabunt: et semen eorum in secu-
+lum dirigetur. <color=red>Psalmus</color>:
+De profundis clamavi ad 
+te Domine: DnÌ„e exaudi vocem 
+meam. Fiant aures tue inten-
+dentes: in vocem deprecacionis 
+mee. Si iniquitates observa-
+veris Domine: Domine quis susti-
+nebit? Quia apud te propicia-
+cio est: propter legem tuam 
+sustinui te Domine. Sustinuit 
+anima mea in verbo eius: spe-
+ravit anima mea in Domino.
+A custodia matutina usque ad 
+noctem: speret Israel in Domino.
+
+/next/ # Fol. 69r
+Quia apud D[o]m[inu]m misericordia: 
+et copiosa apud eum redemptio. Et 
+ipse redimet Israel: ex omnibus 
+iniquitatibus eius. <color=red>Ps</color>:
+Domine exaudi or[aci]onem mea[m], au-
+ribus percipe obsecrationÄ“ mea[m]: 
+in veritate tua, exaudi me in tu-
+a iustitia. Et non intres in iu-
+dicium cum servo tuo: quia nÅ  
+iustificabitur in conspectu tuo Å-
+nis vivens. Quia persecutus 
+est inimicus aÄ«am mea[m]: humi-
+liavit in terra vita[m] mea[m]. Collo-
+cavit me in obscuris sicut mor-
+tuos seculi: et anxiatus est super 
+me spiritus meus, in me turba-
+tum est cor meÅ«. Memor fui 
+dierum antiquorum, meditatus 
+
+/next/ # Fol. 69v
+sum in omnibus operibus tuis: et in 
+factis manuÅ« tuarum medita-
+bar. Expandi manus meas ad 
+te: anima mea sicut terra sine a-
+qua tibi. Velociter exaudi me 
+Domine: defecit spiritus meus. NÅ 
+avertas faciem tuam a me: et si-
+milis ero descendentibus in lacÅ«.
+Auditam fac michi mane mi-
+sericordiam tuam: quia in te spe-
+ravi. Notam fac michi viam, 
+in qua ambulÄ“: quia ad te leva-
+vi animam meam. Eripe me de 
+inimicis meis, Domine, ad te cÅ-
+fugi: doce me facere voluntatÄ“ 
+tuam, quia Deus meus es tu.
+Spiritus tuus bonus deducet 
+me in terram rectam: propter 
+
+/next/ # Fol. 70r
+nomen tuum Domine vivifica-
+bis me in equitate tua. Educes 
+de tribulacione animam meam: 
+et in mÄ«a tua disperdes omnes
+inimicos meos. Et perdes om[ne]s, 
+qui tribulant aÄ«am meam: q[uonia]m 
+ego servus tuus sum. <color=red>Letania</color>:
+KyrieleysÅ. XpeleysÅ. Ky-
+Rieleyson. XpÄ“ audi nos.
+Pater de celis Deus, miserere no-
+bis. Filij redemptor mundi Deus, 
+miserere nobis. Spiritus s[an]c[t]i 
+Deus, miserere nobis. Sancta 
+Trinitas unus Deus, miserere no-
+bis. Sancta Maria, or[a pro nobis].
+Sancta Dei genitrix, or[a pro nobis].
+Sancta virgo virginÅ«, or[a pro nobis].
+Sancte Michael, or[a pro nobis].
+
+/next/ # Fol. 70v
+Sancte Gabriel, or[a pro nobis].
+Sancte Raphael, or[a pro nobis].
+Omnes s[an]c[t]i angeli et archangeli, or[ate pro nobis].
+Sancte IohanÄ“s Baptista, or[a pro nobis].
+Sancte Petre, or[a pro nobis].
+Sancte Paule, or[a pro nobis].
+Sancte Andrea, or[a pro nobis].
+Sancte Iacobe, or[a pro nobis].
+Sancte Iohannes, or[a pro nobis].
+Sancte Thoma, or[a pro nobis].
+Sancte Iacobe, or[a pro nobis].
+Sancte Philippe, or[a pro nobis].
+Sancte Bertolmee, or[a pro nobis].
+Sancte Mathee, or[a pro nobis].
+Sancte Symon, or[a pro nobis].
+Sancte Thadee, or[a pro nobis].
+Sancte Barnabas, or[a pro nobis].
+Sancte Marce, or[a pro nobis].
+
+/next/ # Fol. 71r
+Sancte Luca, or[a pro nobis].
+Om[ne]s sancti ap[osto]li, or[a pro nobis].
+Sancte Stephane, or[a pro nobis].
+Sancte Line, â€‹â€‹or[a pro nobis].
+Sancte Clete, or[a pro nobis].
+Sancte Clemens, or[a pro nobis].
+Sancte Livine, or[a pro nobis].
+Sancte Amande, or[a pro nobis].
+Sancte Bavo, or[a pro nobis].
+Sancte Sixte, or[a pro nobis].
+Sancte Calixte, or[a pro nobis].
+Sancte Corneli, or[a pro nobis].
+Sancte Cypriane, or[a pro nobis].
+Sancte Quintine, or[a pro nobis].
+Sancte Laurenti, or[a pro nobis].
+Sancte Vincenti, or[a pro nobis].
+Sancte Jorgi, or[a pro nobis].
+Sancte XpÅfore, or[a pro nobis].
+
+/next/ # Fol. 71v
+Sancte Dyonisi, or[a pro nobis].
+Sancte Maurissi, or[a pro nobis].
+Sancte Damiane, or[a pro nobis].
+Sancte Fabiane, or[a pro nobis].
+Sancte Sebastiane, or[a pro nobis].
+Sancte Gervasi, or[a pro nobis].
+Sancte Crispiane, or[a pro nobis].
+Sancte Blasi, or[a pro nobis].
+Om[ne]s s[an]c[t]i martires, or[ate pro nobis].
+Sancte Silvester, or[a pro nobis].
+Sancte Leo, or[a pro nobis].
+Sancte Gregori, or[a pro nobis].
+Sancte Augustine, or[a pro nobis].
+Sancte Ambrosi, or[a pro nobis].
+Sancte Iheronime, or[a pro nobis].
+Sancte Nicholae, or[a pro nobis].
+Sancte Martine, or[a pro nobis].
+Sancte Bernarde, or[a pro nobis].
+
+/next/ # Fol. 72r
+Sancte Wilbrodi, or[a pro nobis].
+Om[ne]s s[an]c[t]i confessores, or[ate pro nobis].
+Sancta Maria Magd[alena], or[a pro nobis].
+Sancta Agnes, or[a pro nobis].
+Sancta Felicitas, or[a pro nobis].
+Sancta Alma, or[a pro nobis].
+Sancta Perpetua, or[a pro nobis].
+Sancta Agatha, or[a pro nobis].
+Sancta Cecilia, or[a pro nobis].
+Sancta Katherina, or[a pro nobis].
+Sancta Barbara, or[a pro nobis].
+Sancta Margareta, or[a pro nobis].
+Sancta Petronilla, or[a pro nobis].
+Sancta Brigida, or[a pro nobis].
+Sancta Gertrudis, or[a pro nobis].
+Sancta Adeltrudis, or[a pro nobis].
+Sancta Clara, or[a pro nobis].
+Sancta Ursula, or[a pro nobis].
+
+/next/ # Fol. 72v
+Omnes sanctes virgines, or[ate pro nobis].
+Omnes s[an]c[t]i, et s[an]c[t]e Dei, or[ate pro nobis].
+Propicius esto parce. Libera nos D[omi]ne.
+Ab omni malo, lib[era]. Ab insidiis di-
+aboli, lib[era]. Ab dampnacione 
+perpetua, lib[era]. A morte subitanea, 
+lib[era]. Per incarnacionÄ“ tuam,
+lib[era]. Per nativitatem tuam, l[ibera].
+Per circumcisionem tuam, lib[era].
+Per baptisimum tuum, lib[era]. Per
+passionem crucem et mortem
+tuam, l[ibera]. Per resurrecionem tua[m],
+lib[era]. Per admirabilem ascencio-
+nem tuam, l[ibera]. Per graciam s[an]c[t]i
+spiritus paracliti, l[ibera]. Peccatores, 
+te rogamus audi nos. Ut pacÄ“ 
+nobis dones. T[e] r[ogamus]. Ut mÄ«a et pie-
+tas tua nos custodiat. T[e] r[ogamus]. Ut 
+
+/next/ # Fol. 73r
+Ut omnibus fidelibus defunctis req[ui]-
+em eternam dones. T[e] r[ogamus]. Ut nos 
+exaudire digneris. T[e] r[ogamus]. Ut nos ex-
+audi. T[e] r[ogamus]. Fili Dei. T[e] r[ogamus]. Agnus
+Dei, qui tollis peccata mundi, par-
+ce nobis Domine. Agnus Dei, qui 
+tollis peccata mundi, exaudi nos 
+Domine. Agnus Dei, qui tollis pec-
+cata mundi, dona nobis pacem.
+Kyrieleyson. XpÄ“leyson. Ky-
+rileyson. XpÄ“ audi nos. Pater 
+noster. Et  ne nos. Domine exau-
+di. Et clamor. Oremus. <color=red>OrÌ„o</color>:
+Deus cui propriÅ« est mise-
+reri, suscipe deprecacionem n[ost]ram: 
+ut nos, delictorum cathena con-
+stringit, miseracio tue pietatis 
+cbsolvat. Per Christum. <color=red>Oracio</color>:
+
+/next/ # Fol. 73v
+Fidelium Deus omniÅ« condi-
+tor, et redemptor, animabus 
+famulorum, famularum que tu-
+arum remissionem cunctorum 
+tribue peccatorum: ut indulgenti-
+am, quam semper optaverunt, 
+pijs supplicacionibus consequa[n]-
+tur. Requiescant in pace. Amen.
+
+/next/ # Fol. 74r
+Blank page (back of the illumination)
+
+/next/ # Fol. 74v
+Illumination
+
+/next/ # Fol. 75r
+<color=red>Incipiunt vigilie mortuorum
+AÃ±</color>: Placebo. <color=red>Ps Ddâ€™</color>:
+Dilexi, quoniam ex-
+audiet Dominus: vocem or[ati]onis mee.
+Quia inclina-
+vit aurem suam 
+michi: et in diebus meis invoca-
+bo. Circumdederunt me dolores 
+mortis et pericula inferni inve-
+nerunt me. Tribulacionem, et 
+dolorem inveni: et nomen DnÄ« Ä«-
+vocavi. O Domine, libera aÄ«am 
+meam, misericors DnÌ„s, et iustus: 
+et Deus n[oste]r miseretur. Custodi-
+ens parvulos Dominus: humi-
+liatus sum, et liberavit me. CÅ-
+vertere anima mea in requiem 
+
+/next/ # Fol. 75v
+tuam: quia DnÌ„s benefecit tibi. Quia 
+eripuit aÄ«am meam de morte: ocu-
+los meos a lacrimis, pedes meos 
+a lapsu. Placebo Domino: in re-
+gione vivorÅ«. Requiem eterna[m] 
+dona eis Domine: et lux perpetua 
+luceat eis. <color=red>AÃ±</color>: Placebo Domino
+in regione vivorum. <color=red>AÃ±</color>: Heu m[ichi].
+Ad D[omi]n[u]m cum tribularer. <color=red>AÃ±</color>: 
+Heu michi quia incolatus me-
+us prolongatus est. <color=red>AÃ±</color>: DnÌ„s. <color=red>Ps</color>
+Levavi oculos meos. <color=red>AÃ±</color>: DnÌ„s 
+custodit te ab omni malo, custo-
+diat aÄ«am tuam DnÌ„s. AÃ±: Si.  Ps
+De profundis clamavi. AÃ±: Si 
+iniquitates observaveris DomÄ«e: 
+Domine quis sustinebit? <color=red>AÃ±</color>:
+Opera manum tuarÅ«. <color=red>Ps</color>
+
+
+/next/ # Fol. 76r
+Confitebor tibi Domine in to-
+to corde meo: q[uonia]m audisti ver- omnia
+ba oris mei. In conspectu ange-
+lorum psallam tibi: adorabo ad 
+templum sanctum tuum, et con-
+fitebor nomini tuo. Super mÄ«a 
+tua, et veritate tua: q[uonia]m magni-
+ficasti super omne nomen sanctÅ« 
+tuum. In quacumque die invo-
+cavero te, exaudi me: multiplica-
+bis in anima mea virtutem.
+Confiteantur tibi Domine o[mn]es 
+reges terre: quia audierunt om[n]ia 
+verba oris mei [sic]. Et cantent in 
+vijs Domini: q[uonia]m magna est gl[ori]a 
+Domini. Q[uonia]m excelsus DnÌ„s, et 
+humilia respicit: et alta a longe 
+cognoscit. Si ambulavero Ä« 
+
+/next/ # Fol. 76v
+medio tribulationis, vivificabis 
+me: et super iram inimicorÅ« me-
+orum extendisti manum tua[m], 
+et salvum me fecit dextera tua.
+DnÌ„s retribuet pro me, Domine 
+mÄ«a tua in seculum: opera manu-
+um tuarum ne despicias. Re-
+quiem eternam. <color=red>AnÌ„</color>: Opera ma-
+nuum tuarum ne despicias. <color=red>Vâ€™</color>: 
+Audivi vocem de celo dicentem 
+michi. Beati mortui qui in 
+Domino moriuntur. <color=red>A</color>: Omne.
+Magnificat anima mea D[omi]n[u]m.
+Requiem et[er]nam. <color=red>AnÌ„</color>: Omne, 
+quod dat michi Pater, ad me ve-
+niet, et eum qui venit ad me, 
+non eiiciam foras. Pater noster.
+Et ne nos. Sed libera. <color=red>Psalmus</color>:
+
+/next/ # Fol. 77r
+Lauda anima mea D[omi]n[u]m: 
+laudabo D[omi]n[u]m in vita mea: 
+psallam Deo meo quamdiu fu-
+ero. Nolite confidere in principi-
+bus: in filijs hominÅ«, in quibus 
+non est salus. Exibit spiritus 
+eius, et revertet[ur] in terram suam: 
+in illa die peribunt omnes co-
+gitaciones eorum. Beatus cu-
+ius Deus Iacob adiutor eius, spes 
+eius in Domino Deo ipsius: qui 
+fecit celum et terra[m], mare et o[m]nia 
+que in eis sunt. Qui custodit 
+veritatem in seculum, facit iu-
+dicium iniuriam pacientibus: 
+dat escam esurientibus. D[omi]n[u]m
+solvit conpeditos: DnÌ„s illumi-
+nat cecos. Dominus erigit ely-
+
+/next/ # Fol. 77v
+sos: Dominus diligit iustos. Do-
+minus custodit advenas, pu-
+pillum et viduam suscipiet: 
+et vias peccatorum disperdet.
+Regnabit DnÌ„s in secula, Deus 
+tuus Syon: in generacione et ge-
+neracionem. Requiem eterna[m]. 
+<color=red>A</color>: A porta inferi. Erue Domine 
+animas eorum. D[omi]ne exaudi. <color=red>OrÌ„o</color>:
+Inclina Domine aurem 
+tuam ad preces nostras
+quibus mÄ«am tuam supplices
+deprecamur ut aÄ«am famuli
+tui quam de hoc seculo migra-
+re uissisti, in pacis ac lucis re-
+gione co[n]stituas et sancrorum tuorum iubeas
+esse consortem. <color=red>Oratio</color>:
+Fidelium Deus o[mn]i[u]m. <color=red>In</color>
+   
+/next/ # Fol. 78r
+<color=red>prÄ«o nocturno A</color>: Dirige. <color=red>Ps</color>:
+Verba mea auribus percipe 
+Domine: intelligite [sic] clamorem me-
+um. Intende voci orationis 
+mee: rex meus, et Deus meus. Q[uonia]m 
+ad te adorabo Domine: mane exau-
+dies vocem meam. Mane asta-
+bo tibi, et videbo: quoniam non 
+Deus volens iniquitatem tu es.
+Neque habitabit iuxta te ma-
+lignus: neque permanebunt in-
+iusti ante oculos tuos. Odisti om[ne]s, 
+qui operantur iniquitatÄ“: perdes 
+omnes, qui locuuntur mendaci-
+um. Virum sanguinÅ« et dolo-
+sum abhominabitur DnÌ„s: ego 
+autem in multitudine mÄ«e tue.
+Introibo in domum tuam: a-
+
+/next/ # Fol. 78v
+dorabo ad templum sanctum tu-
+um in timore tuo. DnÌ„e deduc 
+me in iusticia tua propter ini-
+micos meos: dirige in conspectu 
+tuo viam meam. Q[uonia]m non Ä“
+in ore eorum veritas: cor eorum 
+vanum est. Sepulcrum patens 
+est guttur eorum: linguis suis 
+dolose agebant, iudica illos De-
+us. Decidant a cogitacionibus 
+suis, secundum multitudinem 
+impietatÅ« eorum expelle eos: q[uonia]m
+irritaverunt te Domine. Et le-
+[ten]tur omnes, qui sperant in te: in 
+eternum exultabunt, et habita-
+bis in eis. Et gloriabuntur in 
+te omnes, qui diligunt nomÄ“ 
+tuum: q[uonia]m tu benedices iusto.
+
+/next/ # Fol. 79r
+Domine ut scuto bone volÅ«-
+tatis tue: coronasti nos. Requi-
+em eternam. <color=red>AÃ±</color>: Dirige Domine Deus 
+meus in conspectu tuo viam 
+meam. <color=red>AÃ±</color>: Convertere. <color=red>Psalmus</color>:
+Domine ne in furore tuo. <color=red>AÃ±</color>: 
+Convertere Domine, et eripe aÄ«am 
+meam: q[uonia]m non est in morte, q[u]i 
+memor sit tui. <color=red>AÃ±</color>: Nequando. <color=red>Ps</color>: 
+Domine Deus meus in te spera-
+vi: salvum me fac ex o[mn]i-
+bus persequentibus me, et libe
+ra me. Nequando rapiat ut 
+leo aÄ«am meam: dum non Ä“ q[u]i 
+redimat, neque qui salvum fa-
+ciat. DnÌ„e Deus meus si feci is-
+tud: si est iniquitas in manibus 
+meis. Si reddidi retribuentibus 
+
+/next/ # Fol. 79v
+michi mala: decidam merito ab 
+inimicis meis inanis. Perseq[ua]t[ur] 
+inimicus aÄ«am meam, et com-
+prehendat, et conculcet in terra 
+vitam meam: et gloriam meam 
+in pulverem deducat. Exsurge 
+Domine in ira tua: et exaltare Ä« 
+finibus inimicorum meorum.
+Et exsurge Domine Deus me-
+us in precepto, quod mandasti: 
+et synagoga populorÅ« circum-
+dabit te. Et propter hanc in 
+altum regredere: DnÌ„s iudicat po-
+pulos. Iudica me Domine se-
+cundum iusticiam meam: et se-
+cundum innocentiam meam 
+super me. Consumetur nequi-
+cia peccatorÅ«, et diriges iustÅ«: 
+
+/next/ # Fol. 80r
+scrutans corda et renes Deus.
+Iustum adiutorium meÅ« 
+a Domino: qui salvos facit rectos 
+corde. Deus iudex iustus, fortis, 
+et patiens: numquid irascitur per 
+singulos dies? Nisi conversi 
+fueritis, gladium suÅ« vibravit: 
+arcum suÅ« tetendit, et paravit 
+illum. Et in eo paravit vasa 
+mortis: sagittas suas ardentibus 
+effecit. Ecce parturit iniusti-
+ciam, concepit dolorem: et pepe-
+rit iniquitatem. Lacum ape-
+ruit, et effodit eum: et incidit 
+in foveam, quam fecit. Con-
+vertetur dolor eius in capud 
+eius: et in verticem ipsius ini-
+quitas eius descendet. Con-
+
+/next/ # Fol. 80v
+fitebor Domino s[e]c[un]d[u]m iusticiam eius: 
+et psallam nomini Domini altis-
+simi. Requiem eternam. <color=red>A</color>: Ne-
+quando rapiat ut leo aÄ«am me-
+am, dum non est qui redimat, ne-
+que qui salvum faciat. <color=red>V</color>: A porta 
+inferi. Erue Domine aÄ«as eorÅ«.
+Pater n[oste]r. <color=red>Lectio prima</color>:
+Parce michi Domine: nichil 
+enim sunt dies mei. Quid est ho-
+mo, quia magnificas eum: aut 
+quid apponis erga eum cor tuÅ«? 
+Visitas eum diluculo, et subito 
+probas illum. Usquequo non parcis 
+michi, nec dimittis me, ut gluciam 
+salivam meam? Peccavi. Quid fa-
+ciem tibi, o custos hominum? Quare 
+me posuisti contrarium tibi, et 
+
+/next/ # Fol. 81r
+factus sum michimetipsi gravis? 
+Cur non tollis peccatum meum? 
+Et quare non aufers iniquitatÄ“ 
+meam? Ecce nunc in pulvere dor-
+mio [sic], et si mane me quesieris, nÅ 
+subsistam. <color=red>R</color>: Credo quod redemp-
+tor meus vivit: et in novissimo 
+die de terra surrecturus sum. Et 
+in carne mea videbo Deum sal-
+vatorÄ“ meum. <color=red>V[er]s[us]</color>: Quem visurus 
+sum ego ipse, et non alius, et oc[u]li 
+mei conspecturi sunt. Et in carne.
+Tedet aÄ«am meam <color=red>L[e]ct[i]o s[e]c[un]da</color>
+vite mee, dimittam adver-
+sum me eloquium meum. Lo-
+quar in amaritudine anime 
+mee: Dicam Deo, noli me condemp-
+nare. Iudica [sic] michi, cur me ita 
+
+/next/ # Fol. 81v
+iudices. Numquid bonum tibi vi-
+detur, si calumpn[i]eris, et opprimas 
+me, opus manuÅ« tuarum, et cÅ-
+silium impiorum adiuves? NÅ«-
+quid oculi carn[e]i tibi sunt: aut, 
+sicut videt homo, et tu videbis? 
+Numquid sicut dies hominis dies 
+tui, et anni tui sicut humana 
+sunt tempora, ut q[ue]ras iniqui-
+tatem meam, et peccatum meÅ« 
+scruteris? Et scias, quia nichil 
+impiÅ« fecerim, cum sit nemo, 
+qui de manu tua possit eruere.
+<color=red>R</color>: Qui Lazarum resuscitasti a mo-
+numento fetidum. Tu eis D[omi]ne do-
+na requiem, et locum indulgÄ“-
+cie. <color=red>Vâ€™</color>: Qui venturus es iudicare 
+vivos et mortuos, et seculum per ignÄ“. 
+
+/next/ # Fol. 82r
+Tu eis DnÌ„e. <color=red>Lectio tercia</color>
+Manus tue Domine fecerunt 
+me, et plasmaverunt me totum 
+in circuitu: et sic repente precipi-
+tas me? Memento, queso, quod si-
+cut lutum feceris me, et in pul-
+verem reduces me. Nonne sicut 
+lac mulsisti me, et sicut caseÅ«  
+me coagulasti? Pelle, et carnibus 
+vestisti me: ossibus, et nervis 
+compegisti me. Vitam et mÄ«am 
+tribuisti michi, et visitacio tua 
+custodivit spiritum meum. <color=red>R</color>: 
+Libera me Domine de morte eterna, 
+in die illa tremenda, quando 
+celi movendi sunt, et terra: dÅ« 
+veneris iudicare seculum per 
+ignem. <color=red>Vâ€™</color>: Dies illa dies ire, cala-
+
+/next/ # Fol. 82v
+mitatis, et misere, dies magna et 
+amara valde. Dum veneris iu-
+dicare seculum per ignem. <color=red>Vâ€™</color>: Requi-
+em eternam dona eis Domine: et 
+lux perpetua luceat eis. Libera me. 
+Dum veneris. <color=red>AÃ±</color>: ExultabÅ«t. <color=red>Ps</color>:
+Miserere mei Deus: s[e]c[un]d[u]m. <color=red>AÃ±t</color>: 
+Exultabunt Domino ossa huÄ«-
+liata. <color=red>AÃ±</color>: Exaudi Deus or[ati]onem.
+Te decet ymnus Deus in Syon: 
+et tibi reddetur votum in 
+Iherusalem. Exaudi or[ati]onem 
+meam: ad te omnis caro veniet.
+Verba iniquorÅ« prevaluerÅ«t 
+super nos: et impietatibus n[ost]ris 
+tu propitiaberis. Beatus quÄ“ 
+elegisti, et assumpsisti: inhabi-
+tabit in atrijs tuis. Replebi-
+
+/next/ # Fol. 83r
+mur in bonis domus tue: s[an]ct[u]m 
+est templum tuÅ«, mirabile in e-
+quitate. Exaudi nos Deus sa-
+lutaris n[oste]r: spes Ånium finium 
+terre, et in mari longe. Preparans 
+montes in virtute tua accinctus 
+potencia: qui conturbas profun-
+dum maris, sonum fluctuum 
+eius. TurbabÅ«tur, gentes et ti-
+mebunt qui inhabitant terminos 
+a signis tuis: exitus matutini et 
+vespere delectabis. Visitasti ter-
+ram, et inebriasti eam: multi-
+plicasti locupletare eam. Flu-
+men Dei repletum est aquis: pa-
+rasti cibum illorÅ«, q[uonia]m ita est prepa-
+ratio eius. Rivos eius inebrians 
+multiplica genimina eius: in 
+
+/next/ # Fol. 83v
+stillicidijs eius letabitur germinans.
+Benedices corone anni benigni-
+tatis tue, et campi tui replebuntur 
+ubertate. Pinguescent speciosa 
+deserti: et exultacione colles accin-
+gentur. Induti sunt arietes ovi-
+um, et valles habundabunt et
+etenim ymnum dicent. Requiem
+eternam. <color=red>AÃ±</color>: Exaudi Deus oracionÄ“
+meam, ad te omnis caro veniet. 
+<color=red>AÃ±</color>: Me suscepit. <color=red>Ps</color>: Deus Deus meus.
+Deus misereatur nostri. <color=red>AÃ±</color>: 
+Me suscepit dextera tua Domine.
+<color=red>AÃ±</color>: A porta inferi. <color=red>Psalmus</color>: 
+Ego dixi in dimidio dierÅ« 
+meorum: vadam ad portas infe-
+ri. Quesivi residuum annorum 
+meorum: dixi, non videbo D[o]m[inu]m 
+
+/next/ # Fol. 84r
+Deum in terra vivenciÅ«. Non 
+aspiciam hominem ultra: et ha-
+bitatorem quietis. Generacio
+mea ablata est: et convolata [sic] est 
+a me, quasi tabernaculum posto-
+rum. Precisa est velud a texen-
+te vita mea, dum adhuc ordirer, 
+succidit me: de mane usque ad ves-
+peram finies me. Sperabam 
+usque ad mane: quasi leo sic cÅ-
+trivit omnia ossa mea. De ma-
+ne usque ad vesperam finies me: 
+sicut pullus hyrundinis, sic 
+clamabo, meditabor ut columba.
+Attenuati sunt oculi mei: sus-
+picientes in excelsum. DnÌ„e vim 
+pacior, responde pro me: quid dica[m], 
+aut quid respondebit mihi, cÅ« 
+
+/next/ # Fol. 84v
+ipse fecerim? Recogitabo tibi o[mn]es 
+annos meos: in amaritudine aÄ«e 
+mee. DnÌ„e si sic vivitur, et in ta-
+libus vita spi[r]i[tu]s mei, corripies me, 
+et vivificabis me: ecce in pace a-
+maritudo mea amarissima. Tu 
+autem eruisti aÄ«am meam ut 
+non periret: proiecisti post tergÅ« 
+tuum omnia peccata mea. Quia 
+non infernus confitebitur tibi, 
+neque mors laudabit te: non expec-
+tabunt qui descendunt in lacÅ«, 
+veritatem tuam. Vivens vi-
+vens ip[s]e confitebitur tibi, sicut 
+et ego hodie: pater filijs nota[m] faci-
+et veritatem tuam. DnÌ„e salvÅ« 
+me fac: et psalmos nostros can-
+tabimus cunctis diebus vite 
+
+/next/ # Fol. 85r
+nostre, in domo Domini. Requi-
+em eterna. <color=red>A</color>: A porta inferi erue 
+Domine aÄ«as eorum. <color=red>AÃ±</color>: O[mn]is sp[iritu]s.
+Laudate D[o]m[inu]m de celis. <color=red>Ps Ddâ€™</color>
+Cantate Dominum canticÅ«. <color=red>Ps</color>:
+Laudate D[o]m[inu]m in sanctis. <color=red>A</color>: O[mn]is
+spirits laudet D[o]m[inu]m. <color=red>V[er]s[us]</color>: Audivi
+vocem de celo dicentem michi. 
+Beati mortui qui in Domino mo-
+riuntur. <color=red>AÃ±</color>: Ego sum. <color=red>Ps</color>:
+Benedictus DnÌ„s Deus Isr[ae]l. <color=red>AÃ±t</color>: 
+Ego sum resurrectio et vita: qui 
+credit in me, eciam si mor-
+tuus fuerit, vivet, et omnis qui 
+credit in me, nÅ morietur in eter-
+num. Pater n[oste]r. Et ne nos. <color=red>Ps</color>:
+De profundis. <color=red>A</color>: A porta inferi.
+Erue DnÌ„e aÄ«as eorÅ«. DnÌ„e exaudi.
+
+/next/ # Fol. 85v
+di [sic]. Et clamor. Oremus. <color=red>Oracio</color>:
+Partem beate resurrectionis 
+optineant anime omnium fide-
+lium defunctorum, vitamque ha-
+bere mereantur in celis per te Ih[esu]m
+Xpriste salvator mundi, qui cum
+patre et sancto spiritu, qui [sic] vivas
+et regnas Deus, per omnia secula 
+seculorum. Amen.  
+
+/next/ # Fol. 86r
+Blank page. 
+
+/next/ # Fol. 86v
+Blank page. 
+
+/next/ # Fol. 87r
+Blank page. 
+
+
+/next/ # Fol. 87v
+Blank page. 
+
+
+/next/ # Fol. 88r
+Blank page. 
+
+/next/ # Fol. 88v
+Blank page. 
+
+/next/ # Fol. 89r
+Blank page. 
+
+
+/next/ # Fol. 89v
+Blank page. 
+
+/next/ # Fol. 90r
+Blank page. 
+
+/next/ # Fol. 90v
+Rare books
+Vault
+Z
+105.5
+1450
+C378
