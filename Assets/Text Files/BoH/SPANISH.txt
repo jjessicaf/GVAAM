@@ -1,89 +1,3247 @@
-<align=left>Kalends    Diciembre XXXI
-<align=left>Luna                             XXX
-<align=left>xiij   f
-<align=left>  ii    g
-<align=left>        a
-<align=left>x      b Santa Barbara, virgen 
-<align=left>        c
-<align=left>xviij d Nicolás obispo
-<align=left>  vii  e
-<align=left>        f Concepción de María
-<align=left>xv    g
-<align=left>  iiij  A
-<align=left>        b
-<align=left>xii    c
-<align=left>  i     d Lucía, virgen
-<align=left>        e Nicasio
-<align=left>ix     f 
-<align=left>        g 
-<align=left>xvij  a Lázaro, mártir 
-<align=left>   vi  b
-<align=left>        c
-<align=left>xiiij  d
-<align=left>  iij   e Tomás
-<align=left>        f
-<align=left>xi     g
-<align=left>        a vigilia
-<align=left>xix   b natividad de Cristo
-<align=left>        c Esteban, mártir
-<align=left>viij   d Juan Evangelista
-<align=left>        e Santos Inocentes
-<align=left>xv    f
-<align=left>  v    g
-<align=left>xiij   a san Silvestro  
+#Fol. 1r
+Calendas  Enero XXXI
+                 luna     XXX
+iii     a	Circunsición del Señor
+        b
+xi     c	Octava de san Juan
+        d 
+xix   e
+viij   f	Epifanía del Señor
+        g
+xvi   a 
+v      b
+        c	Pablo, ermitaño
+xiii   d
+xii    e
+        f
+x      g
+        a
+xviij b
+        c	Antonio, abad
+vii    d
+        e
+xv    f
+iiij    g
+        a   San Vicente, mártir
+xii    b
+i       c
+        d	Conversión de Pablo
+ix     e
+        f
+xvij  g
+  vi   a
+xiiij  b	Aldegunda
+ iij   c  
+
+
+/next/
+#Fol. 1v
+Calendas  Febrero XXVIIJ
+                 luna        XXIX
+        d        
+xi     e	Purificación de María
+xix   f	San Blas
+viii   g 
+        a
+xvi   b	Amando   
+v      c
+        d 
+xiii   e
+  ii    f      
+        g
+x      a
+        b
+xviii c	Valentín, obispo
+  vii  d
+        e	Julián
+xv    f     
+ iiij   g
+        a
+xii    b
+  i     c
+        d	Pedro, apóstol   
+ix     e
+        f	Mateo, apóstol
+xvii  g   
+vi     a
+        b
+xiiij  c   Romanos
+
+
+/next/
+#Fol. 2r
+Calendas    Marzo XXXI
+                  luna      XXX
+iii     d        
+        e
+xi     f       
+g	San Adrián, mártir
+xix   a
+viij   b        
+        c
+xvi   d 
+v      e
+        f      
+xiii   g
+ ii     a  Gregorio, mártir
+        b
+x      c
+        d
+xviij e
+ vii   f  Gertrudis     
+        g
+xv    a
+iiij    b
+        c  Benedicto
+xii    d    
+ i      e
+        f
+ix     g  Anunciación de María
+        a
+xvij  b
+        c
+  vi   d
+        e
+xiij   f 
+
+
+/next/
+#Fol. 2v
+Calendas   Abril   XXXI
+                  luna     XXIX
+        g        
+xi     a
+xix   b        
+ viii  c	Ambrosio, obispo
+       d
+xvi  e       
+  v   f
+       g 
+viii   a
+  ii    b      
+        c	León, papa
+x      d
+        e
+xviii f
+  vii  g
+        a
+xv    b     
+iiij    c
+        d
+xii    e	Víctor, mártir
+  i     f
+        g    
+ix     a
+        b
+xvii  c	Marcos, evangelista
+  vi   d
+        e
+xiiij  f	Vidal
+       g
+
+
+/next/
+#Fol. 3r
+Calendas   Mayo   XXXI
+                  luna      XXIX
+xx    b 	Felipe y Jaime        
+        c
+xix   d	Invención de la Cruz       
+ viii  e       
+       f
+xvi  g	Juan ante la Puerta    
+  v   a
+      b
+viii   c
+  ii    d      
+        e 
+x      f
+        g
+xviii a
+  vii  b
+        c
+xv    d     
+iiij    e
+        f	Potenciana 
+        g
+xii    a
+ i      b    
+        c
+ix     d
+       e	Urbano, papa   
+ xvii  f
+    vi  g
+         a
+xiiij   b
+  Iii     c
+xi       d
+
+
+/next/
+#Fol. 3v
+Calendas   Junio   XXXI
+                  luna XXX
+        e              
+xix   f
+ viii  g             
+        a       
+xvi   b     Bonifacio, obispo 
+   v   c        
+        d
+xiii   e
+xii    f
+        g       
+x      a      Bernabé  
+        b
+xviii c
+  vii  d
+        e 
+xv    f 
+xiv   g      
+        a
+xii    b   
+  i     c
+        d
+ ix    e     
+        f    Vigilia
+xvii  g   Juan Bautista
+  vi   a      
+        b
+xiiii  c
+  iii   d   Vigilia
+        e   Pedro y Pablo 
+xi     f
+
+
+
+/next/
+#Fol. 4r
+Calendas  Julio   XXXI
+                 luna XXX
+xix   g              
+ viii  a    Visitación de María 
+        b             
+xvi   c      
+  v    d     
+        e    Medardo, obispo      
+xiii   f
+  ii    g
+        a
+x      b    Amelberga       
+        c       
+xviii d
+  vii  e
+  vii  f
+xv    g 
+  iiii  a
+        b      
+xii    c
+  i     d   
+         e   Margarita
+ ix     f
+         g   María Magdalena     
+xvii   a 
+  vi    b  
+         c   Jacobo san Cristóbal      
+xiiii  d
+  iii   e
+        f 
+xi     g   
+xix   a
+  viii b   Germán, obispo
+
+
+/next/
+#Fol. 4v
+Calendas   Agosto   XXXI
+                  luna       XXX
+viii   c        Pedro, apóstol              
+xvi   d    
+   v   e             
+        f      
+xiii   g        Domingo, confesor     
+  ii    a          
+        b
+x      c
+        d        Vigilia
+xviii e        Lorenzo
+   vii f       
+        g
+  xv  a
+   iiii  b      Vigilia
+xii     c       Asunción de María
+  i     d
+        e      
+ix     f
+        g   
+xvii  a         Bernardo, confesor
+  vi   b
+         c      
+xiiii  d 
+  iii   e         Bartolomeo
+         f      
+         g
+ xi    [a] 
+        b         Agustín 
+xix   c         Juan   
+  viii d
+         e  
+
+/next/
+#Fol. 5r
+Calendas    Septiembre   XXXI
+                   luna       XXX
+xvi   f                  
+  v    g    
+xiii   a             
+ ii     b      
+        c       
+        d          
+x      e
+        f         Natividad de la Virgen María.    Adrián, mártir
+xviii g   
+   vii a         Gregorio       
+        b      
+  xv  c
+   iiii d
+         e        Exaltación de la Cruz
+xii     f    
+  i     g
+        a       Lamberto, obispo      
+ix     b
+        c   
+xvii  d       Vigilia
+  vi   e       Mateo, apóstol
+         f      
+xiiii  g 
+  iii   a 
+         b      
+         c
+ xi    d 
+        e  
+xix   f       Jerónimo   
+  viii g
+
+
+/next/
+#Fol. 5v
+Calendas    Octubre   XXXI
+                  luna       XXX
+xvi   a        San Bavón                  
+  v    b    
+xiii   c             
+ ii     d      San Francisco, confesor 
+        e       
+ x     f          
+        g
+xviii a   
+  vii  b       San Dionisio   
+        c          
+  xv  d      
+   iiii e
+        f
+xii    g      Calixto, papa  
+  i     a    
+        b
+ix     c       
+        d      San Lucas 
+xvii  e   
+  vi   f  
+        g    once mil vírgenes   
+xiiii  a      
+  iii   b 
+        c 
+ xi    d      
+ xix  e
+        f    Vigilia 
+viii   g   Simón   San Judas  
+        a   
+  xvi b
+    v  c    Quintín   Vigilia
+
+
+/next/
+#Fol. 6r
+Calendas    Noviembre XXX
+                   luna        XXIX
+xiij   d        Todos los Santos
+  ii    e        Todas las Almas
+        f
+        g 
+x      a
+        b         Leonardo 
+xviij c
+        d  
+        e
+xv    f
+  iiij  g        Martín, obispo 
+        a
+xii    b
+   i    c 
+        d 
+ix     e 
+        f
+xvij  g
+   vi  a         Isabel
+        b
+xiiij  c
+  iii   d
+        e
+xi     f 
+xix   g         Catalina
+  viij a 
+        b
+xvi   c 
+  v    d        Vigilia
+        e        Andrés, apóstol
+xiij   f
+
+/next/
+# Fol. 6v
+Calendas    Diciembre XXXI
+	       luna            XXX
+xiij   f
+  ii    g
+        a
+x      b	Santa BÃ¡rbara, virgen
+        c
+xviij d	NicolÃ¡s, obispo
+  vii  e
+        f	ConcepciÃ³n de MarÃ­a
+xv    g
+  iiij  a
+        b
+xii    c
+  i     d	LucÃ­a, virgen
+        e	Nicasio
+ix     f 
+        g 
+xvij  a	LÃ¡zaro, mÃ¡rtir
+   vi  b
+        c
+xiiij  d
+  iij   e	TomÃ¡s
+        f
+xi     g
+        a	Vigilia
+xix   b	Natividad de Cristo
+        c 	Esteban, mÃ¡rtir
+viij   d 	Juan Evangelista
+        e	Santos Inocentes 
+xv    f
+  v    g
+xiij   a 	San Silvestre  
  /next/
  /next/
- /next/
-Principio de las horas de la Santa Cruz.
-Señor, abre mis labios. 
-Y mi boca 
-anunciará 
+ /next/ # Fol. 8r
+Comienzo de Horas de la Santa Cruz
+SeÃ±or, abre mis labios.
+Y mi boca
+proclamarÃ¡
 tu alabanza. 
-Dios, ven 
+Dios, ven
 a ayudarme. 
-Oh Señor, date prisa 
-en ayudarme. Gloria al Padre, y al Hijo, 
-y al Espíritu Santo. Incluso como fue 
-al principio, ahora, y siempre: 
-y un mundo sin fin, Amén. 
-La sabiduría del Padre, y la verdad 
-divin, Dios hecho hombre 
-fue capturado en las horas de la mañana, por sus 
-discípulos rápidamente abandonado: por los Judios
-traicionado, vendido, y atormentado. 
-Verso: Te adoramos. O Cristo, y te bende[cimos]
-/next/
-Te bendecimos, que por tu santa 
+SeÃ±or, date prisa
+en socorrerme. Gloria al Padre, y al Hijo
+y al EspÃ­ritu Santo. Como era 
+en el principio, ahora, y siempre:
+por los siglos de los siglos, AmÃ©n. 
+La sabidurÃ­a del Padre, la verdad
+divina, Dios hecho hombre
+fue capturado en la hora de la maÃ±ana, 
+por sus discÃ­pulos rÃ¡pidamente abandonado:
+por los judÃ­os
+traicionado, vendido, y afligido. 
+VersÃ­culo: Te adoramos, oh Cristo, y te bende-
+
+/next/ # Fol. 8v
+cimos, que por tu santa
 cruz has redimido al mundo.
-Oh Señor Jesucristo, hijo del Dios 
-viviente, establece tu pasión, cruz, 
-y muerte entre mi alma y tu juicio, 
-ahora, y en la muerte y asegura conceder me gracia y misericordia, 
-para vivos y muertos descansen y perdonen, paz y concordia a tu iglesia, 
-y a nosotros los pecadores vida y gloria eterna. Tu que vives y reinas por los siglos 
-de los siglos. Amen. A primera hora. 
-Oh Dios, ven a ayudar.
-A primera hora Jesus fue guiado 
-a Pilato, acusado por muchos testigos falsos. En el cuello,
-/next/
-Lo golpean con sus manos atadas, 
-escupieron en la cara de Dios, la querida luz del cielo.
-Verso: Te adoramos. Oración: 
-Señor Jesucristo. A tercera.
-Oh Dios, ven a ayudar. Himno. 
-“Crucifícalo,” gritan en la tercera hora. Del que se burlan esta vestido 
-con una túnica roja, una corona de espinas 
-prensada en su cabeza, carga en sus hombros la cruz 
+Oh SeÃ±or Jesucristo, hijo del Dios vivo, 
+interpÃ³n tu pasiÃ³n, cruz, 
+y muerte entre tu juicio 
+y mi alma, ahora y 
+en la hora de mi muerte entre tu juicio
+y mi alma, ahora, y a su muerte y dÃ­gnate
+concederme gracia, y misericordia 
+a los vivos, y a los muertos descanso y perdÃ³n:
+a tu Iglesia 
+paz y concordia, y a nosotros los pecadores 
+vida y gloria 
+eterna, tu que vives 
+y reinas, Dios. Por los siglos 
+de los siglos. AmÃ©n. A la Prima. 
+Dios mÃ­o, ven en mi auxilio.
+En la hora Prima JesÃºs fue llevado
+ante Pilatos, y acusado de muchas cosas 
+por falsos testigos. En el cuello,
+
+/next/ # Fol. 9r
+atado de manos le golpean,
+y escupen sobre el rostro de Dios, 
+grata luz del cielo. VersÃ­culo: Te adoramos. OraciÃ³n: 
+Oh SeÃ±or Jesucristo. A la Tercia
+Dios mÃ­o, ven en mi auxilio. Himno 
+â€œCrucifÃ­caleâ€, claman en la hora Tercia,
+del que se burlan estÃ¡ vestido 
+de pÃºrpura, su cabeza estÃ¡ perforada
+con una corona de espinas, carga la cruz 
 al lugar del castigo. 
-Verso: Te adoramos. Oración: Señor 
-Jesucristo. A [sexta]. 
-Oh Dios, ven a ayudar. Sexta. 
-En la sexta hora, Jesus fue clavado en la cruz 
-y, sentenciado, 
-lo colgaron con los ladrones. Sediento por las torturas, 
-el cordero deificado limpia el crimen. Verso: Te adoramos. 
-Oración: Oh Jesucristo. A novena.
+VersÃ­culo: Te adoramos. OraciÃ³n: Oh SeÃ±or Jesucristo. A la 
+Dios mÃ­o, ven en mi auxilio.                                          Sexta
+En la hora Sexta, Jesus fue clavado 
+en la cruz y fue dejado 
+colgando junto con ladrones. Sediento por sus tormentos, 
+fue saciado con bilis, Ã©l cordero 
+asÃ­ ridiculizado limpiÃ³ los pecados. VersÃ­culo: Te 
+adoramos. OraciÃ³n: Oh SeÃ±or Jesucristo. A la Nona
+
+/next/ # Fol. 9v
+Dios mÃ­o, ven en mi auxilio. Al comienzo
+En la hora Nona JesÃºs expirÃ³,
+clamando â€œEliâ€ encomendÃ³ su espÃ­ritu
+a su padre. Su costado fue perforado
+por un soldado con una lanza, entonces la tierra 
+temblÃ³ y el sol se oscureciÃ³.
+VersÃ­culo: Te adoramos. OraciÃ³n: Oh, SeÃ±or JesÃºs.
+Dios mÃ­o, ven en mi auxilio. A la VÃ­spera
+
+Fue bajado de la Cruz en la hora de la vÃ­spera.
+La Fuerza se ocultÃ³ en la mente
+divina. La medicina de la vida sufriÃ³ 
+tal muerte. Â¡Ay! Â¡la corona de gloria 
+yaciÃ³ inerte! VersÃ­culo: Te adoramos.
+OraciÃ³n: Oh, SeÃ±or Jesucristo. A la Completa
+ConviÃ©rtenos, Oh Dios, nuestro salvador,
+y aparta tu cÃ³lera 
+de nosotros. Dios mÃ­o, ven 
+en mi auxilio.
+
+/next/ # Fol. 10r
+A la hora completa, se le dio sepultura
+al noble cuerpo de Cristo,
+la esperanza de vida futura es ungida con especies.
+Se cumplen las escrituras.
+Que me sea perenne el recuerdo de esta muerte.
+VersÃ­culo: Te adoramos OraciÃ³n: Oh, SeÃ±or JesÃºs. Himno
+Estas horas canÃ³nicas con
+devociÃ³n a ti, Cristo, honro
+con pÃ­a intenciÃ³n, en el fervor de tu amor que has
+sufrido por mÃ­, asÃ­ laborar 
+es en armonÃ­a un compaÃ±ero sin corona.  
+AmÃ©n.
+
 /next/
- 
 /next/
+/next/
+/next/
+/next/
+/next/
+/next/
+/next/
+/next/ # Fol. 12r
+Comienzo de las horas del EspÃ­ritu Santo
+SeÃ±or, abre mis labios.
+Y mi boca
+proclamarÃ¡
+tu alabanza.
+Dios mÃ­o, ven en mi auxilio. SeÃ±or, date prisa
+en socorrerme. Gloria sea al Padre, y al Hijo:
+y al EspÃ­ritu Santo. Incluso como era 
+en el principio, y ahora, y siempre:
+por los siglos de los siglos, AmÃ©n. 
+Que nos sea dada la gracia del EspÃ­ritu Santo,
+con la cual la virgen de vÃ­rgenes fue eclipsada,
+cuando por un santo Ã¡ngel 
+fue salvada: la palabra
+se hizo carne y la virgen fecundada.
+AntÃ­fona: Ven, EspÃ­ritu Santo, llena 
+
+/next/ # Fol. 12v  
+los corazones de tus fieles y enciende 
+en ellos el fuego de tu amor. 
+VersÃ­culo: EnvÃ­a tu EspÃ­ritu y ellas serÃ¡n creadas y renovarÃ¡s la faz de la tierra. OraciÃ³n:
+Todopoderoso y eterno Dios, 
+concÃ©denos la gracia del EspÃ­ritu Santo,
+que le transmitiste a tus discÃ­pulos 
+en el dÃ­a de PentecostÃ©s, 
+Dios quien vive y reina, por los siglos de los siglos. AmÃ©n.
+Alabemos al SeÃ±or. Gracias a Dios. 
+Dios mÃ­o, ven en mi auxilio. A la Prima
+Cristo fue nacido de una hija virgen,
+quien fue crucificado, muerto y
+sepultado: resurgiendo ante sus discÃ­pulos
+se mostrÃ³ nuevamente  y
+fue a los altos cielos asumido ante su vista.
+AntÃ­fona: Ven. VersÃ­culo: EnvÃ­a tu EspÃ­ritu. OraciÃ³n:
+
+/next/ # Fol. 13r
+Todopoderoso y eterno         A la
+Dios mÃ­o, ven en mi auxilio Tercia
+DelegÃ³ a su EspÃ­ritu Santo con vida,
+en el dÃ­a del Santo PentecostÃ©s, 
+les informÃ³ en lenguas de lugares 
+varios, porque de ningÃºn modo podÃ­a 
+dejarlos sin consuelo.
+AntÃ­fona: Ven, Santo. VersÃ­culo: EnvÃ­a tu EspÃ­ritu. OraciÃ³n:
+Todopoderoso y eterno         A la
+Dios mÃ­o, ven en mi auxilio Sexta
+Entonces aceptaron la gracia septiforme, 
+y asÃ­ conocieron todos 
+los idiomas y se movieron 
+por diferentes partes del mundo. Y
+luego predicaron la fe CatÃ³lica.
+AntÃ­fona: Ven, EspÃ­ritu Santo. VersÃ­culo: EnvÃ­a tu EspÃ­ritu. OraciÃ³n:
+Todopoderoso y eterno          A la
+Dios mÃ­o, ven en mi auxilio. Nona
+
+/next/ # Fol. 13v
+EspÃ­ritu que fue llamado,
+regalo de Dios, fuente perenne de vida, 
+Espiritual unciÃ³n, y llama del fuego que flamea,
+gracia septiforme, llamado asÃ­ por tantos nombres. AntÃ­fona:
+Ven, Santo. VersÃ­culo: EnvÃ­a tu EspÃ­ritu. OraciÃ³n:
+Todopoderoso y eterno.  A la VÃ­spera
+Dios mÃ­o, ven en mi auxilio.
+Que el dedo de la diestra mano de Dios,
+la virtud del EspÃ­ritu, nos defienda
+y nos libre de todos los males:
+por siempre para que el demonio infernal no nos haga daÃ±o,
+nos guarde bajo su ala, y allÃ­ nos proteja y nos nutra. 
+AntÃ­fona: Ven, Santo. VersÃ­culo: EnvÃ­a tu EspÃ­ritu.
+Todopoderoso y Eterno. A la Completa
+ConviÃ©rtenos, Dios nuestro Salvador
+y aparta tu cÃ³lera
+de nosotros. Dios mÃ­o, ven en mi auxilio.
+
+/next/ # Fol. 14r 
+Que el EspÃ­ritu confortante nos
+quiera auxiliar: 
+nuestros pasos dirigir
+y guiarnos para iluminarnos con su luz, para que cuando Dios
+al fin venga a ser el juez de todo,
+nos llame a ser colocados a su diestra.
+AntÃ­fona: Ven, Santo. VersÃ­culo: EnvÃ­a tu EspÃ­ritu. OraciÃ³n:
+Todopoderoso y eterno. Himno
+Estas horas canÃ³nicas con
+devociÃ³n a ti, y con
+respeto pÃ­o he hablado, para que seamos visitados por la inspiraciÃ³n,
+en tu regiÃ³n celestial
+para por siempre vivir contigo. AmÃ©n. 
+
+/next/ # Fol. 14v
+PÃ¡gina en blanco
+
+
+/next/ # Fol. 15r
+Reverso de la iluminaciÃ³n
+
+/next/ # Fol. 15v
+IluminaciÃ³n de la Virgen en el trono con el NiÃ±o
+
+
+/next/ # Fol. 16r
+Comienzo de la misa de la Virgen MarÃ­a
+Y entrarÃ© al altar
+de Dios. A Dios, quien
+le da alegrÃ­a 
+a mi juventud. DÃ­gnate, 
+SeÃ±or, en conservarnos 
+sin pecado en este dÃ­a.
+Dad gracias al SeÃ±or,
+porque es bueno, 
+porque es eterna su misericordia.
+Confieso ante Dios en el cielo, la santÃ­sima
+Virgen MarÃ­a, y todos
+sus Santos, y nuestro Padre, porque yo,
+un infeliz pecador, contra la ley de Dios,
+he pecado mucho de pensamiento, 
+palabra, juicio, mirada, verbo 
+y obra, por mi culpa, por mi culpa, 
+por mi gran culpa. Por eso ruego 
+
+/next/ # Fol. 16v 
+a la santÃ­sima Virgen MarÃ­a y
+todos los santos y santas de Dios: y tu,
+nuestro Padre, ruega por mÃ­, pecador.
+Que Dios todopoderoso os tenga misericordia,
+y perdone todos 
+vuestros pecados, nos guÃ­e a nosotros y a ti,
+Jesucristo, sin mancha de pecado,
+con goce de vida eterna. AmÃ©n.
+No a nosotros, SeÃ±or, no a nosotros
+pero da gloria a tu nombre. LÃ­mpiame
+de mis pecados ocultos, SeÃ±or, 
+y libra a tus siervos de otros pecados.
+SeÃ±or, muÃ©stranos tu misericordia
+y danos tu salvaciÃ³n. Ruega
+por nosotros, Madre de Dios, para que
+seamos dignos de alcanzar las promesas
+de Cristo. SeÃ±or, escucha mi oraciÃ³n
+y llegue a ti
+
+/next/ # Fol. 17r
+mi clamor. Que el SeÃ±or estÃ© con vosotros. Y con tu
+EspÃ­ritu. Nuestra ayuda estÃ¡ 
+en el nombre del SeÃ±or, que hizo los cielos 
+y la tierra. Bendito sea el nombre del SeÃ±or, 
+desde ahora
+y por siempre. 
+Salve, Madre santa, quien 
+dando a luz trajo al Rey 
+que gobierna el cielo y la tierra, por los siglos de los siglos.
+VersÃ­culo: Que todos quienes celebran vuestra sagrada conmemoraciÃ³n sientan el poder de tu 
+ayuda. Gloria sea al Padre.
+Salve, Madre santa. SeÃ±or, ten 
+piedad. SeÃ±or, ten piedad. SeÃ±or, ten piedad.
+SeÃ±or, ten piedad. SeÃ±or, ten piedad. SeÃ±or, ten piedad.
+Gloria a Dios en las alturas, y paz
+en la tierra para los hombres de bue-  
+
+/next/ # Fol. 17v
+na voluntad. Te alabamos, te
+bendecimos, te adoramos, te
+glorificamos. Por tu gran gloria,
+te damos gracias, SeÃ±or Dios Rey y Dios
+celestial, Padre Todopoderoso, SeÃ±or,
+el Hijo unigÃ©nito, Jesucristo, SeÃ±or 
+Dios, Cordero de Dios, Hijo del Padre, que
+quitas los pecados del mundo, ten piedad
+de nosotros. Tu que quitas los pecados del mundo, recibe 
+nuestra oraciÃ³n. Tu que estÃ¡s 
+sentado a la derecha del Padre, ten piedad
+de nosotros. Porque sÃ³lo tÃº eres San-
+to, sÃ³lo tÃº SeÃ±or. SÃ³lo tÃº eres altÃ­simo, 
+Jesucristo. Con el EspÃ­ritu
+Santo, en la gloria de Dios Padre. AmÃ©n. 
+ConcÃ©denos, te suplicamos,
+SeÃ±or Dios, a nosotros tus siervos,
+
+/next/ # Fol. 18r
+disfrutar de la salud perpetua de la mente y el cuerpo, 
+y por la intercesiÃ³n gloriosa de la SantÃ­sima Virgen MarÃ­a, 
+ser liberada de la pena presente y disfrutar 
+de la felicidad eterna, por Cristo 
+nuestro SeÃ±or. AmÃ©n. 		Comienzo del libro
+Desde el principio y antes	de la SabidurÃ­a
+de que los siglos fuesen creados y hacia
+siglos futuros nunca dejarÃ© de existir. 
+Y en la santa morada, 
+en su presencia ofrecÃ­ culto. Y entonces, en SiÃ³n 
+me establecÃ­ y asimismo en la santa
+ciudad descansÃ© y en JerusalÃ©n 
+residiÃ³ mi poder y echÃ© raÃ­ces 
+entre un pueblo glorioso,
+y en la parcela de mi SeÃ±or su herencia,
+y mi morada estÃ¡ en la plena asamblea de los santos.
+VersÃ­culo: Bendita es la
+  
+
+/next/ # Fol. 18v
+venerable Virgen MarÃ­a, quien sin sentido de pudor
+encontrose siendo madre 
+del salvador. VersÃ­culo: Virgen Madre de Dios, el que 
+no cabe en el universo, 
+al hacerse hombre, se encerrÃ³ en tu seno. Aleluya.
+VersÃ­culo: DespuÃ©s del parto, Virgin, permaneciste inviolada,
+Madre de Dios, intercede por nosotros. Aleluya. Evangelio segÃºn san Lucas 
+En aquel tiempo, hablando JesÃºs 
+al pueblo, levantÃ³ una mujer la voz 
+de en medio del pueblo y le dijo: 
+Bienaventurado el vientre que te llevÃ³, 
+y los pechos que succionaste. Pero Ã©l 
+dijo: Bienaventurados mÃ¡s bien 
+los que escuchan la palabra de Dios, y 
+la practican. Gracias a Dios.
+Creo en un Dios, el Padre
+Todopoderoso, creador del cielo y de la
+
+/next/ #Fol. 19r
+tierra, de todo lo visible y 
+lo invisible. Y en un solo SeÃ±or 
+Jesucristo, Hijo Ãºnico 
+de Dios, nacido del Padre 
+antes de todos los siglos: Dios de Dios, Luz 
+de Luz, Dios verdadero de 
+Dios verdadero, engendrado, no creado, de la misma naturaleza 
+que el Padre, por quien todo 
+fue hecho. Que, por nosotros los hombres,
+y por nuestra salvaciÃ³n 
+bajÃ³ del cielo, y se encarnÃ³ por obra del EspÃ­ritu Santo 
+de la Virgen MarÃ­a, y se hizo hombre.
+Por nuestra causa fue crucificado, en tiempos de 
+Poncio Pilato padeciÃ³, y fue sepultado:
+y resucitÃ³ al tercer dÃ­a, segÃºn las 
+Escrituras, y ascendiÃ³ al cielo.
+EstÃ¡ sentado a la derecha del Padre: y de nuevo
+
+/next/ #Fol. 19v
+vendrÃ¡ con gloria, para juzgar 
+a vivos y muertos: y su reino no 
+tendrÃ¡ fin. Y en el EspÃ­ritu Santo, 
+SeÃ±or y dador de vida, que 
+procede del Padre al Hijo. Que juntos con
+el Padre y el Hijo es adorado y 
+glorificado: que hablÃ³ por los 
+profetas. Y en una, santa, catÃ³lica 
+y apostÃ³lica Iglesia. Confieso que
+hay un solo bautismo para el perdÃ³n 
+de los pecados. Espero la resurrecciÃ³n 
+de los muertos, y la vida 
+del mundo futuro. AmÃ©n. Ofertorio: Pues, feliz 
+eres, sagrada Virgen MarÃ­a, y digna 
+de toda alabanza, porque de ti 
+ha nacido el sol de justicia, Cristo nuestro
+Dios. Por los siglos de los
+siglos. El SeÃ±or estÃ© con vosotros.
+
+/next/ #Fol. 20r  
+Y con tu espÃ­ritu. Levantemos el corazÃ³n.
+Lo tenemos levantado hacia el SeÃ±or. Demos 
+gracias al SeÃ±or, nuestro Dios.
+Es justo y necesario. Santo,
+santo, santo SeÃ±or 
+Dios de los EjÃ©rcitos. El cielo y la tierra 
+estÃ¡n llenos de tu gloria, hosanna en las Alturas.
+Bendito Ã‰l que viene en nombre 
+del SeÃ±or. hosanna en las Alturas. Por los siglos
+de los siglos. AmÃ©n.
+Y no nos dejes caer en la tentaciÃ³n,
+Y lÃ­branos del mal. AmÃ©n. 
+Por los siglos de los siglos. 
+AmÃ©n. La paz del SeÃ±or estÃ© con vosotros
+y con tu espÃ­ritu. Cordero
+de Dios, que quitas el pecado del mundo,
+ten piedad de nosotros. Cordero de Dios, que
+quitas el pecado del mundo, ten piedad
+
+/next/ #Fol. 20v
+de nosotros. Cordero de Dios, que quitas 
+el pecado del mundo, danos la paz.
+Luego Luego. Bienaventuradas sean las entraÃ±as de la Virgen
+MarÃ­a, que llevaron al Hijo
+del Eterno Padre, SeÃ±or, escucha mi oraciÃ³n. OraciÃ³n:
+Te suplicamos, SeÃ±or, que derrames 
+tu gracia en nuestras almas; 
+para que los que, por el anuncio del Ã¡ngel, 
+hemos conocido la encarnaciÃ³n de tu Hijo Jesucristo, 
+por su pasiÃ³n y cruz, 
+seamos llevados a la gloria de su resurrecciÃ³n. Por 
+Jesucristo nuestro SeÃ±or. AmÃ©n.
+Comienzo del Santo Evangelio segÃºn 
+san Juan.  Gloria sea a ti, SeÃ±or.
+En el principio era la Palabra, 
+y la Palabra estaba ante Dios, 
+y la Palabra era Dios. Y
+
+/next/ #Fol. 21r
+ella estaba ante Dios en el principio. Por ella
+se hizo todo, y nada
+llegÃ³ a ser sin ella. Lo que fue hecho
+tenÃ­a vida en ella, y para los hombres la vida
+era luz. Y la luz brilla en las tinieblas
+y las tinieblas no la comprendieron.
+Vino un hombre, enviado por Dios, 
+que se llamaba Juan. Vino
+para dar testimonio, como testigo
+de la luz, para que todos 
+creyeran por Ã©l. Aunque no fuera Ã©l 
+la luz, le tocaba dar testimonio 
+de la luz. Ella era la luz verdadera,
+la luz que ilumina a todo hombre 
+que llegaba al mundo. Ya estaba
+en el mundo, y este mundo que se hizo por El, 
+y este mundo no lo recibiÃ³. Vino a su propia casa, y los suyos
+
+/next/ #Fol. 21v
+no lo recibieron. Pero a todos los que 
+lo recibieron, les dio la capacidad 
+para ser hijos de Dios, al creer
+en su nombre: han nacido, no de sangre
+alguna ni por la voluntad de hombre, 
+sino que han nacido de Dios. Y la palabra
+se hizo carne, puso su tienda entre
+nosotros: y hemos visto su gloria,
+la gloria que recibe del Padre el Hijo Ãºnico,
+en Ã©l todo era gracia y verdad. Gracias 
+a Dios. Evangelio de san Lucas
+En aquel tiempo, enviÃ³ Dios al
+Ã¡ngel Gabriel a una ciudad
+de Galilea llamada Nazaret,
+a una virgen desposada 
+con un varÃ³n llamado JosÃ©, de la 
+casa de David, y el nombre de la Virgen era 
+MarÃ­a. Y habiendo entrado el Ã¡ngel
+
+/next/ #Fol. 22r
+a ella, le dijo: Dios te salve, llena de gracia; el SeÃ±or
+es contigo; bendita tÃº, entre todas las mujeres.
+Quien al oÃ­r esto, se turbÃ³ 
+y se preguntaba quÃ© 
+podrÃ­a significar aquel saludo. Mas el Ã¡ngel
+le dijo: No temas, MarÃ­a, porque
+has hallado gracia ante Dios:
+He aquÃ­ que concebirÃ¡s, y darÃ¡s a luz un Hijo, 
+a quien pondrÃ¡s por nombre JesÃºs:
+Ã©ste serÃ¡ grande, y se llamarÃ¡ el 
+Hijo del AltÃ­simo, y el SeÃ±or Dios
+le darÃ¡ el trono de David, su 
+padre: y reinarÃ¡ en la casa de Jacob 
+eternamente, y su reino no tendrÃ¡ 
+fin. Dijo entonces MarÃ­a 
+al Ã¡ngel: Â¿CÃ³mo ha de ser eso, pues 
+yo no conozco varÃ³n? Le respondiÃ³ 
+el Ã¡ngel: el EspÃ­ritu Santo
+
+/next/ #Fol. 22v
+descenderÃ¡ sobre ti, y el poder del AltÃ­simo 
+te cubrirÃ¡ con su sombra. Por lo cual
+el santo que de ti ha de nacer, 
+se llamarÃ¡ Hijo de Dios. Y he aquÃ­ que Isa-
+bel, tu parienta, y que tambiÃ©n
+ha concebido un hijo en su vejez: y 
+cuenta ya hoy el sexto mes; porque no hay palabra 
+imposible para Dios. Dijo entonces MarÃ­a: 
+He aquÃ­ la sirvienta del SeÃ±or: hÃ¡gase en mÃ­ 
+segÃºn tu palabra. 	Evangelio de 
+En aquel tiempo, 	san Mateo
+cuando JesÃºs habÃ­a nacido en
+BelÃ©n de Judea, en los dÃ­as del reinado 
+de Herodes, he aquÃ­, unos magos del Oriente 
+vinieron a JerusalÃ©n, diciendo:
+Â¿DÃ³nde estÃ¡ el rey de los judÃ­os que ha nacido?
+
+/next/ #Fol. 23r
+Porque su estrella hemos visto en el oriente, 
+y venimos a adorarle. Oyendo esto, 
+el rey Herodes se turbÃ³, 
+y toda JerusalÃ©n con Ã©l. 
+Y cuando hubo convocado 
+todos los principales sacerdotes, 
+y los escribas del pueblo, les preguntÃ³ 
+dÃ³nde habÃ­a de nacer el Cristo. Entonces
+ellos le dijeron: porque asÃ­ estÃ¡ escrito 
+por el profeta, y tÃº, BelÃ©n, tierra de JudÃ¡,
+no eres la mÃ¡s pequeÃ±a entre los prÃ­ncipes 
+de JudÃ¡; porque de ti saldrÃ¡ un guiador,
+quien apacentarÃ¡ a mi pueblo Israel.
+Entonces Herodes, llamando en secreto a los magos, 
+indagÃ³ de ellos diligentemente el tiempo 
+de la apariciÃ³n de la estrella; y 
+enviÃ¡ndolos a BelÃ©n, dijo: 
+Id allÃ¡ y averiguad con diligencia acerca
+
+/next/ #Fol. 23v
+del niÃ±o; y cuando le hallÃ©is, hacÃ©dmelo 
+saber, para que yo tambiÃ©n vaya y le adore.
+Ellos, habiendo oÃ­do al rey, se 
+fueron. Y he aquÃ­ la estrella que habÃ­an visto
+en el oriente, iba delante de ellos, hasta que
+llegando, se detuvo, SeÃ±or, 
+sobre donde estaba el niÃ±o. Y al ver la estrella, 
+se regocijaron con muy grande gozo. 
+Y al entrar en la 
+casa, vieron al niÃ±o con su madre MarÃ­a, 
+y postrÃ¡ndose, lo adoraron.
+Y abriendo sus tesoros, le 
+ofrecieron presentes de oro, incienso y mirra. Pero siendo avisados en un sueÃ±o
+por el Ã¡ngel que no volviesen a Herodes, 
+regresaron a su tierra 
+por otro camino. Evangelio de san Marcos
+Y entonces, estando ellos sentados a la mesa,
+el SeÃ±or JesÃºs se
+
+/next/ #Fol. 24r
+apareciÃ³ ante los once discÃ­pulos: les reprochÃ³ 
+su incredulidad 
+y dureza de corazÃ³n, porque no habÃ­an 
+creÃ­do a los que le habÃ­an visto 
+resucitado. Y les dijo: Id 
+por todo el mundo y predicad el evangelio 
+a toda criatura. El que 
+creyere y fuere bautizado, 
+serÃ¡ salvo; mas el que no creyere, 
+serÃ¡ condenado. Y estas seÃ±ales 
+seguirÃ¡n a los que creen. En mi nombre 
+echarÃ¡n fuera demonios; 
+hablarÃ¡n nuevas lenguas; tomarÃ¡n en las manos 
+serpientes, y si bebieren cosa 
+mortÃ­fera, no les harÃ¡ daÃ±o; 
+sobre los enfermos pondrÃ¡n sus manos, 
+y sanarÃ¡n. Y entonces el SeÃ±or, 
+despuÃ©s que les hablÃ³, fue recibido
+
+/next/ #Fol. 24v
+arriba en el cielo, y se sentÃ³ a la diestra 
+de Dios. Y ellos, saliendo, predicaron 
+en todas partes, ayudÃ¡ndoles el SeÃ±or 
+y confirmando la palabra 
+con las seÃ±ales que la seguÃ­an. Gracias a Dios.
+
+/next/ #Fol. 25r
+PÃ¡gina en blanco (reverso de la iluminaciÃ³n)
+
+/next/ #Fol. 25v
+IluminaciÃ³n de la AnunciacÃ³n
+
+/next/ #Fol. 26r
+Comienzo de las horas de Nuestra SantÃ­sima Virgen MarÃ­a
+SeÃ±or, abre mis 
+labios. Y mi boca
+proclamarÃ¡
+tu alabanza. Dios, ven
+a ayudarme. SeÃ±or, 
+date prisa en socorrerme. Gloria 
+al Padre, y al Hijo: y al EspÃ­ritu Santo. 
+Como era en el principio, ahora, 
+y siempre: por los siglos de los siglos. AmÃ©n. 
+Invitatorio Santa Maria, llena eres
+de gracia: el SeÃ±or es contigo. Salmo
+Venid, regocijÃ©monos en el SeÃ±or; 
+acerquÃ©monos a su rostro en la
+confesiÃ³n, y en los salmos regocijÃ©monos 
+hacia Ã©l. Santa Maria: el SeÃ±or es contigo. Porque Dios grande es el SeÃ±or,
+
+/next/ #Fol. 26v
+y un Rey grande 
+sobre todos los dioses: pues el SeÃ±or no rechazarÃ¡
+a su pueblo: pues en sus mano 
+estÃ¡n las profundidades de la tierra, y suyas son tambiÃ©n 
+las cumbres de los montes. Nuestro SeÃ±or 
+es contigo. Suyo es el mar, 
+pues Ã‰l lo hizo: y sus manos formaron 
+la tierra firme: venid, adoremos 
+y postrÃ©monos de rodillas ante Dios:  lloremos
+ante nuestro SeÃ±or, que nos hizo,
+porque Ã‰l es el SeÃ±or
+nuestro Dios, y nosotros su pueblo 
+y las ovejas de su prado. Santa MarÃ­a.
+Si oÃ­s hoy su voz,
+no endurezcÃ¡is vuestro corazÃ³n, como 
+en la provocaciÃ³n en el dÃ­a de 
+tentaciÃ³n en el desierto: cuando vuestros padres 
+me tentaron: me probaron,
+
+/next/ #Fol. 27r
+y vieron mi obra. Nuestro SeÃ±or
+estÃ© contigo. Por cuarenta aÃ±os me 
+repugnÃ³ aquella generaciÃ³n, y dije: 
+es un pueblo que erra en su corazÃ³n: y no conocen mis caminos,
+A quien juro en [T] mi descanso.       [T] mi ira, si entran en
+Santa Maria, llena eres de Gracia; el SeÃ±or es contigo.
+Gloria al Padre. Incluso como era en el principio. Nuestro SeÃ±or
+estÃ© contigo.  Himno
+Al que la tierra, el mar y el aire
+veneran, adoran y predican,
+creaciÃ³n trina reinante, porta el seno 
+de MarÃ­a. A quien la luna, el sol 
+y todas las cosas sirven por siempre,
+por la gracia derramada del cielo,
+gestan las entraÃ±as de la NiÃ±a.
+Bendita Madre por este don,
+
+/next/ #Fol. 27v
+cuyo celestial Realizador abarcando el mundo en su puÃ±o
+bajo el arca de su vientre lo ha encerrado. Gloria
+sea a ti, SeÃ±or, que naciste de la virgen,
+junto al Padre y al EspÃ­ritu Santo,
+por los siglos de los siglos, AmÃ©n AntÃ­fona:
+Bendito eres. Salmo
+Oh SeÃ±or, SeÃ±or nuestro: cuÃ¡n glorioso 
+es tu nombre en 
+toda la tierra. Pues tu magnificencia
+has desplegado: sobre los cielos. Por boca de 
+los infantes y de los niÃ±os de pecho has establecido 
+tu fortaleza, por causa de tus adversarios:
+para hacer cesar al enemigo 
+y al vengativo. Cuando veo tus cielos, 
+obra de tus dedos,
+la luna y las estrellas, que tÃº has establecido.
+Â¿QuÃ© es el hombre para que de Ã©l 
+te acuerdes: o el hijo del hombre para
+
+/next/ #Fol. 28r
+que lo visites? Lo has hecho 
+un poco menor que los Ã¡ngeles, con gloria y 
+honor lo has coronado: y lo pusiste 
+sobre las obras de tus manos. 
+Todo lo has puesto 
+bajo sus pies: todas las ovejas y bueyes:
+mÃ¡s aÃºn, tambiÃ©n las bestias del campo.
+Las aves de los cielos y los peces del mar,
+cuanto atraviesa las sendas de los 
+mares. Oh SeÃ±or, SeÃ±or nuestro, cuÃ¡n 
+admirable es tu nombre 
+en toda la tierra. Gloria sea al Padre. AntÃ­fona:
+Bendita seas entre todas las mujeres, y
+bendito sea el fruto de tu vientre. AntÃ­fona: 
+Como la mirra. Salmo
+Los cielos cuentan la gloria de Dios:
+y el firmamento anuncia 
+la obra de sus manos. Un dÃ­a a otro dÃ­a,
+
+/next/ #Fol. 28v
+emite palabra: y una noche a otra noche 
+declara sabidurÃ­a. No hay lenguajes, 
+ni palabras: ni esas voces 
+son oÃ­das. Por toda la tierra 
+saliÃ³ su voz: y hasta 
+el extremo del redondo mundo sus palabras. En el sol,
+ha puesto su tabernÃ¡culo: y Ã©ste, 
+como esposo que sale 
+de su tÃ¡lamo. Se ha alegrado cual gigante 
+para correr el camino: de un extremo de 
+los cielos es su salida. Y su curso 
+hasta la cima de ellos: ni nada hay 
+que se pueda esconder de su calor. La ley 
+de nuestro SeÃ±or es inmaculada que convierte 
+las almas: el testimonio de nuestro SeÃ±or es fiel, 
+que hace sabio al sencillo. Las justicias 
+de nuestro SeÃ±or son rectos, que alegran 
+los corazones: el precepto de nuestro SeÃ±or es lÃºcido
+
+/next/ #Fol. 29r
+que alumbra los ojos. El temor 
+de nuestro SeÃ±or es santo, que permanece por los siglos
+de los siglos: los juicios de nuestro SeÃ±or son verdad, justificados
+en sÃ­ mismos. Deseables son 
+mÃ¡s que el oro, y mÃ¡s que la piedra preciosa:
+y dulces mÃ¡s que la miel, y 
+que la que destila del panal. Pues tu siervo 
+los guarda: y en guardarlos hay grande 
+galardÃ³n. Â¿QuiÃ©n podrÃ¡ entender estos pecados? LÃ­brame de los que
+me son ocultos, Dios: y preserva tambiÃ©n a tu siervo 
+de las de otros. Si no se enseÃ±orean 
+de mÃ­, entonces serÃ© inmaculado: y estarÃ© 
+limpio del pecado mÃ¡ximo. Y
+ los dichos de mi boca serÃ¡n 
+gratos: y la meditaciÃ³n de mi corazÃ³n 
+siempre delante de ti. Oh SeÃ±or, 
+mi auxilio: y redentor mÃ­o. Gloria
+
+/next/ #Fol. 29v
+Sea al Padre. AntÃ­fona: Como mirra escogida, diste 
+olor de suavidad, santa Madre de 
+Dios. AntÃ­fona: Ante el lecho. Salmo de David
+Del SeÃ±or es la tierra 
+y cuanto la llena, el orbe, y todos 
+sus habitantes. Pues, Ã©l la 
+fundÃ³ sobre los mares:
+y Ã©l la afianzÃ³ sobre los rÃ­os.
+Â¿QuiÃ©n puede subir al monte 
+del SeÃ±or: Â¿o quiÃ©n puede estar 
+en el recinto sacro? El hombre de manos inocentes,
+
+y puro corazÃ³n, que no confÃ­a 
+en los Ã­dolos: ni 
+jura contra el prÃ³jimo en falso. Ã‰se 
+recibirÃ¡ la bendiciÃ³n del SeÃ±or:
+
+y le harÃ¡ justicia el Dios de salvaciÃ³n. Ã‰ste 
+es el grupo que busca al SeÃ±or:
+
+que viene a tu presencia, Dios de Jacob.
+
+/next/ #Fol. 30r
+Ãlcen, oh puertas, sus cabezas,
+y elÃ©venlas, puertas eternas, y 
+entrarÃ¡ el Rey de la gloria. Â¿QuiÃ©n es este Rey 
+de la gloria? Nuestro SeÃ±or fuerte y poderoso:
+Nuestro SeÃ±or poderoso en la batalla. Ãlcen, 
+oh puertas, sus cabezas, y 
+elÃ©venlas, puertas eternas: y
+entrarÃ¡ el Rey de la gloria. Â¿QuiÃ©n es 
+este Rey  de la gloria? SeÃ±or de la virtud, el es
+el rey de la gloria. Gloria sea al Padre. AntÃ­fona: Ante el lecho 
+de esta virgen, repÃ­tenos dulces cantos 
+de mesura. VersÃ­culo: La gracia se derramÃ³ 
+en tus labios. Por tanto Dios 
+te ha bendecido para siempre. Padre Nuestro.
+Por las preces y los mÃ©ritos de la Bienaventurada 
+Virgen MarÃ­a, y de todos 
+los santos, el SeÃ±or nos conduzca a los
+en tus labios: Por tanto Dios 
+te ha bendecido para siempre.
+
+/next/ #Fol. 30v
+reinos de los cielos. Dios, dÃ­gnate
+bendecirme. Que nos bendiga la Virgen MarÃ­a, 
+junto con su santÃ­simo hijo. AmÃ©n.  	       Primera
+Entre todas estas cosas buscaba reposo,    Lectura
+y una heredad de nuestro SeÃ±or 
+en que instalarme. Entonces me dio orden 
+el creador del universo, el que 
+me creÃ³ dio reposo a mi tienda, 
+y me dijo: â€œPon tu tienda en Jacob, 
+entra en la heredad de Israel, y echa raÃ­ces
+en mis elegidosâ€. Pero tÃº, SeÃ±or,
+ten piedad en nosotros. Gracias al SeÃ±or.
+Respuesta: Oh Virgen Santa e inmaculada, 
+no sÃ© con quÃ© alabanzas honrarte dignamente:
+porque llevaste en tu seno 
+al que no pueden contener los cielos.
+VersÃ­culo: Bendita seas entre las mujeres,
+y bendito es el fruto de tu vientre.
+
+/next/ #Fol. 31r
+Porque quiÃ©n. Dios, dÃ­gnate
+bendecirme. Santa madre de Dios, 
+auxÃ­lianos. AmÃ©n. Segunda lectura
+Y entonces en SiÃ³n me establecÃ­,
+y en la ciudad escogida 
+me hizo descansar: en JerusalÃ©n reside mi poder.
+EchÃ© raÃ­ces entre 
+un pueblo glorioso, y en las porciones del SeÃ±or, 
+en su heredad, y resido en la congregaciÃ³n 
+plena de los santos.
+Pero tu. Respuesta: Dichosa eres, 
+sagrada Virgen MarÃ­a, y sumamente digna 
+de todas las alabanzas: Porque de ti ha nacido 
+el sol de justicia, Cristo, nuestro Dios.
+VersÃ­culo: Ruega por el pueblo, intervÃ©n 
+en favor del clero, intercede por las mujeres 
+consagradas con voto a Dios: experimenten 
+tu auxilio todos cuantos celebran
+
+/next/ #Fol. 31v
+tu santa conmemoraciÃ³n.
+Porque de ti ha nacido. Gloria al Padre.
+Porque de ti ha nacido el sol de justicia,
+Cristo, nuestro Dios. Salmo
+A Ti, Dios, alabamos: a Ti, SeÃ±or, 
+confesamos. A Ti, eterno Padre:
+venera toda la tierra. A Ti 
+todos los Ã¡ngeles: a Ti los cielos y todas las 
+potestades. A Ti los querubines 
+y serafines: en incesante canto 
+proclaman. Santo, Santo, 
+Santo: Dios de los ejÃ©rcitos.
+Llenos estÃ¡n los cielos y la tierra: de la
+majestad de tu Gloria. A Ti el coro 
+glorioso de los apÃ³stoles. A Ti 
+la multitud venerable de los profetas. 
+A Ti el purpurado ejÃ©rcito de los mÃ¡rtires 
+te alaban. A Ti la Santa Iglesia,
+
+/next/ #Fol. 32r
+extendida por todo el orbe, te confiesa.
+Padre de inmensa Majestad.
+Y al venerado verdadero:
+y Ãºnico Hijo. Y tambiÃ©n al EspÃ­ritu Santo 
+el ParÃ¡clito. TÃº eres 
+el Rey de la gloria, oh, Cristo. TÃº eres Hijo eterno 
+del Padre. TÃº, deseando salvar 
+al hombre:
+no te desdeÃ±aste bajar al vientre de la Virgen. 
+TÃº, quebrando el dardo de la muerte, 
+abriste a los creyentes el Reino de los cielos. 
+TÃº, te sientas a la diestra de Dios: en 
+la Gloria del Padre. Creemos que 
+has de venir como juez. Te rogamos, pues, 
+que socorras a tus siervos: que redimiste 
+con tu preciosa sangre. Haz que seamos 
+contados entre tus santos: y en la gloria. 
+Salva a tu pueblo,
+
+/next/ #Fol. 32v
+SeÃ±or: y bendice 
+a tu heredad. Y rÃ­gelos: y ensÃ©Ã±alos 
+para siempre. Cada dÃ­a 
+te bendecimos. Y alabamos 
+tu nombre eternamente: y 
+por los siglos de los siglos. Dignamente, SeÃ±or, 
+compadÃ©cete de nosotros. 
+Venga, SeÃ±or, tu Misericordia sobre nosotros:
+conforme a la esperanza que en Ti 
+hemos puesto. En Ti, SeÃ±or, esperÃ©: No serÃ© jamÃ¡s 
+confundido. VersÃ­culo: Ruega por 
+nosotros, santa madre de Dios. Para que seamos 
+dignos de alcanzar las promesas de Cristo.
+
+/next/ #Fol. 33r
+Dios, 	A los Laudes
+Ven a ayudarme. 
+SeÃ±or, date prisa
+en socorrerme. 
+Gloria sea al Padre.
+Nuestro SeÃ±or reina, vestido 
+estÃ¡ de majestad: nuestro SeÃ±or se ha vestido 
+y ceÃ±ido de poder. El mundo bien ha afirmado: serÃ¡ 
+inconmovible. Tu trono
+desde la antigÃ¼edad estÃ¡ establecido: tÃº eres desde la eternidad.
+Los torrentes han alzado, oh SeÃ±or: los torrentes 
+han alzado su voz. 
+Los torrentes alzan sus 
+batientes olas: desde las voces de muchas aguas.
+Maravillosas son las olas del mar:
+maravilloso es el SeÃ±or en las alturas. Tus 
+testimonios son muy fidedignos:
+
+/next/ #Fol. 33v
+La santidad conviene a Tu casa,
+oh SeÃ±or, a lo largo de los dÃ­as.
+Gloria sea al Padre. AntÃ­fona: MarÃ­a fue elevada 
+al cielo: los Ã¡ngeles se regocijan,
+alabando y bendiciendo al SeÃ±or. AntÃ­fona:
+La Virgen MarÃ­a. Salmo de David
+Aclamen con jÃºbilo al SeÃ±or, toda la tierra: sirvan 
+al SeÃ±or con alegrÃ­a. Vengan 
+ante Ã‰l con cÃ¡nticos de jÃºbilo.
+Sepan que Ã‰l, el SeÃ±or, es 
+Dios: Ã‰l nos hizo, y no nosotros a nosotros mismos.
+Pueblo suyo somos y ovejas de su 
+prado, entren por sus puertas 
+en confesiÃ³n:  a sus atrios en himnos
+de confesiÃ³n. Bendigan 
+Su nombre, porque el SeÃ±or es dulce:
+para siempre es Su misericordia, Gloria sea al Padre.
+AntÃ­fona: La Virgen MarÃ­a fue elevada
+
+/next/ #Fol. 34r
+al tÃ¡lamo celestial, donde 
+el Rey de reyes tiene un trono adornado con estrellas. AntÃ­fona: Por el olor. Salmo
+Oh Dios, Dios mÃ­o; te busco 
+desde la luz. Mi alma tuvo sed de ti: 
+cuÃ¡ntas veces mi carne tuvo sed de ti.
+Cual tierra seca y Ã¡rida donde no 
+hay agua, asÃ­ me aparecÃ­ a vosotros en el lugar santo:
+para ver Tu poder y 
+Tu gloria. Porque Tu misericordia 
+es mejor que la vida: mis labios 
+te alabarÃ¡n. AsÃ­ te bendecirÃ© 
+mientras viva: y en Tu nombre 
+alzarÃ© mis manos. Como con 
+mÃ©dula y grasa estÃ¡ saciada 
+mi alma: y con labios jubilosos 
+te alaba mi boca. Cuando en mi lecho 
+me acuerdo de Ti,
+
+/next/ #Fol. 34v
+en Ti medito durante las vigilias de la noche: porque
+TÃº has sido mi ayuda. Y a la sombra 
+de Tus alas canto gozoso,
+a Ti se aferra mi alma: Tu diestra 
+me sostiene. Pero los que en vano
+buscan mi alma para destruirla,
+serÃ¡n entregados 
+A las manos de la espada,
+serÃ¡n presos de las zorras. Pero el rey 
+se regocijarÃ¡ en Dios, todo el que 
+por Ã‰l jura se gloriarÃ¡: porque 
+la boca de los que dicen mentiras serÃ¡ cerrada.
+Dios tenga piedad de nosotros. injusticias.
+y nos bendiga:
+y haga resplandecer Su rostro 
+sobre nosotros, y tenga misericordia de nosotros. Para que sea 
+conocido en la tierra Tu camino:
+entre todas las naciones Tu salvaciÃ³n.
+Te den gracias los pueblos,
+
+/next/ #Fol. 35r
+en todos los pueblos tu salvaciÃ³n.
+Que el pueblo 
+te confiese, Dios: que te confiesen todos los pueblos.
+Alegraos y canten con jÃºbilo las naciones,
+porque TÃº juzgarÃ¡s a los pueblos con equidad:
+y guiarÃ¡s a las naciones en la tierra. 
+Que los pueblos te confiesen, oh Dios, 
+que todos los pueblos te confiesen: 
+la tierra ha dado su fruto. Que Dios nuestro Dios
+nos bendiga y le teman todos los confines 
+de la tierra. Gloria sea al Padre. AntÃ­fona: Por el olor
+de tus suaves ungÃ¼entos corremos:
+por eso las doncellas te amaron.
+AntÃ­fona: Bendita la hija. Salmo:
+Todas las obras del SeÃ±or, bendigan al 
+SeÃ±or, alÃ¡benlo y glorifÃ­quenlo 
+Eternamente. Ãngeles del SeÃ±or, bendigan 
+al SeÃ±or: los cielos bendigan 
+al SeÃ±or. Todas las aguas que
+
+/next/ #Fol. 35v
+estÃ¡n sobre los cielos, bendigan al SeÃ±or: bendecid 
+al SeÃ±or todas las virtudes del SeÃ±or.
+Lluvias y rocÃ­os, bendigan al SeÃ±or, todos los espÃ­ritus de Dios
+bendecid al SeÃ±or.
+Fuego y calor, bendigan al SeÃ±or:
+frÃ­o y heladas, bendigan al SeÃ±or.
+RocÃ­os y escarchas, bendigan al 
+SeÃ±or: hielos y frÃ­o, bendigan al SeÃ±or.
+Heladas y nieves, bendigan al 
+SeÃ±or: noches y dÃ­as, bendigan al SeÃ±or.
+Luz y tinieblas, bendigan al SeÃ±or:
+rayos y nubes, bendigan al SeÃ±or.
+Que la tierra bendiga al SeÃ±or, que lo alabe 
+y glorifique eternamente.
+MontaÃ±as y
+colinas, bendigan al SeÃ±or: todo lo 
+que brota sobre la tierra, bendiga al SeÃ±or.
+Bendigan al SeÃ±or, manantiales:
+
+/next/ #Fol. 36r
+mares y rÃ­os, bendigan al SeÃ±or.
+CetÃ¡ceos y todo lo que 
+se mueve en las aguas, bendigan al SeÃ±or: todas las 
+aves del cielo, bendigan al SeÃ±or.
+Todas las fieras y animales, bendigan 
+al SeÃ±or: todos los hijos de hombres, bendigan 
+al SeÃ±or. Que Israel bendiga al SeÃ±or: 
+alÃ¡benlo y glorifÃ­quenlo 
+eternamente. Sacerdotes de nuestro SeÃ±or, bendigan 
+al SeÃ±or: servidores del SeÃ±or, 
+bendigan al SeÃ±or. EspÃ­ritus y almas 
+de los justos, bendigan al SeÃ±or: santos 
+y humildes de corazÃ³n, bendigan al SeÃ±or.
+AnanÃ­as, AzarÃ­as y Misael, 
+bendigan al SeÃ±or: alÃ¡benlo y glorifÃ­quenlo
+eternamente. Bendigamos 
+al Padre, al Hijo y al EspÃ­ritu
+Santo: alÃ¡benlo y glorifÃ­quenlo
+
+/next/ #Fol. 36v
+eternamente. Bendito 
+eres, oh SeÃ±or, en el firmamento de los cielos: 
+y digno de alabanza, y glorioso, y exaltado sobre Ã©l por los siglos.
+alabado y glorificado 
+eternamente. AmÃ©n.
+AntÃ­fona: Bendita la hija, por arte del SeÃ±or:
+porque por ti compartimos 
+el fruto de la vida. AntÃ­fona: Justa eres. Salmo de David
+Alaben al SeÃ±or desde los cielos: alÃ¡benlo 
+en las alturas. AlÃ¡benlo, 
+todos Sus Ã¡ngeles:
+alÃ¡benlo, todos Sus poderes.
+AlÃ¡benlo, sol y luna:
+alÃ¡benlo, todas las estrellas 
+luminosas. AlÃ¡benlo, cielos de los cielos,
+y las aguas que estÃ¡n sobre los cielos,
+Alaben ellos el nombre del SeÃ±or.
+Pues Ã‰l dijo, y fueron hechos:
+Ã‰l ordenÃ³ y fueron creados.
+
+/next/ #Fol. 37r
+Los estableciÃ³ eternamente y para siempre,
+les dio ley 
+que no pasarÃ¡.
+Alaben al SeÃ±or desde la tierra: dragones 
+y todos los abismos. Fuego,
+granizo, nieve y hielo, espÃ­ritus de 
+Tempestades: que cumplen Su palabra;
+Los montes y todas las colinas:
+Ã¡rboles frutales y todos los cedros.
+Las fieras y todo el ganado: reptiles 
+y aves que vuelan. Reyes 
+de la tierra y todos los pueblos: prÃ­ncipes 
+y todos los jueces de la tierra. JÃ³venes 
+y tambiÃ©n vÃ­rgenes, los ancianos junto con los niÃ±os.
+Alaben ellos el nombre del SeÃ±or:
+porque sÃ³lo Su nombre es exaltado.
+Su confesiÃ³n es sobre 
+tierra y cielos: y Ã‰l ha exaltado
+
+/next/ #Fol. 37v
+el cuerno de Su pueblo. Alabanza para todos 
+Sus santos, para los hijos de Israel: 
+un pueblo que a Ã©l se acerca. Salmo
+Canten al SeÃ±or un cÃ¡ntico 
+nuevo: Su alabanza en la congregaciÃ³n 
+de los santos. AlÃ©grese Israel 
+en su Creador: y regocÃ­jense las hijas de SiÃ³n 
+en su Rey. Alaben 
+Su nombre con danza: canten a Ã‰l
+alabanza con pandero y lira. Porque 
+nuestro SeÃ±or se deleita en 
+Su pueblo: y ha adornado de salvaciÃ³n 
+a los afligidos. RegocÃ­jense de gloria 
+los santos: canten con gozo 
+sobre sus camas. Sean las alabanzas 
+de Dios en su boca y una espada de dos filos 
+en su mano. Para ejecutar venganza en
+
+/next/ #Fol. 38r
+las naciones: y castigo en 
+los pueblos. Para atar a sus reyes 
+con cadenas: y a sus nobles con 
+grillos de hierro. Para ejecutar 
+en ellos el juicio decretado: esto es 
+gloria para todos Sus santos.
+Alaben a Dios en Su santuario:
+alÃ¡benlo en Su majestuoso 
+firmamento. AlÃ¡benlo 
+por Sus hechos poderosos: alÃ¡benlo 
+segÃºn la excelencia 
+de Su grandeza. AlÃ¡benlo 
+con sonido de trompeta: alÃ¡benlo con lira
+y harpa. AlÃ¡benlo 
+con pandero y coro: alÃ¡benlo 
+con instrumentos de cuerda y con el Ã³rgano. AlÃ¡benlo  
+con cÃ­mbalos resonantes:
+Todo lo que respira alabe al SeÃ±or.
+
+/next/ #Fol. 38v
+Gloria sea al Padre. AntÃ­fona: Hermosa eres tu y venga, 
+oh hija de JerusalÃ©n, terrible como ejÃ©rcitos 
+en orden. CapÃ­tulo
+Las hijas la vieron, y la declararon 
+la mÃ¡s bienaventurada, y las reinas 
+la alabaron. Gracias sea a Dios. 
+Oh seÃ±ora de gloriosa grandeza,
+muy por encima de las estrellas, 
+que ordeÃ±aste el pecho sagrado,
+por la providencia que te formÃ³. 
+TÃº lo devuelves con el tierno brote 
+lo que Eva quitÃ³ a los tristes: 
+ellos entran como las estrellas llorosas, 
+tÃº te has convertido en la ventana del cielo. 
+Restauras las puertas altas, y la puerta resplandeciente 
+de la luz, vida dada por la virgen.
+Redimes a las naciones y aplauden. 
+Gloria sea a ti, SeÃ±or, que naciste 
+de una virgen pura. Con el Padre y el EspÃ­ritu 
+Santo, por los siglos de los siglos.
+
+/next/ #Fol. 39r
+AmÃ©n. VersÃ­culo: Bendita seas entre las
+mujeres, y bendito sea el fruto
+de tu vientre. AntÃ­fona: Bendito sea el SeÃ±or. Salmo 
+Bendito sea el SeÃ±or, Dios de Israel:
+Porque nos ha visitado y ha traÃ­do 
+redenciÃ³n para su pueblo. Y nos ha levantado 
+un cuerno de salvaciÃ³n: en la casa 
+de David su siervo. Tal como lo anunciÃ³
+por boca de sus santos profetas: desde los tiempos antiguos.
+SalvaciÃ³n de nuestros enemigos: y de la 
+mano de todos los que nos aborrecen.
+Para mostrar misericordia 
+a nuestros padres: y para recordar 
+su santo pacto. El juramento 
+que hizo a nuestro padre 
+Abraham:  concedernos 
+que, sin temor, librados
+
+/next/ #Fol. 39v
+de la mano de nuestros enemigos: le
+sirvamos. En santidad y justicia 
+delante de Ã‰l: todos nuestros 
+dÃ­as. Y tÃº, niÃ±o, serÃ¡s llamado 
+profeta del AltÃ­simo: porque irÃ¡s 
+delante del SeÃ±or para preparar 
+sus caminos. Para dar el conocimiento 
+de la salvaciÃ³n a su pueblo: por el perdÃ³n 
+de sus pecados. Por la entraÃ±able 
+misericordia de nuestro Dios con que la Aurora 
+nos visitarÃ¡ desde lo alto. Para dar luz 
+a los que habitan en tinieblas, y en 
+sombra de muerte: para guiar 
+nuestros pies en el camino de paz.
+Gloria sea al Padre. AntÃ­fona: Santa MarÃ­a madre de Dios,
+virgen perpetua, templo 
+del SeÃ±or, santuario del EspÃ­ritu Santo: tÃº
+sola sin ejemplo, agradaste al SeÃ±or
+
+/next/ #Fol. 40r
+Jesucristo: ruega por el pueblo, intervÃ©n 
+en favor del clero, intercede por las mujeres 
+consagradas con voto a Dios. SeÃ±or, ten piedad de nosotros.
+Cristo, ten piedad de nosotros. SeÃ±or, ten piedad de nosotros. SeÃ±or, escÃºchanos.
+Oh Dios, que quisiste que tu Verbo 
+tomase carne en el vientre de la SantÃ­sima Virgen MarÃ­a, 
+despuÃ©s de anunciÃ¡rselo el Ãngel, concede por nuestras humildes sÃºplicas que, 
+pues la creemos verdadera Madre 
+de Dios, seamos ayudados ante Ti 
+con su intercesiÃ³n. Por el mismo 
+Jesucristo nuestro SeÃ±or. AmÃ©n.
+AntÃ­fona: Que todos los santos de Dios se dignen 
+interceder por nuestra salvaciÃ³n, y 
+la de todos. VersÃ­culo: Alegraos en el SeÃ±or y 
+regocijaos, justos. Y gloria a todos los 
+rectos de corazÃ³n. Oremos. OraciÃ³n:
+Protege, SeÃ±or, a tu pueblo
+
+/next/ #Fol. 40v
+y conserva la confianza en el patrocinio de los apÃ³stoles Pedro y 
+Pablo, y la de los demÃ¡s apÃ³stoles,
+con perpetua defensa. 
+OraciÃ³n: Que todos tus santos nos ayuden en todas partes:
+que mientras con reverencia recordemos sus mÃ©ritos, 
+podamos sentir sus patrocinios:
+que nos conceda paz a nuestros tiempos: que desde tu iglesia 
+se repelen todas las iniquidades: y se ordenen nuestros caminos, acciones 
+y voluntades, y a todos tus 
+siervos en la prosperidad de tu salvaciÃ³n: 
+entrega a nuestros bienhechores el bien eterno: 
+y concede el descanso eterno a todos los fieles difuntos. 
+A travÃ©s de Cristo nuestro SeÃ±or.
+AmÃ©n.
+
+/next/ #Fol. 41r
+Dios A la Prima 
+Ven a ayudarme. 
+SeÃ±or, date prisa
+en socorrerme. 
+Gloria sea al Padre. Himno
+Se autor prudente de nuestra salud, de la que
+durante un tiempo adoptaste, 
+naciendo de una virgen,
+forma de nuestra humanidad. Maria, Madre
+de gracia, Madre de misericordia, defiÃ©ndenos
+de nuestros enemigos y ampÃ¡ranos en la hora de nuestra muerte. 
+Gloria sea a ti, SeÃ±or, que naciste
+de la virgen, junto al Padre y 
+al EspÃ­ritu Santo, por los siglos de los siglos.
+AmÃ©n. AntÃ­fona: Asunta es. Salmo:
+SÃ¡lvame, oh Dios, por tu 
+nombre: y hazme justicia con tu 
+poder. Escucha mi oraciÃ³n, oh Dios:
+
+/next/ #Fol. 41v
+presta oÃ­do a las palabras de mi 
+boca. Porque extraÃ±os se han levantado 
+contra mÃ­, y hombres violentos 
+buscan mi vida: y no han 
+puesto a Dios delante de sÃ­. 
+Pero Dios es el que 
+me ayuda: y es nuestro SeÃ±or el que sostiene 
+mi alma. Ã‰l devolverÃ¡ el mal 
+a mis enemigos y los destruirÃ¡ 
+por tu fidelidad. Voluntariamente sacrificarÃ© 
+a ti: y alabarÃ© tu nombre, 
+Oh SeÃ±or, porque es bueno. Porque 
+me has librado de toda angustia:
  
+y mis ojos han visto a mis 
+enemigos derrotados. Salmo
+Oh SeÃ±or, tÃº mostraste favor a tu tierra,
+ 
+cambiaste la cautividad de 
+Jacob. Perdonaste la iniquidad
+
+/next/ #Fol. 42r
+de tu pueblo: cubriste todo su 
+pecado. Retiraste toda tu 
+furia: te apartaste del ardor 
+de tu ira. RestÃ¡uranos, Oh Dios 
+nuestro salvador, y haz cesar tu indignaciÃ³n 
+contra nosotros. Â¿EstarÃ¡s enojado con 
+nosotros para siempre: o prolongarÃ¡s 
+tu ira de generaciÃ³n en 
+generaciÃ³n? Oh Dios, te convertirÃ¡s y 
+nos revivirÃ¡s: y tu pueblo
+se regocijarÃ¡ en ti.  MuÃ©stranos, 
+Oh SeÃ±or, tu misericordia: y danos 
+tu salvaciÃ³n. EscucharÃ© 
+lo que Dios el SeÃ±or diga en mÃ­:
+porque hablarÃ¡ paz 
+a Su pueblo. A Sus santos:
+y a los que se convierten 
+de corazÃ³n. Pero ciertamente
+
+/next/ #Fol. 42v
+cercana estÃ¡ su salvaciÃ³n para los que le temen: para 
+que more su gloria en nuestra tierra.
+La misericordia y la verdad se han 
+Encontrado: la justicia y la paz se han besado.
+La verdad brota de la tierra: y la justicia 
+mira desde los cielos. Ciertamente 
+el SeÃ±or darÃ¡ lo que es bueno, y nuestra tierra 
+darÃ¡ su fruto. La justicia 
+irÃ¡ delante de Ã‰l: y 
+pondrÃ¡ por camino sus pasos.
+Alaben al SeÃ±or, naciones todas:
+alÃ¡benle, pueblos todos.
+Porque grande es su misericordia 
+para con nosotros: y su verdad 
+es eterna. Gloria sea al Padre.
+AntÃ­fona: MarÃ­a fue llevada al cielo: 
+y todos los Ã¡ngeles se regocijan, alaban y
+bendicen al SeÃ±or. CapÃ­tulo
+
+/next/ #Fol. 43r
+Â¿QuiÃ©n es Ã©sta que se asoma 
+como el alba, 
+hermosa como la luna, refulgente como el sol, terrible
+como el despliegue del campamento
+del ejÃ©rcito. Gracias sea a Dios. Hazme digno 
+de alabarte, Virgen Sagrada. Dame 
+fuerza contra tus enemigos.
+SeÃ±or, ten piedad de nosotros. Cristo, ten piedad de nosotros. SeÃ±or, ten piedad 
+de nosotros. Escucha, Oh SeÃ±or, mi oraciÃ³n. Y atiende a mis sÃºplicas. OraciÃ³n:
+Dios, que te has dignado escoger el aposento virginal 
+de la bienaventurada Virgen Maria, en el 
+que morarÃ­as: concede, te suplicamos: 
+que, cuidados por su defensa, 
+nos haga presentes a su conmemoraciÃ³n. Dios, 
+que vive y reina por los siglos 
+de los siglos. AmÃ©n. AntÃ­fona:
+Todos los santos. VersÃ­culo: Alegraos
+
+/next/ #Fol. 43v
+en Dios. OraciÃ³n:
+EscÃºchanos, SeÃ±or
+nuestro salvador, y protÃ©genos con la fortaleza de tus apÃ³stoles
+Pedro y Pablo, y la de los otros apÃ³stoles
+cuyas enseÃ±anzas nos has dado
+para ser fieles.
+Te rogamos. OraciÃ³n:
+Y tu paz. Bendecimos
+al SeÃ±or. Gracias sea a Dios.
+
+/next/ #Fol. 44r
+Dios A la Tercia 
+Ven 
+a ayudarme. SeÃ±or, 
+date prisa
+en socorrerme. 
+Se autor prudente 
+de nuestra salud. Maria, madre
+de gracia. Gloria sea al SeÃ±or. AntÃ­fona: MarÃ­a.
+En mi angustia clamÃ© al SeÃ±or: y Ã‰l me 
+respondiÃ³. Libra mi alma, SeÃ±or, 
+de labios mentirosos: y de lengua 
+engaÃ±osa. Â¿QuÃ© te darÃ¡, o 
+quÃ© te aÃ±adirÃ¡: Oh lengua 
+engaÃ±osa? Agudas flechas de 
+guerrero, con brasas de enebro.
+Â¡Ay de mÃ­!, porque mi peregrinaje
+es prolongado, hÃ¡bito entre las 
+tiendas de Cedar: demasiado tiempo mi alma
+
+/next/ #Fol. 44v
+ha morado. Para quienes 
+odiaban la paz, yo era un pacificador: 
+cuando les hablaba, me atacaban
+gratuitamente. Gloria sea al Padre. AntÃ­fona:
+LevantarÃ© mis ojos a los montes;
+Â¿De dÃ³nde vendrÃ¡ mi 
+ayuda? Mi ayuda viene del SeÃ±or:
+que hizo los cielos y la tierra.
+No permitirÃ¡ que tu pie 
+resbale: ni se adormecerÃ¡ el que te 
+guarda. JamÃ¡s se adormecerÃ¡: 
+ni dormirÃ¡, El que guarda a Israel.
+Nuestro SeÃ±or es tu guardador, nuestro SeÃ±or es 
+tu protecciÃ³n: a tu 
+mano derecha. De dÃ­a el sol 
+no te herirÃ¡: ni la luna de noche.
+El SeÃ±or te protegerÃ¡ de todo 
+mal: deja que el SeÃ±or guarde tu alma.
+
+/next/ #Fol. 45r
+Deja que el SeÃ±or guarde tu entrada
+y tu salida: desde ahora
+y para siempre. Salmo de David
+Yo me alegrÃ© en aquello, cuando 
+me dijeron: vamos a la casa 
+del SeÃ±or. Nuestros pies
+plantados estÃ¡n dentro de tus puertas, Oh JerusalÃ©n.
+JerusalÃ©n, que estÃ¡ edificada
+como ciudad: cuya participaciÃ³n estÃ¡
+en sÃ­ misma. A la cual 
+suben las tribus, las tribus de nuestro SeÃ±or,
+el testimonio de Israel: para confesar 
+ante el nombre de nuestro SeÃ±or. Porque 
+allÃ­ se establecieron tronos para juicio: los tronos 
+de la casa de David. Preguntaos 
+por las cosas que son la paz de JerusalÃ©n:
+y sean prosperados los que te 
+aman. Haya paz dentro de tus muros, y 
+ 
+
+/next/ #Fol. 45v
+prosperidad en tus palacios.
+Por amor de mis hermanos y de mis 
+vecinos: DirÃ© ahora sea la paz 
+en ti. Por amor de la casa del SeÃ±or nuestro 
+Dios: procurarÃ© tu bien. Gloria sea 
+al Padre. AntÃ­fona: La Virgen MarÃ­a fue elevada
+al tÃ¡lamo celestial: donde 
+el Rey de reyes tiene adornado con estrellas 
+Y entonces en SiÃ³n me establecÃ­, 		un trono.
+y en la ciudad escogida 
+me hizo descansar: en 
+JerusalÃ©n reside mi poder. Gracias sea 
+a Dios. VersÃ­culo: La gracia se derramÃ³ 
+en tus labios: Por tanto Dios 
+te ha bendecido para siempre. SeÃ±or ten piedad
+en nosotros. Oh SeÃ±or, con gracia escucha
+mi oraciÃ³n. Y llegue a Ti mi clamor.
+
+
+/next/ #Fol. 46r
+Que venga. Oremos. OraciÃ³n:
+Oh Dios, que por la fecunda virginidad 
+de la bendita Virgen MarÃ­a,
+entregaste al gÃ©nero humano los tesoros de la salvaciÃ³n eterna:
+te rogamos que nos hagas sentir siempre 
+el consuelo de su protecciÃ³n, mediante quien 
+nos hemos merecido recibir al autor 
+de la vida, nuestro SeÃ±or Jesucristo
+tu hijo. AmÃ©n. AntÃ­fona:
+Todos los Santos de Dios. VersÃ­culo: Alegraos 
+en el SeÃ±or, y regocijaos. OraciÃ³n:
+Protege, SeÃ±or, a tu pueblo.
+A todos tus santos. OraciÃ³n:
+Y tu paz. Bendecid
+a nuestro SeÃ±or. Gracias sea a Dios.
+
+/next/ #Fol. 46v
+PÃ¡gina en blanco
+
+/next/ #Fol. 47r
+Dios, 	A la Sexta
+ven 		
+a ayudarme. SeÃ±or, 
+date prisa en 
+socorrerme.  Se autor prudente 
+de nuestra salud. MarÃ­a, madre
+de gracia. Gloria sea a ti, SeÃ±or. AntÃ­fona: Por el olor.
+A ti he alzado mis ojos:
+que habitas en los cielos. He aquÃ­, 
+como los ojos de los siervos; en manos 
+de sus amos. 
+Como los ojos de la sierva en las manos 
+de su seÃ±ora: asÃ­ nuestros ojos 
+miran al SeÃ±or nuestro Dios, hasta 
+que se apiade de nosotros. SeÃ±or
+ten piedad de nosotros, ten piedad de nosotros:
+porque estamos hartos de tanto 
+desprecio. Porque nuestra alma
+
+/next/ #Fol. 47v
+estÃ¡ en extremo harto: del escarnio 
+de los que estÃ¡n en holgura, y del desprecio 
+de los soberbios. Salmo
+Pero porque el SeÃ±or estaba en nosotros,
+digamos ahora Israel: pero porque nuestro SeÃ±or
+estaba en nosotros. Cuando los hombres se levantaron 
+contra nosotros, tal vez vivos 
+nos hubieran tragado. Cuando su ira 
+se encendiÃ³ contra nosotros: tal vez
+las aguas nos hubieran anegado. Sobre nuestra alma
+hubiera pasado un torrente de aguas impetuosas.
+Bendito sea el SeÃ±or: que no nos ha entregado 
+como presa de sus dientes.
+Nuestra alma ha escapado 
+cual ave: del lazo de los cazadores.
+El lazo se rompiÃ³: y nosotros 
+
+/next/ #Fol. 48r
+escapamos. Nuestro socorro 
+estÃ¡ en el nombre del SeÃ±or,
+que hizo los cielos y la tierra. Salmo
+Los que confÃ­an en el SeÃ±or,
+son como el monte SiÃ³n: que es 
+inconmovible, que permanece 
+en JerusalÃ©n. Como los montes 
+lo rodean, asÃ­ el SeÃ±or rodea 
+a su pueblo: desde ahora y 
+para siempre. Pues el SeÃ±or 
+no dejarÃ¡ a la impiedad 
+descansando sobre la tierra de los justos,
+para que los justos no extiendan sus manos 
+para hacer el mal. Haz bien, 
+SeÃ±or, a los buenos: y a los rectos de corazÃ³n.
+Mas, a los que se desvÃ­an por sus caminos torcidos,
+nuestro SeÃ±or los llevarÃ¡ con los que 
+hacen iniquidad: paz 
+
+
+/next/ #Fol. 48v
+sea sobre Israel. Gloria sea al Padre. AntÃ­fona:
+Por el olor de tus suaves ungÃ¼entos 
+corremos: por eso las doncellas 
+te amaron tanto. CapÃ­tulo
+TambiÃ©n echÃ© raÃ­ces entre 
+un pueblo glorioso, y en la parcela de mi SeÃ±or 
+su herencia: y 
+mi morada estÃ¡ en la plena asamblea 
+de los santos. Gracias sea a Dios. VersÃ­culo:
+Bendita seas entre las mujeres,
+y bendito es el fruto de tu
+vientre. SeÃ±or ten piedad de nosotros. Cristo ten piedad de nosotros. SeÃ±or ten piedad de nosotros.
+Oh SeÃ±or, escucha mi oraciÃ³n. Y llegue a Ti 
+mi clamor. OraciÃ³n:
+Concede, Oh Dios misericordioso, 
+el socorro a nuestra fragilidad: a fin de que
+honrando la memoria de la Santa Madre de Dios:
+
+/next/ #Fol. 49r
+podamos con el auxilio de su 
+intercesiÃ³n levantarnos 
+de nuestras iniquidades.
+Por el mismo, Cristo nuestro
+SeÃ±or. AmÃ©n. AntÃ­fona: Todos los santos
+de Dios. VersÃ­culo: Alegraos en nuestro SeÃ±or.
+EscÃºchanos, Dios. OraciÃ³n:
+Todos sus santos. OraciÃ³n:
+Y tu paz. Bendigamos
+a nuestro SeÃ±or. Gracias sea a Dios.  
+
+/next/ #Fol. 49v
+PÃ¡gina en blanco.
+
+/next/ #Fol. 50r
+Dios, 	A la Nona
+ven 		
+a ayudarme. SeÃ±or, 
+date prisa en 
+socorrerme.  Se autor prudente 
+de nuestra salud. MarÃ­a, 
+Madre. Gloria 
+sea a ti, SeÃ±or. AntÃ­fona: Justa eres. Salmo
+Cuando el SeÃ±or hizo volver 
+a los cautivos de SiÃ³n: Ã©ramos 
+como los que sueÃ±an. Entonces 
+nuestra boca se llenÃ³ de risa: y nuestra lengua 
+de alegrÃ­a. Entonces 
+dijeron entre los gentiles: nuestro SeÃ±or
+ha hecho grandes cosas con ellos. Nuestro SeÃ±or
+ha hecho grandes cosas con nosotros:
+estamos alegres. Haz volver, SeÃ±or, 
+a nuestros cautivos:
+como las corrientes en el sur.
+
+/next/ #Fol. 50v
+Los que siembran con lÃ¡grimas:
+cosecharÃ¡n con alegrÃ­a. Mientras iban, fueron 
+y lloraron: arrojando sus semillas.
+Pero los que vienen, vendrÃ¡n 
+con alborozo: llevando 
+sus gavillas. Gloria sea al Padre. Salmo
+Si el SeÃ±or no edifica 
+la casa, en vano trabajan 
+los que la edifican. Si el SeÃ±or 
+no guarda la ciudad, en vano vela la guardia
+que la cuida. Es en vano 
+que os levantÃ©is de madrugada: que os levantÃ©is 
+despuÃ©s de que os acostÃ©is, que comÃ¡is
+el pan de afanosa labor. Cuando Ã‰l da 
+sueÃ±o a su amado, he aquÃ­
+la herencia de nuestro SeÃ±or, la recompensa de los hijos, el fruto
+de su vientre. Como flechas en la 
+mano del valiente, asÃ­ serÃ¡n sacudidos sus hijos.
+
+
+
+
+/next/ #Fol. 51r
+Bienaventurado sea el hombre, que de entre ellos no
+cumpliÃ³ su deseo: no 
+caerÃ¡ avergonzado cuando hable con sus enemigos 
+en la puerta. Salmo
+Bienaventurado todo aquel que teme 
+al SeÃ±or: que anda en 
+sus caminos. Porque cuando comas 
+del trabajo de tus manos:
+dichoso serÃ¡s y te irÃ¡ bien.
+Tu mujer serÃ¡ como fecunda vid
+en el interior de tu casa. Tus hijos 
+como jÃ³venes plantas de olivo:
+alrededor de tu mesa. He aquÃ­ que 
+asÃ­ serÃ¡ bendecido el hombre: que teme 
+al SeÃ±or. Nuestro SeÃ±or 
+te bendiga desde SiÃ³n: y que veas la prosperidad 
+de JerusalÃ©n, todos los dÃ­as 
+de tu vida. Y que veas a los hijos de tus 
+
+/next/ #Fol. 51v
+hijos: paz sea sobre 
+Israel. Gloria sea al Padre. AntÃ­fona: Hermosa 
+eres tu y venga, oh hija de JerusalÃ©n,
+terrible como ejÃ©rcitos 
+en orden. CapÃ­tulo
+EsparcÃ­ perfume como el canelo, 
+como la caÃ±a aromÃ¡tica 
+en las calles: como la mirra escogida
+esparcÃ­ el dulzor fragante.
+Gracias sea a Dios. VersÃ­culo: DespuÃ©s del parto, 
+permaneciste inviolada virgen.
+Madre de Dios, intercede por nosotros
+frente a nuestro SeÃ±or. SeÃ±or ten piedad de nosotros. Cristo 
+ten piedad de nosotros. SeÃ±or ten piedad de nosotros. Oh SeÃ±or, 
+con gracia escucha mi oraciÃ³n. Y llegue 
+a Ti mi clamor. OraciÃ³n:
+Oh SeÃ±or, te rogamos 
+que perdones las ofensas
+
+/next/ #Fol. 52r
+de tus siervos: para que quienes no podamos agradarte 
+con nuestras propias obras: 
+seamos salvados por la intercesiÃ³n 
+de la madre de tu hijo, nuestro SeÃ±or. Por medio
+del mismo Cristo nuestro SeÃ±or. 
+AmÃ©n. AntÃ­fona: Todos los santos de Dios. VersÃ­culo:
+
+Alegraos en el SeÃ±or. OraciÃ³n:
+Te rogamos, Dios
+todopoderoso, que no permitas 
+que seamos sacudidos por perturbaciÃ³n del enemigo, 
+a quienes nos has solidificado sobre 
+la roca de la confesiÃ³n apostÃ³lica. Otra oraciÃ³n:
+Todos tus santos. OraciÃ³n:
+Y tu paz. Bendigamos a 
+nuestro SeÃ±or. Gracias sea a Dios. 
+
+/next/ #Fol. 52v
+PÃ¡gina en blanco
+
+/next/ #Fol. 53r
+Dios, 	A la VÃ­spera
+ven 		
+a ayudarme. SeÃ±or, date prisa 
+en socorrerme.  
+AntÃ­fona: Mientras que. Salmo
+Dice el SeÃ±or a mi SeÃ±or:
+siÃ©ntate a mi diestra. Hasta que 
+ponga a tus enemigos: por 
+estrado de tus pies. Nuestro SeÃ±or extenderÃ¡ 
+desde SiÃ³n el bastÃ³n de tu poder: para gobernar
+en medio de tus 
+enemigos. El principio fue contigo en el dÃ­a 
+de tu poder en el esplendor 
+de los santos: desde el vientre antes de lucifer
+yo te engendrÃ©. Nuestro SeÃ±or ha jurado 
+y no se arrepentirÃ¡ de ello: 
+tÃº eres sacerdote para siempre, 
+segÃºn el orden de Melquisedec.
+
+/next/ #Fol. 53v
+El SeÃ±or estÃ¡ a tu diestra: ha
+quebrantado a reyes en el dÃ­a de su ira.
+JuzgarÃ¡ entre las naciones, las llenarÃ¡ 
+de ruinas: sacudirÃ¡ la cabeza de 
+muchos en la tierra. Del arroyo en el camino
+ha bebido: por tanto Ã‰l alzarÃ¡ su cabeza. 
+Gloria sea al Padre. AntÃ­fona: Mientras que el rey estaba 
+en su reclinatorio, mi nardo diÃ³ 
+su olor de dulzor. AntÃ­fona: Su izquierda. Salmo
+Alabad, hijos del SeÃ±or: alabad 
+el nombre del SeÃ±or. Bendito sea 
+el nombre del SeÃ±or: desde ahora 
+y para siempre. Desde el nacimiento del sol 
+hasta su ocaso: el nombre del SeÃ±or 
+sea alabado. Excelso sobre todas las naciones 
+es el SeÃ±or: y su gloria 
+estÃ¡ sobre los cielos. Â¿QuiÃ©n es como el SeÃ±or 
+nuestro Dios que estÃ¡ sentado en las alturas:
+
+/next/ #Fol. 54r
+que se humilla para mirar lo que hay en el cielo 
+y en la tierra? Ã‰l levanta al pobre 
+del polvo: y al necesitado 
+saca del muladar. Para sentarlos con 
+prÃ­ncipes: con los prÃ­ncipes 
+de su pueblo. Hace habitar 
+en casa a la mujer estÃ©ril: gozosa de ser madre 
+de hijos. Gloria sea al Padre. AntÃ­fona: Su izquierda mano
+debajo de mi cabeza, y su mano diestra 
+me abrazarÃ¡. AntÃ­fona: Soy morena.
+Yo me alegrÃ© en aquello, cuando 
+me dijeron: vamos a la casa 
+del SeÃ±or. Nuestros pies 
+plantados estÃ¡n: dentro de tus puertas, 
+oh JerusalÃ©n. JerusalÃ©n, que estÃ¡ edificada
+como ciudad: cuya participaciÃ³n estÃ¡ 
+en sÃ­ misma. A la cual 
+suben las tribus, las tribus de nuestro SeÃ±or,
+
+
+/next/ #Fol. 54v
+el testimonio de Israel: para confesar 
+ante el nombre de nuestro SeÃ±or. Porque 
+allÃ­ se establecieron tronos para juicio: los tronos 
+de la casa de David. Preguntaos 
+por las cosas que son la paz de JerusalÃ©n: y 
+sean prosperados los que te aman. 
+Haya paz dentro de tus muros: y prosperidad 
+en tus palacios. Por 
+el SeÃ±or nuestro Dios: procurarÃ©
+tu bien. Gloria sea al Padre. AntÃ­fona:
+Soy morena, pero preciosa, Oh hijas 
+de JerusalÃ©n, por tanto el rey me ha amado, y
+me ha llevado a sus cÃ¡maras.
+Si el SeÃ±or no AntÃ­fona: El invierno. Salmo
+edifica la casa:
+en vano trabajan los que la 
+
+/next/ #Fol. 55r
+edifican. Si el SeÃ±or no guarda 
+la ciudad, en vano vela la guardia
+que la cuida. Es en vano que 
+os levantÃ©is de madrugada: que os levanteis despuÃ©s 
+de que os acostÃ©is, que comÃ¡is
+el pan de afanosa labor. Cuando Ã‰l 
+da sueÃ±o a su amado, he aquÃ­ la herencia 
+de nuestro SeÃ±or, la recompensa de los hijos, el fruto
+de su vientre. Como flechas en la 
+mano del valiente, asÃ­ serÃ¡n sacudidos sus hijos.
+Bienaventurado sea el hombre, que de entre ellos cumpliÃ³ 
+su deseo: no caerÃ¡ avergonzado 
+cuando hable con sus enemigos en la puerta. Gloria sea al Padre.
+AntÃ­fona: El invierno ha pasado, la lluvia
+ha cesado, y se ha ido: levÃ¡ntate, amada mÃ­a, 
+y ven conmigo. AntÃ­fona: Hermosa. Salmo de David
+Alaba al SeÃ±or, oh JerusalÃ©n.
+
+/next/ #Fol. 55v
+Alaba a tu Dios, oh SiÃ³n. Porque 
+ha reforzado los cerrojos de tus 
+puertas: ha bendecido a tus hijos dentro de ti.
+Ã‰l hace la paz en tus fronteras,
+te sacia con lo mejor del trigo. EnvÃ­a 
+sus Ã³rdenes a la tierra: su palabra corre velozmente. Manda
+la nieve como lana: esparce 
+la escarcha cual ceniza. Arroja 
+su hielo como migas de pan:
+Â¿QuiÃ©n puede resistir 
+ante su rostro frÃ­o? EnvÃ­a su 
+palabra y los derrite: su espÃ­ritu 
+hace soplar, y el agua corre.
+Declara su palabra 
+a Jacob: sus estatutos y sus ordenanzas 
+a Israel. No ha hecho asÃ­ con ninguna otra 
+NaciÃ³n: y en cuanto a sus ordenanzas, no las han
+ 
+/next/ #Fol. 56r
+conocido. Gloria sea al Padre. AntÃ­fona: Hermosa
+te has vuelto y dulce en tus deleites, 
+santa madre de Dios. CapÃ­tulo
+Desde el principio, y antes de que los siglos fuesen 
+creados, y hacia siglos futuros 
+nunca dejarÃ© de existir: y en la santa 
+morada, en su presencia 
+ofrecÃ­ culto. Gracias sea a Dios. Himno
+Salve estrella del mar, madre de Dios
+y siempre virgen, feliz puerta del cielo,
+TÃº que has recibido el saludo 
+de Gabriel, estableciÃ©ndonos en la paz,
+y has cambiado el nombre de Eva. Rompe las ataduras 
+de los pecadores, da luz a los ciegos aleja: 
+de nosotros los males, alcanzanos 
+todos los bienes. Muestra que eres madre,
+reciba nuestras sÃºplicas por medio de ti, aquÃ©l que, 
+naciendo por nosotros, aceptÃ³ 
+
+/next/ #Fol. 56v
+ser Hijo tuyo.
+Oh, Virgen incomparable, amable como ninguna,
+haz que, libres de nuestras culpas, permanezcamos humildes y 
+castos. Danos una vida limpia,
+prepÃ¡ranos un camino seguro, para que viendo a JesÃºs, 
+nos alegremos eternamente contigo. Demos alabanza a Dios Padre,
+gloria a Cristo Soberano, y tambiÃ©n al Santo 
+EspÃ­ritu, a los Tres un mismo honor. AmÃ©n.
+VersÃ­culo: La gracia se derramÃ³ 
+en tus labios. Por tanto Dios te ha bendecido 
+para siempre. AntÃ­fona: Bendita madre.
+Mi alma: engrandece al SeÃ±or.
+Y mi espÃ­ritu se regocija: en 
+Dios mi salvador. Porque ha mirado 
+la humilde condiciÃ³n de esta su sierva: pues 
+he aquÃ­, desde ahora en adelante todas las generaciones 
+me tendrÃ¡n por bienaventurada. Porque el
+poderoso ha hecho grandes cosas me ha hecho:
+y santo es su nombre. Y
+
+/next/ #Fol. 57r
+de generaciÃ³n en generaciÃ³n es su misericordia:
+para los que le temen. Ha hecho 
+Proezas con su brazo: ha esparcido 
+a los soberbios en el pensamiento de sus corazones. Ha 
+quitado a los poderosos de sus tronos: y ha exaltado 
+a los humildes. A los hambrientos ha colmado 
+de bienes: y ha despedido a los ricos con las manos 
+vacÃ­as. Ha ayudado a Israel, su hijo:
+para recuerdo de su misericordia. Tal como 
+dijo a nuestros padres: 
+a Abraham y a su descendencia para siempre.
+Gloria sea al Padre. AntÃ­fona: Bendita madre
+ y virgen intocada, gloriosa reina 
+del mundo, intercede por nosotros ante 
+nuestro SeÃ±or. SeÃ±or ten piedad de nosotros. Cristo ten piedad 
+de nosotros. SeÃ±or ten piedad de nosotros. Oh SeÃ±or, 
+con gracia escucha mi oraciÃ³n. Y llegue 
+a Ti mi clamor. OraciÃ³n:
+
+
+/next/ #Fol. 57v
+Te rogamos, SeÃ±or, 
+que concedas a nosotros, tus siervos,
+gozar de la perpetua salud del alma y del cuerpo:
+y que por gloriosa
+intercesiÃ³n de la bienaventurada MarÃ­a, siempre virgen, 
+seamos librados de la tristeza 
+presentes, y gocemos de la eterna alegrÃ­a. 
+Por Cristo nuestro SeÃ±or.
+AmÃ©n. AntÃ­fona: Oh todos los santos de Dios. VersÃ­culo:
+Alegraos en el SeÃ±or. OraciÃ³n:
+Protege, SeÃ±or, a tu pueblo. OraciÃ³n:
+Y tu paz. Bendigamos
+a nuestro SeÃ±or. Gracias sea a Dios.
+
+/next/ #Fol. 58r
+RestÃ¡uranos, A la Completa
+Oh Dios nuestro salvador.
+Y haz cesar tu indignaciÃ³n 
+contra nosotros. Dios, ven
+a ayudarme.
+Muchas veces me han perseguido 
+desde mi juventud: diga ahora 
+Israel. Muchas veces me han perseguido 
+desde mi juventud: pero no han 
+prevalecido contra mÃ­. Sobre mis espaldas araron 
+los pecadores: 
+prolongaron su 
+inequidad. Nuestro SeÃ±or es justo, cortarÃ¡ las 
+coyundas de los pecadores: que sean avergonzados 
+y vueltos atrÃ¡s todos los que odian a SiÃ³n. Que sean 
+como hierba en los techos, que 
+se seca antes de ser arrancado.
+Con la cual el segador no llena su mano
+
+/next/ #Fol. 58v
+ni el recogedor de gavillas 
+sus brazos. Y no les digan 
+los que pasan, la bendiciÃ³n 
+de nuestro SeÃ±or sea sobre vosotros; os bendecimos 
+en el nombre del SeÃ±or.
+Desde lo mÃ¡s profundo, oh SeÃ±or, 
+he clamado a ti: SeÃ±or, oye mi 
+voz. EstÃ©n atentos 
+tus oÃ­dos: a la voz de mis 
+sÃºplicas. SeÃ±or, si tÃº tuvieras en cuenta 
+las iniquidades: Â¿quiÃ©n, oh SeÃ±or, podrÃ­a 
+permanecer? Pero en ti hay 
+perdÃ³n, para que seas temido,
+espero en el SeÃ±or.
+En Ã‰l espera mi alma, y en su palabra 
+tengo mi esperanza. Mi alma espera al SeÃ±or
+mÃ¡s que los centinelas a la maÃ±ana:
+Oh Israel, espera en el SeÃ±or. Porque en el 
+
+/next/ #Fol. 59r
+SeÃ±or hay misericordia: y en Ã‰l 
+hay abundante redenciÃ³n. Y Ã‰l redimirÃ¡ a 
+Israel: de todas sus iniquidades.
+SeÃ±or, mi corazÃ³n no es soberbio, 
+ni mis ojos 
+altivos. Ni ando tras las 
+grandezas: ni en cosas demasiado difÃ­ciles para 
+MÃ­. Sino que he calmado 
+y acallado mi alma.
+Como niÃ±o destetado en el regazo 
+de su madre: asÃ­ reposa en mÃ­ mi alma.
+Espera, oh Israel, en el SeÃ±or,
+desde ahora y para siempre. CapÃ­tulo
+Soy la hermosa madre del amor, 
+del miedo, de la grandeza 
+y de la santa esperanza. Gracias sea a Dios. VersÃ­culo:
+Ora por nosotros, santa madre de Dios.
+Para que seamos dignos de las promesas 
+
+
+/next/ #Fol. 59v
+de Cristo. AntÃ­fona: Bajo tu. Salmo
+Ahora, permite que tu siervo se vaya,
+SeÃ±or: conforme a tu palabra 
+en paz. Porque han visto mis ojos: 
+tu salvaciÃ³n. La cual has 
+Preparado: en presencia de todos los pueblos.
+Luz de revelaciÃ³n 
+a los gentiles: y gloria de tu pueblo Israel.
+AntÃ­fona: Bajo tu protecciÃ³n
+nos refugiamos, santa madre de Dios: 
+no desprecies nuestras sÃºplicas 
+en los momentos de necesidad pero lÃ­branos 
+de todos los peligros siempre, virgen 
+santÃ­sima. SeÃ±or ten piedad de nosotros. Cristo ten piedad  de nosotros. SeÃ±or ten piedad de nosotros. 
+Oh SeÃ±or,  con gracia escucha. Oremos. OraciÃ³n:
+Oh santÃ­sima y siempre gloriosa 
+Virgen, que la gloriosa intercesiÃ³n nos proteja, 
+y nos conduzca a la vida eterna. Por
+
+/next/ #Fol. 60r
+AntÃ­fona: Oh todos los santos de Dios. VersÃ­culo: Alegraos en nuestro SeÃ±or. OraciÃ³n:
+EscÃºchanos, Dios. OraciÃ³n:
+Todos tus santos. OraciÃ³n:
+Y tu paz. Bendigamos al SeÃ±or. Gracias sea a Dios. AntÃ­fona:
+Dios te salve, reina y madre 
+de misericordia. Vida, dulzura y esperanza nuestra;
+Dios te salve. A ti llamamos 
+los desterrados hijos de Eva. A ti 
+suspiramos, gimiendo y llorando
+en este valle de lÃ¡grimas.
+Ea, pues, SeÃ±ora, abogada nuestra,
+vuelve a nosotros esos tus ojos misericordiosos.
+Y despuÃ©s de este destierro, 
+muÃ©stranos a JesÃºs,
+fruto bendito de tu vientre. Oh, clementÃ­sima, 
+oh piadosa, oh dulce Virgen MarÃ­a. VersÃ­culo: Ave
+Maria, llena eres de gracia: nuestro SeÃ±or es contigo.
+
+
+
+/next/ #Fol. 60v
+Bendita eres entre todas las mujeres, y 
+bendito es el fruto de tu vientre. OraciÃ³n:
+Dios todopoderoso y eterno, 
+que preparaste el cuerpo y el alma 
+de la gloriosa virgen MarÃ­a, para que
+mereciera ser hecha digna morada
+de tu hijo, con la cooperaciÃ³n del EspÃ­ritu Santo:
+concÃ©denos, regocijarnos en su
+conmemoraciÃ³n: por su piadosa intercesiÃ³n 
+seamos liberados de los males inmediatos 
+y de la muerte eterna.
+Por Cristo nuestro SeÃ±or. AmÃ©n.
+
+/next/ #Fol. 61r
+Reverso de la iluminaciÃ³n.
+
+/next/ #Fol. 61v
+IluminaciÃ³n.
+
+/next/ #Fol. 62r
+Comienzo de los siete salmos de David
+SeÃ±or, no me reprendas en tu ira:
+ni me castigues 
+en tu furor.Ten 
+piedad de mÃ­, SeÃ±or, 
+pues 
+languidezco: sÃ¡name, SeÃ±or, porque 
+mis huesos se 
+estremecen. Mi alma tambiÃ©n estÃ¡ muy 
+Angustiada: y tÃº, oh SeÃ±or, Â¿hasta cuÃ¡ndo?
+VuÃ©lvete, SeÃ±or, y rescata 
+mi alma: sÃ¡lvame 
+por tu misericordia. Porque 
+no hay en la muerte memoria 
+de ti: en el infierno Â¿quiÃ©n 
+se te darÃ¡ confesarÃ¡? He laborado
+en mis gemidos, todas las noches 
+
+
+/next/ #Fol. 62v
+lavarÃ© mi lecho:
+con mis lÃ¡grimas regarÃ© mi cama.
+Mi ojo se turba de furor:
+he envejecido entre todos mis 
+adversarios. Apartaos de mÃ­, todos 
+los que hacÃ©is iniquidad: porque el SeÃ±or ha oÃ­do 
+la voz de mi llanto. Nuestro SeÃ±or ha escuchado 
+mi sÃºplica: nuestro SeÃ±or recibe 
+mi oraciÃ³n.Todos mis enemigos serÃ¡n avergonzados, y 
+se turbarÃ¡n en gran manera:
+se volverÃ¡n, y 
+de repente serÃ¡n avergonzados. Salmo
+Bienaventurado sean aquellos cuya 
+transgresiÃ³n es perdonada: y cuyo pecado
+estÃ¡ cubierto. Bienaventurado es aquel a quien 
+el SeÃ±or no culpa de iniquidad: y en 
+cuyo espÃ­ritu no hay engaÃ±o.
+Por haber
+
+/next/ #Fol. 63r
+callado, mis huesos envejecieron: porque 
+llorÃ© todo el dÃ­a. Porque de dÃ­a, y de 
+noche tu mano es pesada sobre 
+mÃ­: me he vuelto en mis 
+arrebatos, mientras la espina estÃ¡ clavada. 
+Os he hecho notoria mi transgresiÃ³n: 
+y no os encubrÃ­ mi 
+iniquidad. Dije, confesarÃ© mi injusticia 
+al SeÃ±or: y 
+tÃº has perdonado la impiedad de mi 
+pecado. Por esto te rezarÃ¡ cada 
+Santo: a su debido tiempo. 
+Pero caÃ­do en un diluvio de muchas 
+aguas: no se acercarÃ¡n 
+a Ã‰l. TÃº eres mi refugio 
+contra la angustia, que me rodea: 
+mi alborozo, lÃ­brame de los que 
+me rodea. Os harÃ© saber
+
+/next/ #Fol. 63v
+y os enseÃ±arÃ© el camino,
+en que debes andar: te aconsejarÃ© con mis ojos 
+puestos en ti. No seas como 
+el caballo o como el mulo: que no tienen 
+entendimiento. Cuyos arreos incluyen brida y freno 
+para sujetarlos, porque si no, 
+no se acercan a ti. Muchos 
+son los dolores del pecador: pero la misericordia 
+rodearÃ¡ al que confÃ­a 
+en el SeÃ±or. Alegraos en el SeÃ±or 
+y regocijaos, justos: y gloria sea 
+a todos los rectos de corazÃ³n. Salmo
+SeÃ±or, no me reprendas en tu 
+ira: ni me castigues 
+en tu furor. Porque tus saetas 
+se han clavado en mÃ­: y sobre mÃ­ ha 
+descendido tu mano. Nada hay 
+sano en mi carne a causa de tu indignaciÃ³n;
+en mis huesos no hay salud a causa 
+
+/next/ #Fol. 64r
+de tu ira: en mis huesos no hay paz 
+a causa de mi pecado. Porque 
+mis iniquidades han sobrepasado 
+mi cabeza: como pesada 
+carga, pesan mucho para mÃ­.
+Mis llagas hieden y supuran:
+a causa de mi necedad.
+Estoy encorvado y abatido:
+en gran manera: y ando sombrÃ­o 
+todo el dÃ­a. Porque mis lomos 
+estÃ¡n inflamados de ilusiones:
+y nada hay sano en mi carne.
+Estoy entumecido y abatido 
+en gran manera: gimo a causa de la agitaciÃ³n 
+de mi corazÃ³n. SeÃ±or, todo mi anhelo 
+estÃ¡ delante de ti: y mi suspiro 
+no te es oculto.
+Palpita mi corazÃ³n, 
+
+/next/ #Fol. 64v
+mis fuerzas me abandonan: y aÃºn 
+la luz de mis ojos, se ha 
+ido de mÃ­. Mis amigos, y 
+mis compaÃ±eros: se me han acercado,
+y se han mantenido lejos de mÃ­. Y 
+aquellos que estaban cerca de mÃ­, se mantuvieron 
+a distancia: y los 
+que procuran mi mal, hablan 
+de mi destrucciÃ³n: y traman traiciÃ³n 
+todo el dÃ­a. Mas yo, como 
+el sordo, no oigo: y como el 
+mudo no abro la boca.
+Y me convertÃ­ como el hombre 
+que no oye: y en cuya boca 
+no hay rÃ©plica. Porque en ti espero, 
+oh SeÃ±or: tÃº me escucharÃ¡s, SeÃ±or, 
+Dios mÃ­o. Pues dije: que no se 
+ 
+/next/ #Fol. 65r
+alegren de mÃ­ los que: 
+cuando mi pie resbala, 
+se engrandecen sobre mÃ­. Porque 
+yo estoy a punto de caer: y mi dolor 
+estÃ¡ continuamente delante de mÃ­.
+Confieso, pues, mi 
+Iniquidad: afligido estoy a causa de mi pecado.
+Pero mis enemigos son vigorosos y 
+fuertes: muchos son los que 
+sin causa me aborrecen.
+Y los que pagan mal por bien,
+se me oponen, porque yo sigo 
+lo bueno. No me abandones, 
+oh SeÃ±or Dios mÃ­o: no estÃ©s lejos 
+de mÃ­. Ven a 
+ayudarme. Date prisa en 
+Socorrerme: oh SeÃ±or, Dios de mi salvaciÃ³n. Salmo
+Ten piedad de mÃ­, oh Dios: conforme a 
+tu gran misericordia.
+
+/next/ #Fol. 65v
+Y conforme a lo inmenso de 
+tu compasiÃ³n: borra mi
+iniquidad. LÃ¡vame por completo de 
+mi iniquidad: y lÃ­mpiame de 
+mi pecado. Porque yo reconozco mi iniquidad:
+y mi pecado 
+estÃ¡ siempre delante de mÃ­. Contra ti solo 
+he pecado, y he hecho lo malo delante de tus ojos:
+de manera que eres justo cuando hablas,
+y sin reproche cuando juzgas. He 
+aquÃ­, yo nacÃ­ en iniquidad:
+y en pecado me concibiÃ³ 
+mi madre. He aquÃ­, tÃº deseas la verdad:
+en lo mÃ¡s Ã­ntimo y en lo secreto 
+me harÃ¡s conocer sabidurÃ­a.
+PurifÃ­came con hisopo, y 
+serÃ© limpio: lÃ¡vame, y 
+serÃ© mÃ¡s blanco que la nieve. Hazme oÃ­r 
+
+/next/ #Fol. 66r
+gozo y alegrÃ­a: que se regocijen 
+los huesos que has quebrantado. Esconde 
+tu rostro de mis pecados: y borra todas 
+mis iniquidades. Crea en 
+mÃ­, oh Dios, un corazÃ³n limpio: y renueva un espÃ­ritu 
+recto dentro 
+de mÃ­.
+No me eches de tu presencia: y 
+no quites de mÃ­ tu 
+santo EspÃ­ritu. RestitÃºyeme el gozo 
+de tu salvaciÃ³n: y sostenme 
+con un espÃ­ritu de poder. Entonces enseÃ±arÃ© a los transgresores 
+tus caminos: y los pecadores se convertirÃ¡n 
+a ti. LÃ­brame de delitos de sangre, 
+oh Dios, Dios de mi salvaciÃ³n: entonces 
+mi lengua cantarÃ¡ con gozo tu 
+justicia. Abre mis labios, oh SeÃ±or: para que 
+mi boca anuncie tu 
+alabanza. Porque no te deleitas en sacrificio, 
+
+/next/ #Fol. 66v
+de lo contrario yo lo ofrecerÃ­a:
+no te agrada el 
+holocausto. Los sacrificios de Dios son el espÃ­ritu 
+contrito: al corazÃ³n contrito 
+y humillado, oh Dios, no despreciarÃ¡s.
+Haz bien, oh Dios, con tu benevolencia 
+a SiÃ³n: y edifica los muros 
+de JerusalÃ©n. Entonces te agradarÃ¡n 
+los sacrificios de justicia, el holocausto 
+y el sacrificio perfecto: entonces se ofrecerÃ¡n 
+novillos sobre tu altar. Salmo
+Oh SeÃ±or, escucha mi oraciÃ³n,
+y llegue a ti mi clamor.
+No escondas de mÃ­ tu rostro: 
+en el dÃ­a de mi angustia, inclina 
+hacia mÃ­ tu oÃ­do. El dÃ­a 
+en que te invoco: 
+respÃ³ndeme pronto. Porque mis dÃ­as 
+han sido consumidos en humo: y han sido quemados mis huesos
+
+
+/next/ #Fol. 67r
+como brasero. 
+Mi corazÃ³n ha sido herido como la hierba, 
+y se ha secado: hasta me olvido 
+de comer mi pan. A causa de la intensidad
+de mi gemido: mis huesos se pegan 
+a la piel. Me parezco 
+al pelÃ­cano del desierto: como el bÃºho
+ de las soledades he llegado a ser. He 
+Mirado: soy cual pÃ¡jaro 
+solitario sobre un tejado. Todo el dÃ­a
+mis enemigos me han afrentado:
+y los que me escarnecen, han usado mi nombre 
+como maldiciÃ³n. Porque cenizas he comido 
+por pan,
+y con lÃ¡grimas he mezclado mi 
+Bebida. A causa de tu indignaciÃ³n y de tu enojo:
+pues tÃº me has levantado y me has rechazado.
+Mis dÃ­as son como sombra que se alarga:
+
+/next/ #Fol. 67v
+y yo me seco como la hierba. Mas 
+tÃº, SeÃ±or, permaneces para 
+siempre: y tu memoria serÃ¡ de generaciÃ³n en 
+generaciÃ³n. TÃº 
+levantÃ¡ndose tendrÃ¡s misericordia de SiÃ³n:
+porque es tiempo de apiadarse de ella, pues 
+ha llegado la hora. Porque tus siervos 
+se deleitan en sus piedras: y su 
+tierra tendrÃ¡ misericordia. Y las naciones 
+alabarÃ¡n tu nombre, oh SeÃ±or: y todos 
+los reyes de la tierra, tu gloria. Porque 
+nuestro SeÃ±or ha edificado a SiÃ³n: y serÃ¡ 
+vista en su gloria. MirÃ³ con respeto
+la oraciÃ³n de los humildes: y no ha despreciado 
+su plegaria. Esto se escribirÃ¡ para 
+las generaciones futuras: para que un pueblo 
+aÃºn por crear alabe al SeÃ±or. Pues 
+Ã‰l mirÃ³ desde su excelso santuario: nuestro
+
+/next/ #Fol. 68r
+SeÃ±or desde el cielo se fijÃ³ en la tierra.
+Para oÃ­r el gemido 
+de los cautivos: para liberar a los hijos 
+condenados a muerte. Para que proclamen el nombre del SeÃ±or
+en SiÃ³n: y su alabanza 
+en JerusalÃ©n. Cuando se congreguen
+los pueblos y los reinos a una: para servir a 
+nuestro SeÃ±or. Ã‰l le respondiÃ³ 
+a la manera de su virtud: muÃ©strame
+mis pocos dÃ­as. No me llames 
+en la mitad de mis 
+DÃ­as: tus aÃ±os son por todas las 
+generaciones. En el principio, oh SeÃ±or, 
+tÃº fundaste la tierra: y los cielos son la obra 
+de tus manos. Ellos perecerÃ¡n
+pero tÃº permaneces: y todos ellos 
+como una vestidura se desgastarÃ¡n. Y 
+como vestido los mudarÃ¡s, 
+
+/next/ #Fol. 68v
+y serÃ¡n cambiados: pero tÃº eres 
+el mismo, y tus aÃ±os no fallarÃ¡n.
+Los hijos de tus siervos 
+habitarÃ¡n, y su descendencia serÃ¡ ordenada
+por siempre. Salmo:
+Desde lo mÃ¡s profundo he clamado 
+a ti, oh SeÃ±or. SeÃ±or, oye mi 
+Voz. EstÃ©n tus oÃ­dos 
+Atentos: a la voz de mis 
+sÃºplicas. Si tÃº tuvieras en cuenta las iniquidades,
+oh SeÃ±or, Â¿quiÃ©n, oh SeÃ±or, 
+podrÃ­a permanecer? Porque en ti hay 
+piedad, por tu ley
+te he sustentado, oh SeÃ±or. Mi alma 
+reposÃ³ en su palabra: mi alma 
+esperÃ³ en el SeÃ±or. 
+Desde la vigilia de la maÃ±ana hasta la
+noche: Israel esperarÃ¡ en el SeÃ±or.
+
+/next/ #Fol. 69r
+Porque junto al SeÃ±or hay misericordia, 
+y con Ã‰l abundante redenciÃ³n. Y 
+Ã‰l redimirÃ¡ a Israel: de todas 
+sus iniquidades. Salmo 
+SeÃ±or, escucha mi oraciÃ³n, presta 
+oÃ­do a mi sÃºplica: 
+en tu verdad, Ã³yeme en tu 
+justicia. Y no entres 
+en juicio con tu siervo: pues 
+no serÃ¡ justificado ante ti ningÃºn 
+ser viviente. Pues el enemigo 
+ha perseguido mi alma: ha humillado 
+mi vida hasta la tierra. Me ha 
+colocado en lugares oscuros 
+como los muertos del mundo: y mi espÃ­ritu se angustia 
+sobre mÃ­, dentro de mÃ­
+mi corazÃ³n estÃ¡ turbado. Recuerdo los 
+dÃ­as antiguos, medito 
+
+/next/ #Fol. 69v
+en todas tus obras: en las 
+obras de tus manos 
+reflexiono. Extiendo mis manos hacia 
+ti: mi alma estÃ¡ como tierra 
+sedienta ante ti. EscÃºchame pronto, 
+Oh SeÃ±or: mi espÃ­ritu desfallece. No apartes 
+tu rostro de mÃ­: no sea que me haga 
+semejante a los que descienden a la fosa. 
+Hazme oÃ­r por la maÃ±ana 
+tu misericordia, porque en ti 
+confÃ­o. Hazme saber el camino 
+por el que debo andar: porque a ti elevo 
+mi alma. LÃ­brame de mis 
+enemigos, SeÃ±or; a ti me 
+refugio: ensÃ©Ã±ame a hacer tu 
+voluntad, porque tÃº eres mi Dios.
+Tu buen espÃ­ritu me guiarÃ¡ 
+a tierra firme:
+ por
+
+/next/ #Fol. 70r
+tu nombre, oh SeÃ±or, me 
+vivificarÃ¡s en tu equidad. SacarÃ¡s a
+mi alma de las tribulaciones: 
+y por tu misericordia, acabarÃ¡s con todos 
+mis enemigos. Y destruirÃ¡s a todos 
+los adversarios de mi alma: pues
+yo soy tu siervo. LetanÃ­a
+SeÃ±or ten piedad de nosotros. Cristo ten piedad de nosotros. SeÃ±or 
+ten piedad de nosotros.  Cristo escÃºchanos.
+Dios, Padre Celestial, ten piedad 
+de nosotros. Dios Hijo, redentor del mundo, 
+ten piedad de nosotros. Dios, EspÃ­ritu Santo, 
+ten piedad de nosotros. SantÃ­sima 
+Trinidad, que eres un solo Dios, ten piedad 
+de nosotros. Santa MarÃ­a, ruega [por nosotros].
+Santa Madre de Dios, ruega [por nosotros].
+Santa virgen de las vÃ­rgenes, ruega [por nosotros].
+san Miguel, ruega [por nosotros].
+
+/next/ #Fol. 70v
+San Gabriel, ruega [por nosotros].
+San Rafael, ruega [por nosotros].
+Todos los santos Ã¡ngeles y arcÃ¡ngeles, rueguen [por nosotros].
+San Juan Bautista, ruega [por nosotros].
+San Pedro, ruega [por nosotros].
+San Pablo, ruega [por nosotros].
+San AndrÃ©s, ruega [por nosotros].
+Santiago, ruega [por nosotros].
+San Juan, ruega [por nosotros].
+Santo TomÃ¡s, ruega [por nosotros].
+Santiago, ruega [por nosotros].
+San Felipe, ruega [por nosotros].
+San Bartolomeo, ruega [por nosotros].
+San Mateo, ruega [por nosotros].
+San SimÃ³n, ruega  [por nosotros].
+San Tadeo, ruega [por nosotros].
+San BernabÃ©, ruega [por nosotros].
+San Marcos, ruega [por nosotros].
+
+/next/ #Fol. 71r
+San Lucas, ruega [por nosotros].
+Todos los santos apÃ³stoles, rueguen [por nosotros].
+San Esteban, ruega [por nosotros].
+San Lorenzo, ruega [por nosotros].
+San Anacleto, ruega [por nosotros].
+San Clemente, ruega [por nosotros].
+San Livino, ruega [por nosotros].
+San Amando, ruega [por nosotros].
+San BavÃ³n, ruega [por nosotros].
+San Sixto, ruega [por nosotros].
+San Calixto, ruega [por nosotros].
+San Cornelio, ruega [por nosotros].
+San Cipriano, ruega [por nosotros].
+San QuintÃ­n, ruega [por nosotros].
+San Lorenzo, ruega [por nosotros].
+San Vicente, ruega [por nosotros].
+San Jorge, ruega [por nosotros].
+San CristÃ³bal, ruega [por nosotros].
+
+/next/ #Fol. 71v
+San Dionisio, ruega [por nosotros].
+San Mauricio, ruega [por nosotros].
+San DamiÃ¡n, ruega [por nosotros].
+San FabiÃ¡n, ruega [por nosotros].
+San SebastiÃ¡n, ruega [por nosotros].
+San Gervasio, ruega [por nosotros].
+San CrispiÃ­n, ruega [por nosotros].
+San Blas, ruega [por nosotros].
+Todos los santos mÃ¡rtires, rueguen [por nosotros].
+San Silvestre, ruega [por nosotros].
+San Leo, pray ruega [por nosotros].
+San Gregorio, ruega [por nosotros].
+San AgustÃ­n, ruega [por nosotros].
+San Ambrosio, ruega [por nosotros].
+San JerÃ³nimo, ruega [por nosotros].
+San NicolÃ¡s, ruega [por nosotros].
+San MartÃ­n, ruega [por nosotros].
+San Bernardo, ruega [por nosotros].
+
+/next/ #Fol. 72r
+San Wilibrordo, ruega [por nosotros].
+Todos los santos confesores, rueguen [por nosotros].
+Santa MarÃ­a Magdalena, ruega [por nosotros].
+Santa InÃ©s, ruega [por nosotros].
+Santa FelÃ­citas, ruega [por nosotros].
+Santa Alma, ruega [por nosotros].
+Santa Perpetua, ruega [por nosotros].
+Santa Ãgueda, ruega [por nosotros].
+Santa Cecilia, ruega [por nosotros].
+Santa Catalina, ruega [por nosotros].
+Santa BÃ¡rbara, ruega [por nosotros].
+Santa Margarita, ruega [por nosotros].
+Santa Petronila, ruega [por nosotros].
+Santa BrÃ­gida, ruega [por nosotros].
+Santa Gertrudis, ruega [por nosotros].
+Santa Adeltrudis, ruega [por nosotros].
+Santa Clara, ruega [por nosotros].
+Santa Ãšrsula, ruega [por nosotros].
+
+/next/ #Fol. 72v
+Todas las santas vÃ­rgenes y viudas, rueguen [por nosotros].
+Todos los santos y santas de Dios, rueguen [por nosotros].
+MuÃ©stratenos propicio. LÃ­branos, oh SeÃ±or.
+De todo mal, oh SeÃ±or, lÃ­branos. De las trampas 
+del diablo, lÃ­branos. De la condenaciÃ³n
+eterna, lÃ­branos. De la muerte sÃºbita, 
+lÃ­branos. Por tu encarnaciÃ³n, 
+lÃ­branos. Por tu natividad, lÃ­branos.
+Por tu circuncisiÃ³n, lÃ­branos.
+Por tu bautismo, lÃ­branos. Por
+tu pasiÃ³n, y cruz, y tu muerte, 
+lÃ­branos. Por tu resurrecciÃ³n, 
+lÃ­branos. Por tu admirable ascensiÃ³n,
+lÃ­branos. Por la venida del EspÃ­ritu 
+Santo, nuestro Consolador, lÃ­branos. Nosotros, pecadores, 
+te rogamos que nos escuches. Que nos concedas la paz.
+Te rogamos. Que tu misericordia y piedad
+nos guarden. Te rogamos. Que
+
+/next/ #Fol. 73r
+Te rogamos que concedas el descanso eterno 
+a todos los fieles difuntos. Te rogamos. Que te 
+dignes escucharnos. Te rogamos. Te rogamos. Que 
+nos escuches. Te rogamos. Hijo de Dios. Te rogamos. Cordero 
+de Dios que quitas los pecados del mundo, perdÃ³nanos
+oh SeÃ±or. Cordero de Dios que 
+quitas los pecados del mundo, escÃºchanos
+oh SeÃ±or. Cordero de Dios que quitas los pecados 
+del mundo, ten piedad de nosotros.
+SeÃ±or ten piedad de nosotros. Cristo ten piedad de nosotros. SeÃ±or
+ ten piedad de nosotros. Cristo escÃºchanos. Padre
+Nuestro. No nos dejes caer. Oh SeÃ±or escucha.
+Y que mi llanto. Oremos. OraciÃ³n:
+Dios, de quien es propio siempre tener 
+misericordia, y perdonar, acepta nuestra sÃºplica: 
+que la tierna misericordia de tu piedad nos
+absuelva, y a todos tus siervos, atados por la cadena 
+de pecados que nos une. Por Cristo. OraciÃ³n:
+
+/next/ #Fol. 73v
+Oh Dios el creador 
+y redentor de todos los fieles, 
+concede a las almas 
+de tus siervos y siervas 
+la remisiÃ³n de todos sus pecados: para que por las piadosas sÃºplicas 
+alcancen el perdÃ³n 
+que siempre desearon. 
+Que en paz descanse. AmÃ©n.
+
+/next/ #Fol. 74r
+PÃ¡gina en blanco (reverso de la iluminaciÃ³n)
+
+/next/ #Fol. 74v
+IluminaciÃ³n del funeral
+
+/next/ #Fol. 75r
+Comienzo del Oficio de los Muertos 
+AntÃ­fona: AgradarÃ©. Salmo de David
+He amado, pues
+nuestro SeÃ±or: oirÃ¡ mi voz y mis oraciones. 
+Porque ha inclinado 
+su oÃ­do
+a mÃ­: por tanto,  en todos mis dÃ­as 
+le invocarÃ©. Me rodearon ligaduras de 
+muerte, y me encontraron las angustias del 
+infierno. Tribulaciones y dolor habÃ­a yo 
+hallado: entonces invoquÃ© el nombre de 
+nuestro SeÃ±or. Oh SeÃ±or, libra ahora mi alma,
+SeÃ±or misericordioso, y justo:
+y nuestro Dios tiene misericordia. Nuestro SeÃ±or  
+guarda a los pequeÃ±os: estaba yo postrado, 
+y me salvÃ³. Vuelve, 
+oh alma mÃ­a, a tu reposo:
+
+/next/ #Fol. 75v
+Pues nuestro SeÃ±or te ha hecho bien. Pues 
+Ã©l ha librado mi alma de la muerte: mis ojos 
+de lÃ¡grimas, mis pies 
+de resbalar. AgradarÃ© al SeÃ±or en la 
+tierra de los vivientes. ConcÃ©deles, SeÃ±or, 
+el descanso eterno: y brille para ellos 
+la luz perpetua. AntÃ­fona: AgradarÃ© al SeÃ±or
+en la tierra de los vivientes. AntÃ­fona: Ay de mÃ­.
+ClamÃ© en angustia al SeÃ±or. AntÃ­fona:
+Ay de mÃ­, pues demasiado tiempo ha 
+morado mi alma. AntÃ­fona: Nuestro SeÃ±or. Salmo
+LevantÃ© mis ojos. AntÃ­fona: Nuestro SeÃ±or
+te protegerÃ¡ de todo mal, nuestro SeÃ±or
+guardarÃ¡ tu alma. AntÃ­fona: Si. Salmo
+Desde lo mÃ¡s profundo he clamado. AntÃ­fona: Si
+tuvieras en cuenta, SeÃ±or, las iniquidades,
+Â¿QuiÃ©n, oh SeÃ±or, podrÃ­a resistir? AntÃ­fona: 
+Las obras de tus manos. Salmo
+
+
+/next/ #Fol. 76r
+Te confesarÃ©, oh SeÃ±or, con 
+todo mi corazÃ³n: pues habÃ©is oÃ­do todas las 
+palabras de mi boca. En presencia de los Ã¡ngeles 
+te cantarÃ©: te adorarÃ© en 
+tu santo templo, y 
+confesarÃ© a tu nombre. Sobre tu misericordia 
+y tu verdad: porque has engrandecido 
+tu santo nombre sobre todas las cosas.
+En el dÃ­a cualquiera en que 
+te invoque, escÃºchame: multiplicarÃ¡s
+las fuerzas de mi alma.
+Que te alaben, oh SeÃ±or, todos los reyes 
+de la tierra: porque han oÃ­do todas 
+las palabras de tu boca. Y que canten alabanzas 
+a nuestro SeÃ±or: porque grande es la gloria de nuestro SeÃ±or. 
+Porque nuestro SeÃ±or es alto, mira 
+lo bajo: y conoce lo alto 
+desde lejos. Si ando en 
+
+/next/ #Fol. 76v
+en medio de la angustia, tÃº me 
+vivificarÃ¡s: y sobre la ira de mis enemigos, 
+extendiste tu mano, 
+y tu diestra me salvÃ³.
+El SeÃ±or me retribuirÃ¡, oh SeÃ±or
+eterna es tu misericordia: no menosprecies las obras 
+de tus manos.
+Descanso eterno. AntÃ­fona: Las obras de tus manos
+no desprecies, oh SeÃ±or. VersÃ­culo: 
+Y oÃ­ una voz del cielo que 
+me decÃ­a. Bienaventurados los muertos que 
+mueren en el SeÃ±or. AntÃ­fona: Todo.
+Mi alma: lo magnifica nuestro SeÃ±or.
+Descanso eterno. AntÃ­fona: Todo,
+lo que el Padre me da, vendrÃ¡ 
+a mÃ­; y al que viene a mÃ­, 
+de ningÃºn modo lo echarÃ© fuera. Nuestro Padre.
+Y no nos dejes caer. Sino lÃ­branos. Salmo
+
+/next/ #Fol. 77r
+Oh alma mÃ­a, alaba al SeÃ±or,
+alabarÃ© al SeÃ±or mientras yo viva:
+cantarÃ© alabanzas a mi Dios mientras yo 
+exista. No confÃ­en ustedes en prÃ­ncipes:
+ni en los hijos del hombre, en quienes 
+no hay salvaciÃ³n. Su espÃ­ritu saldrÃ¡
+hacia afuera, y volverÃ¡ a su tierra:
+en ese mismo dÃ­a 
+perecerÃ¡n todos sus pensamientos. Bienaventurado 
+aquel cuya ayuda es el Dios de Jacob, cuya esperanza 
+estÃ¡ en el SeÃ±or su Dios: quien 
+hizo los cielos y la tierra, el mar y todo 
+lo que en ellos hay. Que guarda 
+la verdad para siempre, que hace 
+justicia a los oprimidos,
+y da pan a los hambrientos. Nuestro SeÃ±or 
+pone en libertad a los cautivos: nuestro SeÃ±or abre 
+los ojos a los ciegos. Nuestro SeÃ±or levanta 
+
+/next/ #Fol. 77v
+a los caÃ­dos, nuestro SeÃ±or ama a los justos. Nuestro SeÃ±or 
+protege a los extranjeros, al
+huÃ©rfano y a la viuda sostiene:
+mas destruye el camino a los pecadores.
+Nuestro SeÃ±or reinarÃ¡ para siempre, tu Dios, 
+oh SiÃ³n: por todas las genera-
+ciones. Descanso eterno.  
+AntÃ­fona: Desde la puerta del infierno. Salva sus almas, 
+oh SeÃ±or. Oh SeÃ±or, escucha. OraciÃ³n: 
+Inclina tu oÃ­do, 
+a nuestras oraciones, oh SeÃ±or, 
+mediante los cuales te rogamos humildemente tu misericordia:
+que el alma de tu siervo,
+a quien has elegido para 
+emigrar, sea recibido por Ti 
+en una regiÃ³n de paz y luz, 
+y que lo admitas en la consorte de tus santos. OraciÃ³n:
+Oh Dios creador y redentor de todos los fieles. Al
+
+/next/ #Fol. 78r
+comienzo de la nocturna AntÃ­fona Directa. Salmo
+Recibe mis palabras, oh SeÃ±or,  
+con tus oÃ­dos: comprende mi 
+clamor. Atiende a la voz de mi  
+oraciÃ³n: Rey mÃ­o y Dios mÃ­o. Porque
+es a ti a quien orarÃ©, oh SeÃ±or: por la maÃ±ana 
+oirÃ¡s mi voz. Por la maÃ±ana
+velarÃ© por ti, y verÃ©: porque tu no eres 
+un Dios que quiere la iniquidad.  
+Ni los impÃ­os morarÃ¡n cerca
+de ti: ni tampoco los injustos permanecerÃ¡n 
+ante tus ojos. Aborreces a todos los que
+hacen iniquidad: destruyes a  
+todos quienes digan mentiras.
+Al hombre sanguinario, y al engaÃ±ador 
+nuestro SeÃ±or aborrecerÃ¡: pero yo  
+por la abundancia de tu misericordia 
+entrarÃ© en tu casa:
+
+/next/ #Fol. 78v
+AdorarÃ© en tu santo templo 
+en tu temor. SeÃ±or, guÃ­ame 
+en tu justicia por causa 
+de mis enemigos: dirige mi camino
+ante tu vista. Porque no hay 
+verdad en su boca: su corazÃ³n
+es vano. Sus gargantas
+son sepulcro abierto: obraron engaÃ±osamente
+con sus lenguas, jÃºzgalos, oh
+Dios. Que caigan por sus mismos pensamientos,
+Ã©chalos fuera por 
+la multitud de sus transgresiones: porque 
+te han irritado, oh SeÃ±or. Y: alÃ©grense todos 
+los que en ti esperan 
+SerÃ¡n por siempre jubilosos, y tÃº 
+habitarÃ¡s entre ellos. Y todos los que aman 
+tu nombre, se gloriarÃ¡n 
+en ti: porque bendecirÃ¡s a los justos.
+SeÃ±or, como con un escudo de tu buena voluntad: asÃ­ nos has coronado.
+
+/next/ #Fol. 79r
+SeÃ±or, como escudo de tu buena 
+voluntad: tÃº nos has coronado. Descanso 
+eterno. AntÃ­fona: Dirige, SeÃ±or Dios mÃ­o, 
+mi camino ante tus ojos. 
+AntÃ­fona: VuÃ©lvete. Salmo
+SeÃ±or, no me reprendas en tu ira. AntÃ­fona: 
+VuÃ©lvete, SeÃ±or, y rescata mi 
+alma: porque no hay nadie en la muerte 
+que se acuerde de ti. AntÃ­fona: No sea que. Salmo 
+Oh SeÃ±or, Dios mÃ­o, en ti he 
+confiado: sÃ¡lvame de todo el que me 
+persigue, y 
+lÃ­brame. No sea que alguno desgarre 
+mi alma como leÃ³n: mientras no haya quien 
+lo redima, ni quien lo salve. 
+Oh SeÃ±or Dios mÃ­o, si esto he 
+hecho: si hay iniquidad en mis manos. 
+Si he pagado
+
+/next/ #Fol. 79v
+males a los que me pagaron: que con mÃ©rito caiga 
+de mis enemigos despojado a la nada. Que el enemigo persiga 
+mi alma, y la alcance, 
+y pisotee mi vida sobre la tierra:
+y reduzca mi gloria 
+al polvo. LevÃ¡ntate, 
+oh SeÃ±or, en tu ira: y exÃ¡ltate en 
+las costas de los enemigos. 
+Y levÃ¡ntate, oh SeÃ±or, Dios mÃ­o, 
+en el mandamiento que has ordenado: 
+y una asamblea de pueblos 
+te rodearÃ¡. Y en lo alto regresa 
+sobre ella: el SeÃ±or juzga 
+a los pueblos. JÃºzgame, oh SeÃ±or, 
+conforme a mi justicia, y conforme 
+a la inocencia que 
+hay en mÃ­. La iniquidad 
+de los pecadores serÃ¡ consumida, y tÃº guiarÃ¡s a los justos:
+
+/next/ #Fol. 80r
+Dios que escrudriÃ±a los corazones y las mentes.
+Mi justo auxilio 
+estÃ¡ en nuestro SeÃ±or: que salva a los rectos
+de corazÃ³n. Dios es juez justo, fuerte 
+y paciente: Â¿se enoja 
+todos los dÃ­as? Si no os 
+convertÃ­s, Ã©l ha agitado su espada: 
+ha tensado su arco, y lo ha 
+preparado. Y en Ã©l ha preparado tambiÃ©n los instrumentos 
+de la muerte: ha hecho arder 
+sus flechas. He aquÃ­, ha engendrado injusticia, 
+concebido dolor y ha dado luz a la 
+iniquidad. Ha abierto una fosa,
+y la ha excavado: se ha caÃ­do 
+en el hoyo, que habÃ­a hecho. Su dolor 
+se volverÃ¡ sobre su cabeza: 
+y su iniquidad descenderÃ¡ 
+sobre su coronilla. ConfesarÃ©
+
+/next/ #Fol. 80v
+al SeÃ±or acorde a su justicia:
+y alabarÃ© el nombre del SeÃ±or 
+altÃ­simo. Descanso eterno. AntÃ­fona: No 
+sea que alguno desgarre mi alma como leÃ³n, 
+mientras no haya quien lo redima, ni 
+quien lo salve. VersÃ­culo: Desde las puertas 
+del infierno. Rescata, oh SeÃ±or, sus almas.
+Padre Nuestro. Primera lectura
+PerdÃ³name, oh SeÃ±or, pues 
+mis dÃ­as son nada. Â¿QuÃ© es el hombre 
+para que lo engrandezcas: o para quÃ© 
+pongas tu corazÃ³n en Ã©l? 
+Lo visitas temprano en la maÃ±ana, y de repente 
+lo pones a prueba. Â¿Hasta cuÃ¡ndo no te apartarÃ¡s de 
+nÃ­, ni me dejarÃ¡s solo hasta que trague 
+mi saliva? He pecado. Â¿A quÃ© te 
+enfrentarÃ©, oh guardiÃ¡n de los hombres? Â¿Por quÃ© 
+me has puesto como tu contrincante, y
+
+/next/ #Fol. 81r
+yo me he vuelto una carga para mÃ­ mismo?
+Â¿Por quÃ© no quitas mi pecado? 
+Â¿Y por quÃ© no quitas mi 
+iniquidad? Porque ahora dormirÃ© en el 
+polvo, y si me buscas en la maÃ±ana, ya 
+no estarÃ©. Respuesta: Creo que mi redentor 
+vive, y que en el Ãºltimo dÃ­a 
+resucitarÃ© de la tierra: y 
+en mi carne verÃ© a Dios 
+mi salvador. VersÃ­culo: A quien yo mismo
+verÃ© y no a otro, y que mis ojos 
+contemplarÃ¡n. Y en mi carne.
+Mi alma estÃ¡ hastiada 	 Segunda lecciÃ³n
+de mi vida, y darÃ© rienda suelta a mi queja contra
+mÃ­ mismo. Y hablarÃ© en la amargura de mi 
+alma: le dirÃ© a Dios: No me condenes.
+Hazme saber por quÃ© me juzgas asÃ­.
+
+/next/ #Fol. 81v
+Â¿Te parece bien 
+calumniar y oprimirme, 
+obra de tus manos, y 
+ayudar a la asamblea de los impÃ­os? Â¿Acaso 
+tienes tÃº ojos de carne, o
+ves tÃº cÃ³mo ve el hombre?
+Â¿Son tus dÃ­as como los dÃ­as de un mortal,
+o tus aÃ±os como los aÃ±os del hombre,
+para que andes averiguando mi 
+iniquidad, y buscando mi 
+pecado? Y sabed que nada malo 
+he hecho, pues no hay quien 
+pueda librarme de vuestra mano.
+Respuesta: TÃº quien levantaste a LÃ¡zaro del 
+fÃ©tido sepulcro. Oh SeÃ±or, dales descanso y un lugar de 
+perdÃ³n. VersÃ­culo: QuiÃ©n ha de venir a juzgar 
+a vivos y a muertos, y al mundo con fuego.
+
+/next/ #Fol. 82r
+TÃº, oh SeÃ±or. Tercera lectura
+Tus manos, oh SeÃ±or, me hicieron,
+y me formaron 
+enteramente: Â¿y asÃ­ de repente 
+me derribas? AcuÃ©rdate, te ruego, que 
+me has hecho como a barro, y en polvo me 
+reducirÃ¡s nuevamente. Â¿No me habÃ©is ordeÃ±ado 
+como a la leche, y cuajado como si 
+fuera queso? De piel y de carne
+me vestiste: con huesos y tendones 
+me entretejiste. La vida y la misericordia 
+me has concedido, y tu visitaciÃ³n 
+ha preservado mi espÃ­ritu. Respuesta: 
+LÃ­brame, oh SeÃ±or, de la muerte eterna 
+aquel terrible dÃ­a, cuando 
+los cielos y la tierra tiemblen: cuando 
+vengas a juzgar al mundo con 
+fuego. VersÃ­culo: Ese dÃ­a, ese dÃ­a de furia, de calami-
+
+/next/ #Fol. 82v
+dad y miseria, extenso y mÃ¡s que 
+amargo dÃ­a. Cuando vengas 
+a juzgar al mundo con fuego. VersÃ­culo: Reposo 
+eterno dadles, oh SeÃ±or: y 
+permite que la luz eterna brille sobre ellos. LÃ­brame.
+Cuando vengas. AntÃ­fona: SerÃ¡n jubilosos. Salmo
+Ten piedad de mÃ­, oh Dios, conforme. AntÃ­fona: 
+Los huesos que has quebrantado serÃ¡n
+jubilosos. AntÃ­fona: Escucha mi voz, oh Dios, mi oraciÃ³n.
+La alabanza, oh Dios, se vuelve tuya en SiÃ³n:
+y un voto se te pagarÃ¡ en 
+JerusalÃ©n. Escucha, oh Dios, 
+mi oraciÃ³n: a ti vendrÃ¡ toda carne. 
+Las palabras de la iniquidad han prevalecido 
+contra nosotros: y nuestras transgresiones 
+tÃº las perdonarÃ¡s. Bienaventurado el 
+que tÃº escogieres y atrajeres a ti: Ã©l habitarÃ¡ 
+en tus atrios. Seremos
+
+/next/ #Fol. 83r
+saciados con el bien de tu casa; santo
+es tu templo, tremendas cosas en tu
+justicia. EscÃºchanos, oh Dios
+de nuestra salvaciÃ³n, esperanza de todos los tÃ©rminos 
+de la tierra, y de los mÃ¡s remotos confines del mar. TÃº, el que prepara 
+los montes con su fuerza, ceÃ±ido 
+de poder: el que perturba las profundidades 
+del mar, el estruendo de sus 
+olas. Las naciones se turbarÃ¡n, y los habitantes de las fronteras 
+temerÃ¡n tus seÃ±ales: tÃº harÃ¡s alegres las salidas de la maÃ±ana 
+y de la tarde. TÃº has visitado 
+la tierra y la has regado en abundancia; en gran 
+manera la has enriquecido. El rÃ­o 
+de Dios rebosa de agua, tÃº les has preparado su comida: pues tal es su 
+preparaciÃ³n. Embriagando sus corrientes, 
+multiplicad sus hijos; sus
+
+/next/ #Fol. 83v
+instilaciones esparcirÃ¡n los brotes. 
+BendecirÃ¡s la corona del aÃ±o 
+de tu bondad: y tus campos se llenarÃ¡n 
+de abundancia. La hermosura del desierto 
+EngordarÃ¡: y las colinas se ceÃ±irÃ¡n de 
+jÃºbilo. Se visten los carneros de 
+ovejas, y los valles abundarÃ¡n con maÃ­z
+mientras canten un himno. Descanso 
+eterno. AntÃ­fona: Escucha, oh Dios, mi oraciÃ³n:
+toda carne vendrÃ¡ a ti.
+AntÃ­fona: Me ha sistenido. Salmo Oh Dios mi Dios.
+Dios ten piedad de nosotros. AntÃ­fona:
+Tu diestra me ha sostenido. 
+AntÃ­fona: Desde las puertas del infierno. Salmo
+Yo dije a la mitad de mis dÃ­as,
+he de entrar por las puertas del 
+Infierno. He buscado durante el resto de mis aÃ±os:
+He dicho, no verÃ© mÃ¡s a nuestro SeÃ±or
+
+/next/ #Fol. 84r
+Dios en la tierra de los vivientes. No mirarÃ© 
+mÃ¡s al hombre: ni al habitante
+del descanso. Mi generaciÃ³n 
+ha sido quitada: y enrollada 
+de mÃ­ como las tiendas de los pastores.
+Cortada como del telar fue 
+mi vida, cuando aÃºn nacÃ­a,
+Ã‰l me cortÃ³: desde la maÃ±ana hasta la tarde 
+acabarÃ¡s conmigo. EsperarÃ©
+incluso hasta la maÃ±ana: como un leÃ³n, asÃ­
+destrozÃ³ todos mis huesos. Desde la maÃ±ana,
+hasta la tarde acabarÃ¡s conmigo:
+como una golondrina, asÃ­ 
+me quejarÃ©, meditarÃ© como una paloma.
+Mis ojos estÃ¡n debilitados: mirando hacia 
+las alturas. SeÃ±or, sufro la
+violencia, responde por mÃ­: Â¿quÃ© dirÃ© 
+o quÃ© me responderÃ¡ Ã©l, 
+
+/next/ #Fol. 84v
+quÃ© habrÃ© hecho yo mismo? Me acordarÃ© de todos 
+mis aÃ±os: lo harÃ© con la amargura 
+de mi alma. SeÃ±or, si asÃ­ se vive, y 
+en tal vida de mi espÃ­ritu, tÃº me reprenderÃ¡s 
+y me revivirÃ¡s: he aquÃ­, en la paz
+estÃ¡ mi amargura mÃ¡s amarga. Pero tÃº 
+has rescatado mi alma para 
+que no perezca: tÃº has echado detrÃ¡s de tus espaldas 
+todos mis pecados. Porque 
+el infierno no te confesarÃ¡, 
+ni la muerte te alabarÃ¡: los que descienden 
+al lago 
+no esperarÃ¡n tu verdad. Mientras Ã©l viva, Ã©l mismo 
+os confesarÃ¡ a ustedes, como 
+tambiÃ©n lo hago yo hoy: el padre dejarÃ¡ huella 
+de vuestra verdad para sus hijos. Oh SeÃ±or, 
+sÃ¡lvame: y cantaremos nuestros salmos 
+todos los dÃ­as de nuestra vida, 
+
+/next/ #Fol. 85r
+en la casa del SeÃ±or. Descanso 
+eterno. AntÃ­fona: Desde las puertas del infierno libra 
+mi alma, oh SeÃ±or. AntÃ­fona: Que cada espÃ­ritu.
+Alaben al SeÃ±or desde los cielos. Salmo de David 
+Canten al SeÃ±or un cÃ¡ntico nuevo. Salmo
+Alaben al SeÃ±or en sus santos. AntÃ­fona: Que cada 
+espÃ­ritu alabe al SeÃ±or. VersÃ­culo: OÃ­ 
+una voz que desde el cielo me decÃ­a.
+Bienaventurados los muertos que mueren en 
+el SeÃ±or. AntÃ­fona: Yo soy. Salmo
+Bendito sea el SeÃ±or Dios de Israel. AntÃ­fona: 
+Yo soy la resurrecciÃ³n y la vida: el que 
+cree en mÃ­, aunque 
+estÃ© muerto, vivirÃ¡, y todo el que crea 
+en mÃ­ no morirÃ¡ 
+jamÃ¡s. Nuestro Padre. Y no nos dejes caer. Salmo
+De lo profundo. AntÃ­fona: Desde las puertas del infierno. 
+SeÃ±or, rescÃ¡talos. SeÃ±or, escucha
+
+/next/ #Fol. 85v
+Ã³n [sic]. Y llegue a ti mi clamor. Oremos. OraciÃ³n:
+Que las almas de todos los fieles difuntos  
+sean parte en la santa
+ResurrecciÃ³n, y merezcan tener vida 
+en el cielo por ti 
+Jesucristo, salvador del mundo, que con 
+el Padre y el EspÃ­ritu Santo, que vives 
+y reinas, Dios, por los siglos 
+de los siglos. AmÃ©n.
+
+/next/ #Fol. 86r
+PÃ¡gina en blanco
+
+/next/ #Fol. 86v
+PÃ¡gina en blanco
+
+/next/ #Fol. 87r
+PÃ¡gina en blanco
+
+/next/ #Fol. 87v
+PÃ¡gina en blanco
+
+/next/ #Fol. 88r
+PÃ¡gina en blanco 
+
+/next/ #Fol. 88v
+PÃ¡gina en blanco
+
+/next/ #Fol. 89r
+PÃ¡gina en blanco 
+
+/next/ #Fol. 89v
+PÃ¡gina en blanco 
+
+/next/ #Fol. 90r
+PÃ¡gina en blanco 
+
+/next/ #Fol. 90v
+Libros raros
+BÃ³veda
+Z
+105.5
+1450
+C378
+

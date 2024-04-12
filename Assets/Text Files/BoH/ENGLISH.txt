@@ -1,39 +1,451 @@
-<align=left>Kalends    December XXXI
-<align=left>Luna                             XXX
-<align=left>xiij   f
-<align=left>  ii    g
-<align=left>        a
-<align=left>x      b Saint Barbara, virgin
-<align=left>        c
-<align=left>xviij d Nicholas the bishop
-<align=left>  vii  e
-<align=left>        f Conception of Mary
-<align=left>xv    g
-<align=left>  iiij  A
-<align=left>        b
-<align=left>xii    c
-<align=left>  i     d Lucy, virgin
-<align=left>        e Nicasius
-<align=left>ix     f 
-<align=left>        g 
-<align=left>xvij  a Lazarus, martyr
-<align=left>   vi  b
-<align=left>        c
-<align=left>xiiij  d
-<align=left>  iij   e Thomas
-<align=left>        f
-<align=left>xi     g
-<align=left>        a Vigil
-<align=left>xix   b Christ’s birth
-<align=left>        c Stephen, martyr
-<align=left>viij   d John the Evangelist
-<align=left>        e Innocent Saints 
-<align=left>xv    f
-<align=left>  v    g
-<align=left>xiij   a Saint Sylvester  
+/next/
+#Fol. 1r
+
+Kalends     January   XXXI
+                  moon          XXX
+iii     a        Circumcision of Our Lord 
+        b
+xi     c        Octave of Saint John
+        d 
+xix   e
+viij   f        Epiphany of Our Lord
+        g
+xvi   a 
+v      b
+        c        Paul, hermit
+xiii   d
+xii    e
+        f
+x      g
+        a 
+xviij b 
+        c       Anthony, abbot
+vii    d
+        e
+xv    f
+iiij    g 
+        a     Saint Vincent, martyr 
+xii    b
+i       c
+        d     Conversion of Paul
+ix     e
+        f
+xvij  g 
+  vi   a
+xiiij  b       Aldegonde
+ iij   c  
+
+/next/
+#Fol. 1v
+
+Kalends     February XXVIIJ
+                  moon         XXIX
+        d        
+xi     e       Purification of Mary
+xix   f        Saint Blaise        
+viii   g 
+        a
+xvi   b        Amant        
+v      c
+        d 
+xiii   e
+  ii    f       
+        g
+x      a
+        b
+xviii c    Valentine, bishop
+  vii  d 
+        e     Juliana 
+xv    f      
+ iiij   g
+        a
+xii    b
+  i     c 
+        d   Peter, apostle     
+ix     e
+        f   Matthew, apostle
+xvii  g    
+vi     a
+        b
+xiiij  c   Romanus 
+
+
+
+
+
+/next/
+#Fol. 2r
+
+Kalends     March XXXI
+                  moon  XXX
+iii     d        
+        e
+xi     f       
+        g        Saint Adrian, martyr
+xix   a
+viij   b        
+        c
+xvi   d 
+v      e
+        f       
+xiii   g
+ ii     a         Gregory, martyr
+        b
+x      c
+        d 
+xviij e 
+ vii   f           Gertrude      
+        g
+xv    a
+iiij    b
+        c           Benedict 
+xii    d     
+ i      e
+        f
+ix     g          Annunciation of Mary 
+        a
+xvij  b
+        c 
+  vi   d
+        e 
+xiij   f 
+
+
+
+
+
+/next/
+#Fol. 2v
+
+Kalends     April   XXXI
+                  moon   XXIX
+        g        
+xi     a
+xix   b        
+ viii  c       Ambrose, bishop
+       d
+xvi  e       
+  v   f
+      g 
+viii   a
+  ii    b       
+        c        Leo, pope
+x      d
+        e
+xviii f
+  vii  g 
+        a 
+xv    b      
+iiij    c
+        d
+xii    e      Victor, martyr
+  i     f 
+        g     
+ix     a
+        b
+xvii  c      Mark, evangelist    
+  vi   d
+        e
+xiiij  f      Vitalis
+       g
+
+
+/next/
+#Fol. 3r
+
+Kalends    May   XXXI
+                 moon  XXIX
+xx    b       Philip and James        
+        c
+xix   d       Invention of the Cross       
+ viii  e       
+        f
+xvi   g         John ante Portam    
+  v    a
+        b
+viii   c
+  ii    d       
+        e  
+x      f
+        g
+xviii a
+  vii  b 
+        c 
+xv    d      
+iiij    e
+        f          Potentiana  
+        g
+xii    a
+ i      b     
+        c
+ix     d
+        e          Urban, pope    
+ xvii  f
+    vi  g
+         a
+xiiij   b
+  Iii    c
+xi      d
+
+
+/next/
+#Fol. 3v
+
+Kalends     June   XXXI
+                  moon XXX
+        e              
+xix   f
+ viii  g             
+        a       
+xvi   b     Boniface, bishop 
+   v   c        
+        d
+xiii   e
+xii    f
+        g       
+x      a      Barnabas  
+        b
+xviii c
+  vii  d
+        e 
+xv    f 
+xiv   g      
+        a
+xii    b   
+  i     c
+        d
+ ix    e     
+        f    Eve
+xvii  g   John the Baptist
+  vi   a      
+        b
+xiiii  c
+  iii   d   Eve
+        e   Peter and Paul 
+xi     f
+
+
+/next/
+#Fol. 4r
+
+Kalends     July   XXXI
+                  moon XXX
+xix   g              
+ viii  a        Visitation of Mary 
+        b             
+xvi   c      
+  v    d     
+        e          Medard, bishop        
+xiii   f
+  ii    g
+        a
+x      b    Amelberga       
+        c       
+xviii d
+  vii  e
+  vii  f
+xv    g 
+  iiii  a
+        b      
+xii    c
+  i     d   
+         e   Margarita
+ ix     f
+         g  María Magdalena     
+xvii   a 
+  vi    b  
+         c Jacob Saint Christopher      
+xiiii  d
+  iii   e
+        f 
+xi     g   
+xix   a
+  viii b  Germanus, bishop
+
+/next/
+#Fol. 4v
+
+Kalends     August   XXXI
+                  moon       XXX
+viii   c        Peter, apostle              
+xvi   d    
+   v   e             
+        f      
+xiii   g        Dominic, confessor     
+  ii    a          
+        b
+x      c
+        d         Eve
+xviii e         Lawrence       
+   vii f       
+        g
+  xv  a
+   iiii  b      Eve
+xii     c       Assumption of Mary 
+  i     d
+        e      
+ix     f
+        g   
+xvii  a         Bernard, confessor
+  vi   b
+         c      
+xiiii  d 
+  iii   e         Bartholomew
+         f      
+         g
+ xi    [a] 
+        b         Augustine 
+xix   c         John   
+  viii d
+         e  
+
+/next/
+#Fol. 5r
+
+Kalends     September   XXXI
+                  moon       XXX
+xvi   f                  
+  v    g    
+xiii   a             
+ ii     b      
+        c       
+        d          
+x      e
+        f         Birth of the Virgin Mary.    Adrian, martyr
+xviii g   
+   vii a         Gregory       
+        b      
+  xv  c
+   iiii d
+         e        Exaltation of the Cross
+xii     f    
+  i     g
+        a       Lambert, bishop      
+ix     b
+        c   
+xvii  d       Eve
+  vi   e       Matthew, apostle
+         f      
+xiiii  g 
+  iii   a 
+         b      
+         c
+ xi    d 
+        e  
+xix   f       Jerome   
+  viii g
+           
+/next/
+#Fol. 5v
+
+Kalends     October   XXXI
+                  moon       XXX
+xvi   a        Saint Bavo                  
+  v    b    
+xiii   c             
+ ii     d      Saint Francis, confessor 
+        e       
+ x     f          
+        g
+xviii a   
+  vii  b       Saint Denis   
+        c          
+  xv  d      
+   iiii e
+        f
+xii    g      Callixtus, pope  
+  i     a    
+        b
+ix     c       
+        d      Saint Luke 
+xvii  e   
+  vi   f  
+        g    eleven thousand virgins   
+xiiii  a      
+  iii   b 
+        c 
+ xi    d      
+ xix  e
+        f    Eve 
+viii   g   Simon  Saint Jude  
+        a   
+  xvi b
+    v  c    Quentin  Eve
+/next/
+#Fol. 6r
+
+Kalends      November XXX
+                   moon        XXIX
+xiij   d        All Saints
+  ii    e        All Souls
+        f
+        g 
+x      a
+        b         Leonard 
+xviij c
+        d  
+        e
+xv    f
+  iiij  g        Martin, bishop 
+        a
+xii    b
+   i    c 
+        d 
+ix     e 
+        f
+xvij  g
+   vi  a         Elizabeth
+        b
+xiiij  c
+  iii   d
+        e
+xi     f 
+xix   g         Katherine 
+  viij a 
+        b
+xvi   c 
+  v    d        Eve
+        e        Andrew, apostle
+xiij   f  
+/next/
+
+# Fol. 6v
+Kalends    December XXXI
+Luna                             XXX
+xiij   f
+  ii    g
+        a
+x      b Saint Barbara, virgin
+        c
+xviij d Nicholas the bishop
+  vii  e
+        f Conception of Mary
+xv    g
+  iiij  A
+        b
+xii    c
+  i     d Lucy, virgin
+        e Nicasius
+ix     f 
+        g 
+xvij  a Lazarus, martyr
+   vi  b
+        c
+xiiij  d
+  iij   e Thomas
+        f
+xi     g
+        a Vigil
+xix   b Christâ€™s birth
+        c Stephen, martyr
+viij   d John the Evangelist
+        e Innocent Saints 
+xv    f
+  v    g
+xiij   a Saint Sylvester  
  /next/
  /next/
- /next/
+ /next/ # Fol. 8r
 Beginning of the hours of the Holy Cross.
 Divine Lord, open my lips. 
 And my mouth 
@@ -49,7 +461,8 @@ was captured at the morning hour, by His
 disciples quickly abandoned: by the Jews
 betrayed, sold, and tormented.
 Verse: We adore you O Christ, and we bl[ess you]
-/next/
+
+/next/ # Fol. 8v
 [We bl]ess you, for by your holy 
 cross you have redeemed the world.
 O Lord Jesus Christ, son of the living God, 
@@ -64,14 +477,15 @@ everlasting. You who live
 and reign forever and ever. Amen. At Prime.
 O God, [come] to assistance.
 At the hour of prime, Jesus is led 
-to Pilate. Much accused by false witnesses. On the neck,  
-/next/
+to Pilate. Much accused by false witnesses. On the neck,
+
+/next/ #Fol. 9r
 they strike him with his hands tied, 
-they spit upon God’s face, 
+they spit upon Godâ€™s face, 
 the dear light of heaven. Verse: We adore you. Prayer: 
 Lord Jesus Christ. At Terce.
 O God, [come] to assistance. Hymn. 
-“Crucify him,” they scream 
+â€œCrucify him,â€ they scream 
 at the third hour. The one they mock is clothed 
 with a red robe, his head is pricked 
 with a crown of thorns, he carries the cross 
@@ -85,7 +499,2761 @@ he is left hanging. Thirsty for the tortures,
 filled with bitter poison, the lamb 
 washed away crime made divine in such way. Verse: We adore you. 
 Prayer: O Jesus Christ. At Nones.
-/next/
+
+/next/ #Fol. 9v
+God, come to my assistance. In the beginning
+At the ninth hour, Jesus died, 
+crying â€œEli,â€ he commended his spirit 
+to his father. His side was pierced 
+By a soldier with a spear, then the earth 
+trembled and the sun darkened. 
+Verse: We adore you. Prayer: O Lord Jesus.
+God, come to my assistance. At Vespers
  
-/next/
+
+
+He is taken down from the Cross at the hour of Vespers.
+Strength hid itself in the divine 
+mind. The medicine of life suffered 
+such a death. Alas, the crown of glory 
+lay supine. Verse: We adore
+you. Prayer: O Lord Jesus Christ. At Compline
+Convert us, O God, our saviour,
+and turn your anger 
+away from us. O God, come 
+to my assistance.
+
+/next/ #Fol. 10r
+At the hour of Compline, he was laid in the tomb; 
+the noble body of Christ, 
+the hope of future life is embalmed with spices. 
+The Scriptures are fulfilled. 
+May this death be perpetually in my memory.
+Verse: We adore you. Prayer: O Lord Jesus. Hymn.
+These hours canonical with 
+devotion to you Christ, I honor 
+with godly intention, in the fervor of your love that you 
+have suffered for me, so laboring 
+is a harmony fellow without a crown. 
+Amen.
+
+/next/ #Fol. 10v
+Blank page
+
+/next/ #Fol. 11r
+Back of the illumination
+
+/next/ #Fol. 11v
+Pentecost illumination
+
+/next/ #Fol. 12r
+Beginning of the hours of the Holy Spirit
+O Lord, open my lips
+and my mouth 
+shall declare 
+your praise.
+God, come to my assistance. O Lord, make haste 
+to help me. Glory be to the Father, and to the Son:
+and to the Holy Ghost. Even as it was 
+in the beginning, and now, and ever: 
+and world without end, Amen.
+May we know the grace of the Holy Spirit,
+wherewith was overshadowed the virgin of virgins,
+when through a holy angel 
+she was saved: the word 
+became flesh and the virgin fruitful.
+Antiphon: Come Holy Spirit, fill the
+
+/next/ #Fol. 12v
+hearts of your faithful and kindle 
+in them the fire of your love. 
+Verse: Send forth your Spirit and they shall be created 
+and you shall renew the face of the earth. Prayer:
+Almighty and everlasting God,
+grant us the grace of the Holy Spirit,
+which you transmitted to your disciples
+on the day of Pentecost,
+who lives and reigns God, world without end. Amen.
+Let us bless the Lord. Thanks be to God. 
+God, come to my assistance. At Prime
+Christ was born of a virgin daughter,
+who crucified was, dead, and 
+laid in a sepulcher, rising to his disciples 
+he shewed himself anew and 
+was to the heavens high assumpted in their view.
+Antiphon: Come. Verse: Send forth your Spirit. Prayer:
+
+
+/next/ #Fol. 13r
+Almighty and everlasting     At 
+God, come to my assistance Terce        
+He entrusted his Holy Spirit with life,
+on the day of the Holy Pentecost,
+informed them in languages from various
+places, by no means could he endure 
+to leave them comfortless.
+Antiphon: Come Spirit. Versicle: Send forth your Spirit. Prayer:
+Almighty and everlasting     At 
+God, come to my assistance Sexte
+They accepted the seven fold grace then,
+therefore they knew
+all languages and moved 
+in different parts of the world. And
+they preached the Catholic faith.   
+Antiphon: Come Holy Spirit. Verse: Send forth your Spirit. Prayer:
+Almighty and everlasting      At 
+God, come to my assistance. Nine
+
+/next/ #Fol. 13v
+Called it was the Spirit,
+the gift of God, the reviving spring,
+the unction Spiritual, and eke the fire that flames, 
+seven fold grace, so called by many names. Antiphone:
+Come Holy. Versicle: Send forth your Spirit. Prayer:
+Almighty and everlasting. At Vespers
+God, come to my assistance.
+The finger of God's right hand, 
+the ghostly virtue still, us defend, 
+and set us free from every kind of ill:
+to the end the hellish ghost do us no hurtful deed,
+under His wings He us keep, and there us nurse and feed.
+Antiphon: Come Holy. Versicle: Send forth your Spirit.
+Almighty and everlasting. At Compline
+Convert us, O God our Savior
+and turn away your wrath 
+from us. God, come to my assistance.
+
+/next/ #Fol. 14r
+The Spirit the comforter assist 
+us by his 
+might: our steps to direct 
+and guide to clear us with his light, that when God 
+at last shall come to be the judge of all, 
+at his right hand he may please us joyfully to call. 
+Antiphon: Come Holy. Versicle: Send forth your Spirit. Prayer:
+Almighty and everlasting. Hymn
+These hours canonical with 
+devotion to you, and with 
+godly respect I did say, that by inspiration visited we may be,
+in your heavenly region 
+to live alway with you. Amen.
+
+/next/ #Fol. 14v
+Blank page
+
+/next/ #Fol. 15r
+Back of the illumination
+
+/next/ #Fol. 15v
+Virgin in throne with the Child illumination
+
+/next/ #Fol. 16r
+Beginning of the Mass of the Virgin Mary
+And I will go unto the 
+altar of God. To God, Who 
+gives joy 
+to my youth. Deign,
+O Lord, to keep us
+from sin this day. 
+O give thanks unto the Lord, 
+for he is gracious: 
+because his mercy endureth forever.
+I confess to God of heaven, and the blessed
+Virgin Mary, and to all of 
+his saints, and to our Father, because I, 
+A wretched sinner, have sinned 
+against the law of God too much in thought,
+speech, judgment, sight, word, 
+and deed, through my fault, through my fault,
+through my most grievous fault. Therefore, I ask
+
+/next/ #Fol. 16v
+the most blessed Virgin Mary and 
+all male and female saints of God: and you,
+our Father, pray for me, sinner.
+May almighty God have mercy on you,
+and forgiving all 
+your sins, bring us and you, 
+Jesus Christ, without stain of sin, 
+with joy to everlasting life. Amen.   
+Not unto us, O Lord, not unto us 
+but to your name give glory. Cleanse
+me of my hidden sins, O Lord,
+and spare your servant from foreign sins. O 
+Lord, show us your mercy
+and grant us your salvation. Pray
+for us, holy Mother of God, that 
+we may be made worthy of the promises
+of Christ. O Lord, hear my prayer
+and let my crying come 
+
+/next/ #Fol. 17r
+unto you. The Lord be with you. And with your
+Spirit. Our help is 
+in the name of the Lord who made heaven
+and earth. Blessed be the name of the Lord, 
+from henceforth now 
+and forever.
+Hail, Holy Mother, who
+in childbirth brought forth the King
+who rules heaven and earth, world without end.
+Verse: May all who keep thy sacred commemoration 
+feel the might of your
+assistance. Glory be to the Father.
+Hail, Holy Mother. Lord, have 
+Mercy. Lord, have mercy. Lord, have mercy.
+Lord, have mercy. Lord, have mercy. Lord, have mercy.
+Glory to God in the highest, and peace 
+on earth to men of go-
+
+
+/next/ #Fol. 17v
+od will. We praise you, we bless 
+you, we adore you, we glo-
+rify you. For your great glory, 
+we give thanks to you, O Lord God Rex, and heavenly 
+God, Father Almighty, Lord, 
+the only-begotten Son, Jesus Christ, O Lord
+God, Lamb of God, Son of the Father, that
+takes away the sins of the world, have mercy upon 
+us. You that take away the sins of the world, receive
+our prayer. You that 
+sit at the right hand of the Father, have mercy
+on us. For you alone are ho-
+ly, you alone are the Lord. You alone are most high
+Jesus Christ. With the Holy 
+Spirit, in the glory of God the Father. Amen. 
+Grant, we beseech you, 
+O Lord God, that we your servants, 
+
+/next/ #Fol. 18r
+may rejoice in continual health of mind and body, 
+and through the glorious intercession of the Blessed Mary 
+ever Virgin, 
+be freed from present sorrow and enjoy 
+eternal happiness, through Christ 
+our Lord. Amen.        Beginning of the book
+From the beginning and before    of Wisdom
+the ages were created and unto
+the future ages I shall not cease to be
+And in the holy dwelling place 
+I have ministered before Him. And so, in Sion
+I was established and likewise in the holy
+city, I rested and my power
+was in Jerusalem and I took root 
+in honorable people, 
+and in the portion of my God his inheritance, 
+and mine abode is 
+in the full assembly of the saints.
+Versus: Blessed you are,
+
+
+/next/ #Fol. 18v
+venerable Virgin Mary, who with no sense of shame
+Found yourself mother of 
+the savior. Verse: Virgin Mother of God, he whom
+the whole world did not contain,
+Being made man, shut himself in your womb. Alleluja.
+Verse: After childbirth, O Virgin, you did remain inviolate,
+O Mother of God, intercede for us. Alleluja. Gospel of Luke 
+At that time while Jesus was speaking 
+to the crowds, a certain woman 
+from the crowds, raising her voice said:
+Blessed is the womb that bore you
+And the breasts that you sucked. But he
+Said: Nay, rather, blessed are those
+who hear the word of God, and keep
+it. Thanks to God.
+I believe in one God, the Father
+Almighty, maker of heaven and 
+
+/next/ #Fol. 19r
+earth, of all things visible and 
+invisible. And in one Lord
+Jesus Christ, the only begotten son 
+of God, begotten of the Father 
+before all ages. God of God, light
+of light, true God of true 
+God, begotten, not made, consubstantial
+with the Father, by whom all things
+were made. Who, for us men,
+and for our salvation
+came down from heaven, and was
+incarnate by the Holy Spirit of
+the Virgin Mary, and was made man.
+He was crucified also for us, suffered under
+Pontius Pilate, and was buried: 
+and the third day, he arose again, according to
+the scriptures, and ascendit into heaven.
+He sits at the right hand of the Father: and he shall  
+
+/next/ #Fol. 19v
+come again with glory, to judge
+the living and the dead: and his kingdom shall
+have no end. And in the Holy Spirit,
+the Lord, and giver of life, who 
+proceeds from the Father to the Son, Who together with 
+the Father and the Son, is adored and 
+glorified: Who spoke by the
+prophets. And one, holy, catholic,
+and apostolic Church. I confess
+one baptism for the remission
+of sins. And I expect the resurrection
+of the dead, and the life 
+of the world to come. Amen. Offertory: For you are 
+happy, o Holy Virgin Mary, and are worthy
+of all praise, for out of you 
+arose the sun of justice, Christ our 
+God. Through all ages of 
+ages. The Lord be with you.   
+
+/next/ #Fol. 20r  
+And with your spirit. Hearts aloft,
+we have, to the Lord. Let us give
+thanks to the Lord, our God.
+It is right and just. Holy,
+holy, holy Lord 
+God of Hosts. Heaven and earth 
+are full of your glory, hosanna in the highest.  
+Blessed is He who comes in the name
+of the Lord, hosanna in the highest. Forever
+and ever. Amen.
+And do not lead us into temptation,
+but free us from evil. Amen.
+Forever and ever.
+Amen. The peace of the Lord be with you always
+and with your spirit. Lamb 
+of God, who takes away the sins of the world,
+have mercy on us. Lamb of God, who
+who takes away the sins of the world, have mercy 
+
+/next/ #Fol. 20v
+on us. Lamb of God, who takes away 
+the sins of the world, grant us peace.
+After After [sic] Blessed is the womb of the Virgin
+Mary, that bore the son 
+Of the everlasting Father, O Lord, hear my prayer. Prayer:
+Pour forth, we beseech you, O Lord,
+your grace into our hearts;
+that we to whom the incarnation
+of Christ, your son, was made known by the message of an angel,
+may by his passion and cross,
+Be brought to the glory of his resurrection.  Through 
+The same Christ our Lord. Amen.
+Beginning of the Holy Gospel according
+to John. Glory to you, Lord.
+In the beginning was the word,
+and the word was with God,
+And the word was God. The same
+
+/next/ #Fol. 21r
+was in the beginning with God. All
+things were made by Him, and without Him 
+was made nothing that was made:
+in Him was life, and the life was 
+the light of men; and the Light shines in darkness, 
+and the darkness did not comprehend it.
+There was a man sent from God, 
+whose name was John. This man came 
+for a witness, to give testimony 
+of the light, that all men 
+might believe through him. He was not 
+the light, but was to give testimony 
+of the light. That was the true light, 
+which enlightens every man that 
+comes into this world. He was 
+in the world, and the world was made by Him,
+and the world knew Him not. He came unto His own, and His own 
+
+/next/ #Fol. 21v
+received Him not. But as many as
+received Him, He gave them power
+to be made the sons of of God, to them
+that believe in His name, who are born not of 
+blood, nor of the will of the man but of God. And the word
+was made flesh, and dwelt among 
+us: and we saw His glory, 
+the glory as it were the Only begotten of the Father,
+full of grace and truth. Thanks to God. Gospel of Luke
+At that time, the Angel Gabriel 
+was sent by God into a city of 
+Galilee, called Nazareth, 
+to a virgin espoused 
+to a man whose name was Joseph, of the 
+house of David: and the virgin's name was 
+Mary. And the Angel being entered in, 
+
+/next/ #Fol. 22r
+said unto her, Hail full of Grace, our Lord 
+is with thee: blessed art thou among women.
+Who having heard, was troubled at 
+his saying, and thought what manner 
+of salutation this should be. And the Angel said
+to her, Fear not Mary, for thou 
+has found grace with God. 
+Behold thou shalt conceive, and shalt bear a son: 
+and thou shalt call his name Jesus. 
+He shall be great, and shall be called the son of the most High, and our Lord God shall give him the seat of David his father: 
+and he shall reign in the house of Jacob 
+forever, and of his kingdom there shall be 
+no end. And Mary said to the Angel, 
+How shall this be done: because 
+I know not man? And the Angel answering, 
+said to her, The holy Ghost 
+
+/next/ #Fol. 22v
+shall come upon thee, and the power of the most high 
+shall overshadow thee. And therefore 
+also that which of thee shall be born Holy, 
+shall be called the son of God. And behold Eliza-
+Beth, your cousin, she also has conceived 
+a son in her old age: and 
+this month, is the sixth to her that is 
+called barren: because there shall not be 
+impossible with God any 
+word. And Mary said: 
+Behold the handmaid of our Lord, be it done to me according to thy word. Gospel of
+At that time,                                                                                                    Matthew
+when Jesus was born in 
+Bethlehem of Judah in the days of Herod 
+the King, behold, there came sages from the East 
+to Jerusalem, saying: 
+Where is he that is born King of the Jews? 
+
+/next/ #Fol. 23r
+For we have seen his star in the East, 
+and we come to adore him. And Herod the King 
+hearing this, was troubled, 
+and all Jerusalem with him. 
+And when he had gathered 
+All the chief priests 
+and scribes of the people together, he inquired of
+them where the Christ was to be born. So 
+they said to him: For thus it is written
+by the prophet, and you, Bethlehem, land of Judah,
+are not the least among the rulers 
+of Judah; for out of you shall come a ruler,
+Who will shepherd my people Israel. 
+Then Herod, when he had secretly called the wise 
+Man, determined from them what time 
+The star appeared; and 
+he sent them to Bethlehem and said:
+Go and search carefully for
+
+/next/ #Fol. 23v
+the young child; and when you have found him, bring back word
+to me, that I may come and worship him. 
+When they heard the king, they 
+Departed. And behold the star, which they had seen
+in the East, went before them, til 
+it came and stood over the Lord,
+where the young child was. When they saw the star,
+they rejoiced with exceeding great joy.   
+And when they had come into the 
+House, they saw the young child with Mary his
+mother and fell down and worship
+Him. And when they had opened His treasures, they
+offered Him gifts of gold, frankincense, and myrrh. And having been warned in a dream 
+by the angel not to return to Herod, 
+they left by another road 
+for their own country. Gospel of Mark
+Afterward the Lord Jesus
+
+/next/ #Fol. 24r
+Appeared to the eleven disciples: he upbraided them 
+for their lack of faith 
+and stubbornness, because they had not 
+believed those who saw him after 
+he had risen. And he said to them, â€œGo 
+into all the world and proclaim the good news
+to all the creatures. The one who 
+believes and is baptized 
+will be saved, but the one who does not believe 
+will be condemned. And these signs 
+will accompany those who believe. 
+By using my name they will cast out demons; 
+they will speak in new tongues; they will pick up 
+snakes, and if they drink any 
+deadly thing, it will not hurt them; 
+they will lay their hands on the sick, 
+and they will recover. So then the Lord Jesus, 
+after he had spoken to them, was taken up
+
+/next/ #Fol. 24v
+into heaven and sat down at the right hand 
+of God. And they went out and proclaimed 
+the good news everywhere, while the Lord worked 
+with them and confirmed the message
+by the signs that accompanied it. Thanks to God.
+
+/next/ #Fol. 25r
+Blank page (back of the illumination)
  
+/next/ #Fol. 25v
+Annunciation illumination
+
+/next/ #Fol. 26r
+Beginning of the Hours of Our Blessed Virgin Mary 
+O Lord, will you open my 
+lips. And my mouth 
+shall declare your 
+praise. O God, incline 
+unto my 
+Aid. O Lord,
+make haste to help me. Glory 
+be to the Father, and to the Son: and to the Holy Ghost.
+Even as it was in the beginning, and now, 
+and ever: and world without end. Amen. 
+Invitatory. Hail Mary, full of 
+grace: Our Lord is with you. Psalm.
+Come let us rejoice unto our Lord, 
+let us make joy to God our saviour: let us 
+approach to his presence in 
+confession, and in psalms let us make joy 
+unto him. Hail Mary: our Lord is with you. For God is a great Lord, 
+
+/next/ #Fol. 26v
+and a great king 
+above all gods: because our Lord does not repel 
+his people: for that in his hand 
+are all the bounds of the earth, and he beholds 
+the heights of the mountains. Our Lord 
+is with you. For the sea is his, 
+and he made it: and his hands founded 
+the dry land: come let us adore, 
+and fall down before God: let us weep 
+before our Lord, that made us: 
+because he is the Lord 
+our God: we are his people, 
+and the sheep of his pasture. Hail Mary.
+Today if ye shall hear his voice, 
+harden not your hearts, as 
+in the provocation according to the day 
+of temptation in the wilderness: where your fathers 
+tempted me: proved, 
+
+/next/ #Fol. 27r
+and saw my works. Our Lord 
+is with you. Forty years was I 
+nigh unto this generation: and said, 
+they always err in heart: and they have not known my ways, 
+to whom I swear in [T] my rest.                    T. my wrath, if they shall enter into 
+Hail Mary, full of grace: our Lord is with you.
+Glory be to the Father. Even as it was in the beginning. Our Lord
+is with you. Hail Mary, full of grace. 
+Our Lord is with you. Hymn.
+Whom earth, and sea, and eke the skies,
+adore, and worship, and declare,
+as ruler of the triple frame, the closure 
+of Maria bare. Whom both the moon, the sun 
+and all, do serve in their due time and space,
+a maiden's inward parts bear,
+bedewed with celestial grace.
+Blessed is the mother by this gift,
+
+/next/ #Fol. 27v
+whose womb as in a coffer held, the maker that surmounts all,
+who in his hand the world doth weld. Glory 
+be unto you, O Lord, that born was of the virgin,
+with the Father and Holy Ghost,
+all ages ever to endure, Amen. Antiphon
+Blessed are you                         Psalm
+O Lord our Lord: how marvelous 
+is your name in 
+the whole earth. For your magnificence 
+is lifted up: above the heavens. Out of the mouth of 
+infants and sucklings you have perfected 
+praise because of your enemies: 
+that you may destroy the enemy, and 
+revenger. For I shall behold your heavens 
+the works of your fingers: 
+the moon and the stars, which you have founded.
+What is man, that you are mindful 
+of him: or the son of man, that 
+
+/next/ #Fol. 28r
+you do visit him? You have made him 
+a little lower than angels, with glory and ho-
+nor, you have crowned him: and set 
+him over the works of your hands.
+You have put all things in subjection
+under his feet: all sheep and oxen: 
+moreover the beasts also of the fields.
+The birds of the air, and the fishes of the sea, 
+that pass through the paths of the 
+sea. O Lord our Lord, how 
+admirable is your name 
+in all the earth! Glory be to the Father. Antiphon.
+Blessed are you among women, and 
+blessed is the fruit of your womb. Antiphon.
+Even as myrrh. Psalm
+The heavens show forth the glory of God: 
+and the firmament declares 
+the works of his hands. Day unto day 
+
+/next/ #Fol. 28v
+uttereth word: and night unto night 
+shows knowledge. There are no languages, 
+nor speeches: whose voices are not 
+heard. Their sound has gone forth 
+into all the earth: and unto 
+the ends of the round world the words of them. In the sun,
+he has put his tabernacle: and himself 
+as a bridegroom coming forth 
+of his bridechamber. He has rejoiced as a giant 
+to run the way: his coming forth is
+from the highest heaven. And his recourse 
+even to the top thereof: neither is there any 
+that can hide himself from his heat. The law 
+of our Lord is immaculate converting 
+souls: the testimony of our Lord is faithful, 
+giving wisdom to little ones. The justices 
+of our Lord be right, making hearts 
+joyful: the precept of our Lord is lightsome 
+
+/next/ #Fol. 29r
+illuminating the eyes. The fear 
+of our Lord is holy, permanent for ever 
+and ever: the judgments of our Lord be true, justified 
+in themselves. To be desired 
+above gold, and stone much precious: 
+and more sweet above honey, and 
+the honeycomb. For your servant 
+keeps them: in keeping them is much 
+reward. Sins who understands? from my secret sins 
+cleanse me, God: and from other men's spare 
+your servant. If they shall not have dominion 
+over me, then shall I be immaculate: and shall be 
+cleansed from the greatest sin. And 
+the words of my mouth shall be such as may 
+please: and the meditation of my heart 
+always in your fight. O Lord my 
+helper: and redeemer. Glory
+
+
+/next/ #Fol. 29v
+Be to the Father. Antiphon: Even as elected myrrh you gave
+the odor of sweetness, O holy mother of 
+God. Antiphon: Before the bed. Psalm of David.
+The earth is our Lord's, 
+and the fulness thereof: the round world and all that 
+dwell therein. Because he 
+has founded it upon the seas: 
+and upon the floods has prepared it.
+Who shall ascend into the hill of 
+our Lord: or who shall stand 
+in his holy place? The innocent of hands, 
+and of clean heart, that has not taken 
+his soul in vain: nor 
+sworn to his neighbor in guile. He 
+shall receive blessing of our Lord: 
+and mercy of God his saviour. This 
+is the generation of them that seek him: 
+of them that seek the face of the God of Jacob.
+
+/next/ #Fol. 30r
+Lift up your gates ye princes, 
+and be ye lifted up O eternal gates: and 
+the king of glory shall enter in. Who is the king 
+of glory? our Lord strong and mighty: 
+our Lord mighty in battle. Lift up
+your gates ye princes, and 
+be ye lifted up O eternal gates: and
+and the king of glory shall enter in. Who is 
+this king of glory? the Lord of powers he is 
+the king of glory. Glory be to the Father. Antiphon: Before the bed
+of this virgin make usual 
+unto us sweet songs 
+of measure. Verse: Grace is poured out 
+in your lips. Therefore God has blessed 
+you forever. Our Father. 
+By the prayers, and merits of the ever blessed 
+virgin Mary, and of all 
+saints, our Lord bring us to 
+
+/next/ #Fol. 30v
+the kingdom of heaven. Bid me, O Lord, 
+to bless. The virgin Mary with her benign son 
+bless us. Amen.                 The First 
+In all things I sought rest,  Lesson
+and I will abide in the inheritance 
+of our Lord. Then the creator 
+of all commanded, and said to me, he 
+that created me, rested in my tabernacle, 
+and he said to me: Inhabit in Jacob, 
+and inherit in Israel, and take root 
+in mine elect. But you, O Lord, 
+have mercy on us. Thanks be to God.
+Response: O holy and immaculate virginity, 
+I know not, by what praises I may extol you: 
+for you have born in your womb, 
+whom the heavens could not contain.
+Verse: Blessed are you among women, 
+and blessed is the fruit of your womb. 
+
+/next/ #Fol. 31r
+Because whom. Bid me O Lord 
+to bless. O holy mother of God, be our 
+Helper. Amen. The second lesson.
+And so in Sion was I established, 
+and in the sanctified city 
+likewise I rested: and my power was in Jerusalem. 
+And I took root in 
+an honorable people, and in the parts of my God 
+his inheritance: and my abiding 
+in the fulness of saints. 
+But you. Response: Verily you are happy, 
+O sacred virgin Mary, and most worthy 
+of all praise: Because Christ our God 
+the sun of righteousness is sprung from you.
+Verse: Pray for the people, be a mean 
+for the clergy, make intercession for the devout 
+feminine sex: let all feel 
+your assistance, whosoever celebrate 
+
+/next/ #Fol. 31v
+your holy commemoration. 
+Because out of you is. Glory be to the Father.
+Because out of you is sprung the sun of righteousness 
+Christ Our God. Psalm.
+We praise you God: we confess you
+our Lord. You the everlasting father: 
+all the earth does worship. To
+you all angels: to you the heavens, and universal 
+powers. To you cherubim, 
+and Seraphim: do cry out with incessant 
+voice. Holy, holy, 
+holy: Lord God of Sabaoth.
+Full are the heavens, and the earth: of the 
+majesty of your glory. You the glorious 
+choir of the apostles. You the 
+laudable number of prophets.
+You the white clothed army of martyrs, 
+does praise. You through the world 
+
+/next/ #Fol. 32r
+the holy Church does confess.
+The father of infinite majesty.
+Your venerable true: 
+and only son. And also the Holy Ghost 
+the comforter. You 
+O Christ the king of glory. You are the everlasting 
+son of the father. You willing to take upon you 
+to deliver man: 
+didst not abhor the virgin's womb.
+The sting of death being overcome: 
+you have opened the kingdom of heaven to all believers.
+You sit at the right hand of God: in 
+the glory of the father. You are believed 
+to be the judge that shall come. We therefore beseech you, 
+help your servants: whom you have redeemed 
+with your precious blood. Make us 
+to be rewarded with your saints: with eternal glory.
+Make safe your people,
+
+/next/ #Fol. 32v
+O Lord: and bless 
+your heritage. And govern them: and extol them 
+even for ever. Every day 
+we do bless you. And we praise 
+your name for ever: and 
+forever and ever. Vouchsafe O Lord 
+this day: to keep us without sin.
+Have mercy upon us o Lord: have mercy upon us.
+Let your mercy, O Lord, be upon us: 
+even as we have hoped 
+in you. In you, o Lord, have I hoped: let me not be confused 
+forever. Verse: Pray for 
+us, holy mother of God. That we may be 
+made worthy of the promises of Christ. 
+
+/next/ #Fol. 33r
+O God At Lauds
+incline unto my 
+aid. O Lord, make 
+haste to help me.
+Glory be to the Father.
+Our Lord has reigned, he has put upon 
+him beauty: our Lord has put upon him 
+strength, and has girded himself. For he 
+has established the round world: which shall not 
+be moved. Your seat
+is prepared from that time: you are from everlasting.
+The rivers O Lord have lifted up: the rivers 
+have lifted up their voice.
+The rivers have lifted up 
+their waves: from the voices of many waters.
+The surges of the sea are marvelous: 
+marvelous is our Lord in the high places. Your
+testimonies are made credible exceedingly: 
+
+
+/next/ #Fol. 33v
+holiness becomes your house 
+O Lord, for length of days.
+Glory be to the Father. Antiphon: Mary is assumpted 
+into heaven: the angels do rejoice, 
+they and lauding do bless our Lord. Antiphon: 
+The virgin Mary. Psalm of David.
+Make ye joy to God all the earth: serve 
+ye our Lord in gladness. Enter 
+ye in before his sight: in jollity.
+Know ye that our Lord he is 
+God: he made us, and not we ourselves.
+His people, and the sheep of his 
+pasture,  his courts in hymns 
+confess ye to him. Praise ye 
+his name, because our Lord is sweet: 
+his mercy for ever. Glory be to the Father.
+Antiphon: The Virgin Mary is assumpted
+
+/next/ #Fol. 34r
+unto the heavenly chamber in the which 
+the king of kings sits upon his starry seat. Antiphon: Into the odor. Psalm.
+O God my God: to you I watch 
+from the morning light. My soul has thirsted to you: 
+my flesh to you very many ways.
+In desert land, and inaccessible, and without 
+water, so in the holy have I appeared to you: 
+that I might see your strength, 
+and your glory. Because your mercy is 
+better than lives: my lips 
+shall praise you. So will I bless 
+you in my life: and in your name 
+I will lift up my hands. As with 
+lard and fatness let my soul 
+be filled: and my mouth shall praise 
+with lips of joyfulness. So have I been mindful 
+of you upon my bed, 
+
+/next/ #Fol. 34v
+in the morning I will meditate on you: because 
+you have been my helper. And in the cover 
+of your wings I will rejoice, 
+my soul hath cleaved after you: your right hand 
+has received me. But they 
+in vain have sought my soul, 
+they shall be delivered 
+into the hands of the sword, 
+they shall be the portions of foxes. But the King 
+shall rejoice in God, all shall be 
+praised, that swear in him: because 
+the mouth is stopped of them that speak 
+God have mercy upon us.     wicked things.
+and bless us: 
+illuminate his countenance upon 
+us, and have mercy upon us. That we may 
+know your way in earth: 
+in all nations your salvation.
+
+/next/ #Fol. 35r
+Let peoples 
+O God confess to you: let all peoples confess to you.
+Let nations be glad and rejoice, 
+because you judge peoples in equity: 
+and the nations in the earth you do direct.
+Let peoples o God confess to you, 
+let all peoples confess to you: 
+the earth has yielded her fruit. God our God 
+bless us and let all the ends of the earth 
+fear him. Glory be to the Father. Antiphon: Into the odor
+of your ointments we do run: 
+young maidens have loved thee exceedingly.
+Antiphon: Blessed the daughter. Psalm:
+All the works of our Lord bless ye our 
+Lord: praise and extol 
+him for ever. Bless our Lord ye 
+angels of our Lord: the heavens bless 
+our Lord. All waters that
+
+/next/ #Fol. 35v
+are above the heavens, bless ye our Lord: bless 
+our Lord all ye powers of our Lord.
+Shower and dew bless ye our Lord: every spirit of God 
+bless ye our Lord.
+Fire and heat bless ye our Lord: 
+cold and summer bless ye our Lord.
+Dews, and hoar frost bless ye our 
+Lord: frost, and cold bless ye our Lord.
+Ice, and snow bless ye our 
+Lord: nights and days bless ye our Lord.
+Light, and darkness bless ye our Lord: 
+lightnings and clouds bless ye our Lord.
+Let the earth bless our Lord: let it praise, 
+and extol him for ever.
+Mountains and all
+hills bless ye our Lord: all things 
+that spring in the earth bless ye our Lord.
+Bless our Lord ye fountains: 
+
+/next/ #Fol. 36r
+seas, and rivers bless ye our Lord.
+Whales, and all that 
+move in the waters, bless ye our Lord: bless 
+our Lord all ye fowls of the air.
+All beasts and cattle bless ye 
+our Lord: sons of men bless ye our 
+Lord. Let Israel bless our Lord: 
+let it praise, and extol him 
+for ever. Priests of our Lord bless ye 
+our Lord: servants of our Lord 
+bless ye our Lord. Spirits, and souls 
+of the just bless ye our Lord: holy, 
+and humble of heart bless ye our Lord.
+Ananias, Azarias, Misael, 
+bless ye our Lord: praise and extol 
+him for ever. Let us bless 
+the Father, and the Son with the Holy 
+Ghost: let us praise, and extol 
+
+/next/ #Fol. 36v
+him forever. â€‹â€‹Blessed 
+are you O Lord in the firmament of heaven: 
+and praised, and glorified, and extolled 
+forever. Amen
+Antiphon: Blessed daughter art blessed of our Lord: 
+for that by you we have partaken 
+the fruit of life. Antiphon: Fair you are. Psalm of David:
+Praise ye our Lord from the heavens: praise 
+ye him in the high places. Praise 
+ye him all his angels: 
+praise ye him all his powers.
+Praise ye him sun, and moon: 
+praise ye him all ye stars, and 
+light. Praise him ye heavens of heavens: 
+and the waters that are above the heavens, 
+let them praise the name of our Lord.
+Because he said, and they were made: 
+he commanded and they were created.
+
+/next/ #Fol. 37r
+He established them for ever, and for ever 
+and ever: he put a precept, 
+and it shall not pass.
+Praise our Lord from the earth: ye dragons 
+and all depths. Fire, 
+hail, snow, ice, spirits of 
+storms: which do his word.
+Mountains and all the hills: 
+trees that bear fruit, and all cedars.
+Beasts, and all cattle: serpents, 
+and feathered fowls. Kings 
+of the earth, and all peoples: princes, 
+and all judges of the earth. Young 
+men, and virgins, old with young 
+let them praise the name of our Lord: 
+because the name of him alone is exalted.
+The confession of him above 
+heaven and earth: and he has exalted 
+
+/next/ #Fol. 37v
+the horn of his people. An hymn to all 
+his saints, to the sons of Israel: 
+a people approaching unto him. Psalm:
+Sing ye to our Lord a new 
+song: his praise in the church 
+of saints. Let Israel 
+be joyful in him, that made him: and let the daughters of Sion 
+rejoice in their king. Let them praise 
+his name in dance: on timbrel, 
+and psaltery let them sing to him. Because 
+our Lord is well pleased in 
+his people: and he has exalted the meek 
+unto salvation. The saints 
+shall rejoice in glory: they shall be joyful in 
+their beds. The joyfulness 
+of God in their throats and two-edged swords 
+in their hands.
+To do revenge in 
+
+/next/ #Fol. 38r
+the nations: chastisements amongst 
+his peoples. To bind their kings 
+in fetters: and their nobles 
+in iron manacles. That they may do 
+in them the judgment that is written: this glory 
+is to all his saints.
+Praise ye our Lord in his saints: 
+praise him in the firmament 
+of his strength. Praise ye him 
+in his powers: praise ye him 
+according to the multitude 
+of his greatness. Praise ye him 
+in the sound of trumpet: praise ye him on psaltery 
+and harp. Praise ye him 
+on timbrel, and choir: praise ye him 
+on strings and organ. Praise ye 
+him on well sounding cymbals: 
+let every spirit praise our Lord.
+
+/next/ #Fol. 38v
+Glory be to the Father. Antiphon: Fair you art and comely 
+o daughter of Jerusalem, terrible as the front of an army 
+set in array. Chapter: 
+The daughters beheld her, and declared 
+her most blessed, and Queens 
+did praise her. Thanks be to God.
+O Lady set in glory great,
+above the stars in high degree, 
+that gave him suck with sacred breast,
+by providence that formed you.
+By your fair blossom you restored,
+what lamentable Eve decayed:
+that wailing wights might mount the stars,
+the heavens' window you are made.
+The gate you are of the high king, the port of light 
+that glisters clear, since life was given by a maid.
+Let freed men show joyful cheer.
+Glory be unto you, O Lord, that born 
+was of the virgin pure. With the father and Holy 
+Ghost, all ages ever to endure.
+
+/next/ #Fol. 39r
+Amen. Verse: Blessed are you among 
+women, and blessed is the fruit
+of your womb. Antiphon: Blessed is the Lord. Psalm:  
+Blessed be our Lord God of Israel: 
+because he has visited and wrought the 
+redemption of his people. And hash erected 
+the horn of salvation to us: in the house 
+of David his servant. As he spake 
+by the mouth of his holy prophets: that are from the beginning.
+Salvation from our enemies: and from the 
+hand of all that hate us.
+To work mercy with 
+our fathers: and to remember 
+his holy testament. The oath, 
+which he swore to Abraham 
+our father: that he would give to 
+us. That without fear being delivered 
+
+
+/next/ #Fol. 39v
+from the hand of our enemies: we may 
+serve him. In holiness and justice 
+before him: all our 
+days. And you child, shall be called 
+the prophet of the highest: for you shall go 
+before the face of our Lord, to prepare 
+his ways. To give knowledge 
+of salvation to his people: unto remission 
+of their sins. Through the bowels 
+of the mercy of our God in which the orient 
+from on high, has visited us. To illuminate 
+him that sit in darkness, and in 
+the shadow of death: to direct 
+our feet into the way of peace.
+Glory be to the Father. Antiphon: O blessed Mary mother of God, 
+perpetual virgin, temple 
+of our Lord, the sacred place of the holy Ghost: you 
+alone without example, didst please our Lord 
+
+/next/ #Fol. 40r
+Jesus Christ: pray for the people, 
+be a mean for the clergy, make intercession for 
+the devout feminine sex. Lord have mercy upon us. 
+Christ have mercy upon us. Lord have mercy upon us. O Lord graciously hear.
+O God, which would your word, 
+should take flesh, of the womb of blessed Mary the virgin, 
+the angel declaring it, grant unto us your suppliants, 
+that we which truly do believe her to be the mother 
+of God: may be by her intercessions 
+holpen with you. Through the same 
+Jesus Christ our Lord. Amen.
+Antiphon: O all ye saints of God vouchsafe 
+to make intercession for the salvation of us, and 
+of all. Verse: Be glad in our Lord, and 
+rejoice ye just. And glory all ye 
+right in heart. Let us pray. Prayer:
+Protect O Lord your people
+
+/next/ #Fol. 40v
+and conserve the confident in the patronage of the apostles Peter and 
+Paul, and the other apostles, 
+with perpetual defense.
+Prayer: All your saints may everywhere help us: 
+that while we reverently recognise their merits, 
+we may feel their patronages: 
+and grant us you peace in our times: from your Church 
+repel all wickedness: and dispose our way, acts, 
+and wills, and of all your 
+servants in the prosperity of your salvation: 
+and yield unto our benefactors perpetual good things: 
+and grant eternal rest to all faithful departed.
+Through our Lord Christ.
+Amen.
+
+
+/next/ #Fol. 41r
+O God At Prime
+Incline unto my 
+aid. O Lord make 
+haste to help me. 
+Glory be to the Father. Hymn.
+Be mindful author of our health, that 
+you sometime did take on you
+of a pure virgin being born,
+the form of our humanity. Mary that mother 
+art of grace, of mercy mother also art, save 
+and defend us from our foe, receive us when we hence depart.
+Glory be unto you O Lord, that born 
+was of the virgin pure, with the father and 
+the holy Ghost, all ages ever to endure. 
+Amen. Antiphon: Ascended est. Psalm:
+O God save me in your 
+name: and in your strength judge 
+me. O God hear my prayer: 
+
+/next/ #Fol. 41v
+with your ears receive the words of my 
+Mouth. Because strangers have risen up 
+against me, and the strong have 
+sought my soul: and they have not 
+set God before their sight.
+For behold God 
+helped me: and our Lord is the receiver 
+of my soul. Turn away the evils 
+to mine enemies and in your truth 
+destroy them. I will voluntarily sacrifice 
+to you: and will confess to your name 
+O Lord, because it is good. Because 
+you have delivered me out of all tribulation: 
+and my eye has looked down 
+upon my enemies. Psalm:
+O Lord you have blessed your land: 
+you have turned away the captivity of 
+Jacob. You have forgiven the iniquity 
+
+/next/ #Fol. 42r
+of your people: you have covered all their 
+sins. You have mitigated all your 
+wrath: you have turned away from the wrath 
+of your indignation. Convert us o God 
+our savior: and avert your wrath 
+from us. Will you be wroth 
+with us forever: or will you extend 
+your wrath from generation to 
+generation? O God you being turned 
+shall quicken us: and your people 
+shall rejoice in you. Show us 
+O Lord your mercy: and give us 
+your salvation. I will hear 
+what our Lord God will speak in me: 
+because he will speak peace 
+unto his people. And upon his saints: 
+and upon them, that are converted 
+to the heart. But yet 
+
+/next/ #Fol. 42v
+his salvation is nigh to them that fear him: that 
+glory may inhabit our land.
+Mercy, and truth have met 
+each other: justice, and peace have kissed.
+Truth is risen out of the earth: and justice 
+has looked down from heaven. For 
+our Lord truly will give benignity: and our land 
+shall give her fruit. Justice 
+shall walk before him: and 
+shall set his steps in the way.
+Praise our Lord all ye gentiles: 
+praise him all ye people.
+Because his mercy is confirmed 
+upon us: and his truth 
+remains forever. Glory be to the Father.
+Antiphon: Mary is assumpted into heaven: 
+the angels do rejoice, they lauding do 
+bless our Lord. Chapter.
+
+/next/ #Fol. 43r
+What is she, that comes forth, 
+as the morning rising, 
+fair as the moon, elect as the sun, terrible 
+as the front of an army set 
+in array. Thanks be to God. Vouchsafe me 
+to praise you O sacred virgin. Give me 
+force against your enemies. 
+Lord have mercy upon us. Christ, have mercy upon us. Lord have mercy 
+upon us. O Lord graciously hear. And let my cry. Prayer:
+O God which did vouchsafe to choose the virginal palace 
+of the blessed virgin Mary, in which 
+you would dwell: grant we beseech you: 
+that we guarded by her defense, 
+she may make us joyful
+ to be present at her commemoration. Who 
+lives and reigns, God, world 
+without end. Amen. Antiphon:
+O all ye saints. Verse: Be glad
+
+/next/ #Fol. 43v
+in God. Prayer:
+Hear us, O God 
+our savior, and protect us with the fortress of your apostles
+Peter and Paul, and the other apostles
+whose teachings you have given us
+to be faithful. 
+We beseech you. Prayer: 
+And your peace. Bless we 
+our Lord. Thanks be to God. 
+
+/next/ #Fol. 44r
+O God At Terce
+incline 
+unto my aid. O Lord 
+make haste 
+to help me. Be mindful 
+author of our health. Mary that mother are 
+of grace. Glory be the Lord. Antiphon: Mary.
+When I was in tribulation 
+I cried to our Lord: and he heard 
+me. O Lord deliver my soul 
+from unjust lips: and from a deceitful 
+tongue. What may be given to you, or what 
+may be added unto you: to a deceitful 
+tongue? The sharp arrows of the 
+mighty: with coals of desolation.
+Woe is unto me, that my sojourning
+is prolonged, I have dwelt with 
+the inhabitants of Cedar: my soul has been much
+
+/next/ #Fol. 44v
+a sojourner. With them, 
+that hated peace, I was peaceable: 
+when I spoke to them, they impugned 
+me without cause. Glory be to the Father. Antiphon: 
+I have lifted up my eyes unto the mountains: 
+from whence help shall come 
+to me. My help is from our Lord: 
+which made heaven and earth.
+Let him not give your foot 
+to be moved: neither let him slumber that keeps 
+you. He shall not slumber: 
+nor sleep, that keeps Israel.
+Our Lord keeps you, our Lord 
+is your protection: upon your 
+right hand. By day the sun 
+shall not burn you: nor the moon by night.
+Our Lord does keep you from all 
+evil: let our Lord keep your soul.
+
+/next/ #Fol. 45r
+Let our Lord keep your coming in, 
+and your going out: from henceforth, 
+now and forever. Psalm of David: 
+I rejoiced in those things, which 
+were said to me: we shall go into the house 
+of our Lord. Our feet 
+were standing: in your courts O Jerusalem.
+Jerusalem which is built 
+as a city: whose participation therefore 
+is in itself. For thither did 
+the tribes ascend, the tribes of our Lord, 
+the testimony of Israel: to confess 
+unto the name of our Lord. Because 
+seats sat there in judgment: seats 
+upon the house of David. Ask ye 
+the things that are for the peace of Jerusalem: 
+and abundance to them that love 
+you. Peace be made in your strength: and 
+
+/next/ #Fol. 45v
+abundance in your towers.
+For my brethren, and my neighbours' 
+sakes: I spake peace of 
+you. For the house of the Lord our 
+God: I have sought good things to you. Glory be
+To the Father. Antiphon: The virgin Mary is assumpted 
+unto the heavenly chamber: in 
+which the king of kings sits upon his starry 
+And so in Sion was I established,       seat. 
+and in the sanctified city 
+likewise I rested: and 
+my power was in Jerusalem. Thanks be
+to God. Verse: Grace is poured 
+out in your lips. Therefore God 
+has blessed you forever. Lord have mercy 
+upon us. O Lord graciously hear 
+my prayer. And let my cry come unto you.
+
+/next/ #Fol. 46r
+Come. Let us pray. Prayer: 
+O God which by the fruitful virginity 
+of the blessed virgin Mary, 
+has given unto mankind the rewards of eternal salvation: 
+grant we beseech you, that we may perceive her 
+to make intercession for us, by whom 
+we have deserved to receive the author 
+of life our Lord Jesus Christ 
+your son. Amen. Antiphon: 
+All ye Saints of God. Verse: Be glad
+in the Lord, and rejoice. Prayer: 
+Protect, O Lord, your people. 
+All your saints.  Prayer: 
+And your peace. Bless 
+we our Lord. Thanks be to God. 
+
+/next/ #Fol. 46v
+Blank page
+
+/next/ #Fol. 47r
+O God, incline At Sexte.
+unto my 
+aid. O Lord 
+make haste to help 
+me. Be mindful 
+author of our health. Mary, mother 
+of grace. Glory be unto you O Lord. Antiphon: Into the odor. 
+To you have I lifted up my eyes: 
+which dwell in the heavens. Behold 
+as the eyes of servants: are in the hands 
+of their masters. 
+As the eyes of the handmaid in the hands 
+of her mistress: so are our eyes 
+to the Lord our God, until 
+he has mercy on us. Lord 
+have mercy upon us, have mercy upon us: 
+because we are much replenished with 
+contempt. Because our soul 
+
+/next/ #Fol. 47v
+is much replenished: reproach 
+to them that abound, and contempt 
+to the proud. Psalm.
+But that our Lord was in us, 
+let Israel now say: but that our Lord 
+was in us. When men rose up 
+against us: perhaps they had 
+swallowed us alive. When their fury 
+was angry against us: perhaps 
+water had swallowed us. Our soul 
+has passed through a brook: 
+perhaps our soul had passed through 
+an intolerable water.
+Blessed be our Lord: which has not given 
+us for a prey to their teeth.
+Our soul as a sparrow 
+is delivered: from the snare of the fowlers.
+The snare is broken: and we 
+
+/next/ #Fol. 48r
+are delivered. Our help 
+is in the name of the Lord, 
+who made heaven and earth. Psalm:
+They that trust in our Lord, 
+as mount Sion: he shall not 
+be moved for ever, that dwells
+in Jerusalem. Mountains 
+round about it, and our Lord round 
+about his people: from henceforth, now, 
+and for ever. Because our Lord 
+will not leave the rod of sinners 
+upon the lot of the just: 
+that the just extend not their hands 
+to iniquity. Do well 
+o Lord to the good: and right of heart.
+But those that decline into bonds, 
+our Lord shall bring with them 
+that work iniquity: peace 
+
+/next/ #Fol. 48v
+upon Israel. Glory be to the Father. Antiphon:
+Into the odor of your ointments 
+we do run: young maidens 
+have loved thee exceedingly. Chapter:
+
+I have also taken root in 
+honorable people, and in the parts of my God 
+his inheritance: and 
+my abiding in the fulness 
+of saints. Thanks be to God. Verse:
+Blessed art you among women, 
+and blessed is the fruit of thy 
+womb. Lord have mercy upon us. Christ have mercy upon us. Lord have mercy upon us. O Lord hear my prayer. And let my cry 
+come unto you. Prayer:
+Grant aid O merciful God 
+unto our fragility: that 
+we which make memory of the holy mother of God Mary: 
+
+/next/ #Fol. 49r
+may by the help of her 
+intercession arise 
+from our iniquities.
+Through the same, Christ our 
+Lord. Amen. Antiphon: O all ye saints 
+of God. Verse: Be glad in our Lord.
+Hear us, O God. Prayer:
+All your saints. Prayer:
+And your peace. Bless we 
+our Lord. Thanks be to God.
+
+/next/ #Fol. 49v
+Blank page
+
+/next/ #Fol. 50r
+O God,    At Nine. 
+incline unto 
+my aid. O Lord make 
+haste to help 
+me. Be mindful 
+author of our health. Mary
+mother. Glory 
+be unto you O Lord. Antiphon: Fair you are. Psalm:
+When our Lord turned 
+the captivity of Sion: we were made 
+as men comforted. Then was 
+our mouth replenished with joy: and our tongue 
+with joyfulness. Then 
+shall they say among the gentiles: our Lord 
+has dealt magnifically to do with them. Our Lord 
+has dealt magnifically to do with us: 
+we are made joyful. Turn 
+our captivity o Lord: 
+as a brook in the south.
+
+/next/ #Fol. 50v
+They that sow in tears: 
+shall reap in joyfulness. Going they went, 
+and wept: casting their seeds.
+But coming they shall come with 
+jollity carrying their 
+Sheaves. Glory be to the Father. Psalm:  
+Unless our Lord build 
+the house: they have labored in vain, 
+that built it. Unless our Lord 
+shall keep the city: he watches in vain, 
+that keeps it. It is in vain 
+for you to rise before light: rise ye, 
+after ye have sitten, which eat 
+the bread of sorrow. When he shall 
+give sleep to his beloved behold 
+the inheritance of our Lord, children the reward, the fruit 
+of the womb. As arrows in the 
+hand of the mighty: so are the children of them that are shaken.
+
+/next/ #Fol. 51r
+Blessed is the man, that has not filled 
+his desire of them: he shall not be 
+confounded when he shall speak to his enemies
+in the gate. Psalm:
+Blessed are all that fear 
+our Lord: that walk in 
+his ways. Because you shall eat 
+the labors of your hands: 
+blessed are you, and it shall be well with you.
+Your wife as plentiful vine: 
+in the sides of your house. Your children 
+as young plants of olive trees: 
+round about your table. Lo so 
+shall the man be blessed: that fears 
+our Lord. Our Lord 
+out of Sion bless you: and that you may see the good things 
+of Jerusalem, all the days 
+of your life. And that you may see your children's 
+
+/next/ #Fol. 51v
+children: peace upon 
+Israel. Glory be to the Father. Antiphon: Fair 
+you are and comely O daughter of Jerusalem, ter-
+rible as the front of an army set 
+in array. Chapter:
+I gave an odor as cinnamon, 
+and as aromatical balm 
+in the streets: as chosen myrrh 
+have I given the sweetness of odor.
+Thanks be to God. Verse: After childbearing,
+you did remain an inviolate virgin.
+O mother of God make intercession for us
+in front of the Lord. Lord have mercy upon us. Christ 
+have mercy upon us. Lord have mercy upon us. O Lord 
+graciously hear my prayer. And let
+my cry come unto you. Prayer:
+O Lord, we beseech you, 
+to forgive the offenses 
+
+
+/next/ #Fol. 52r
+of your servants: that we which are not able to please 
+you by our own acts: 
+may be saved by the intercession 
+of the mother of your son, our Lord. Through 
+the same our Lord Christ.
+Amen. Antiphon: O all ye saints of God. Verse:
+
+Be glad in our Lord. Prayer:
+We beseech you, O almighty 
+God, suffer us not, 
+ever to be shaken by any storms of the enemy,w
+hom you have firmly founded upon 
+the rock of the apostolical confession. Other prayer: 
+All your saints. Prayer:
+And your peace. Bless we 
+our Lord. Thanks be to God.
+
+/next/ #Fol. 52v
+Blank page.
+
+/next/ #Fol. 53r
+O God,   At Vespers. 
+incline 
+unto my aid. O Lord make haste 
+to help me.
+Antiphon: While was. Psalm:
+Our Lord said to my Lord: 
+sit on my right hand. Until 
+I make your enemies: your 
+foot-stool. Our Lord will send forth 
+the rod of your strength from Sion: rule 
+you in the midst of your 
+enemies. The beginning with you in the day 
+of your strength in the brightness 
+of the saints: from the womb before the day star 
+I begat you. Our Lord swear, 
+and it shall not repent him: 
+you are a priest for ever, 
+according to the order of Melchisedech.
+
+
+/next/ #Fol. 53v
+Our Lord on your right hand: has 
+broken kings in the day of his wrath.
+He shall judge in nations, he shall fill 
+ruins: he shall crush the heads in 
+the land of many. Of the brook in the way 
+he has drunk: therefore shall he lift up the head.
+Glory be to the Father.  Antiphon: While the king was 
+upon his bed, my nardus did give 
+an odor of sweetness. Antiphon: His left. Psalm:
+Praise our Lord ye children: praise ye 
+the name of our Lord. The name 
+of our Lord be blessed: from henceforth, now 
+and for ever. From the rising of the sun 
+unto the going down: the name of our Lord 
+is laudable. Our Lord is high above 
+all nations: and his glory 
+above the heavens. Who is as the Lord 
+our God that dwells on high: 
+
+/next/ #Fol. 54r
+beholdeth the humble things in heaven and 
+earth? Raising up the needy 
+from the earth: and lifting up the poor 
+out of the dung. To place him with 
+princes: with the princes 
+of his people. Who makes 
+the barren woman to dwell in a house: a joyful mother 
+of children. Glory be to the Father. Antiphon: His left hand 
+is under my head, and his right hand 
+shall embrace me. Antiphon: I am black.
+I rejoiced in those things, which 
+were said to me: we shall go into the house 
+of our Lord. Our feet 
+were standing: in your courts 
+O Jerusalem. Jerusalem which is built 
+as a city: whose participation therefore 
+is in itself. For thither 
+did the tribes ascend, the tribes of our Lord, 
+
+/next/ #Fol. 54v
+the testimony of Israel: to confess 
+unto the name of our Lord. Because 
+seats sat there in judgment: seats 
+upon the house of David. Ask ye 
+the things that are for the peace of Jerusalem: and 
+abundance to them that love you.
+Peace be made in your strength: and abundance 
+in your towers. For 
+the Lord our God: I have sought 
+good things to you. Glory be to the Father. Antiphon: 
+I am black, but beautiful, o ye daughters 
+of Jerusalem: therefore the king hath loved me, and 
+brought me into his chamber.
+Unless our Lord      Antiphon: Winter. Psalm: 
+build the house: 
+they have labored in vain, that built 
+
+/next/ #Fol. 55r
+it. Unless our Lord shall keep 
+the city: he watches in vain, that 
+keeps it. It is in vain for you 
+to rise before light: rise ye, after ye 
+have sitten, which eat 
+the bread of sorrow. When he 
+shall give sleep to his beloved behold the inheritance 
+of our Lord, children the reward, the fruit 
+of the womb. As arrows in the hand 
+of the mighty: so are the children of them that are shaken.
+Blessed is the man, that has filled his desire 
+of them: he shall not be confounded 
+when he shall speak to his enemies in the gate. Glory be to the Father.
+An[tiphona]: Winter is now past: the rain 
+is gone, and departed: arise my love, 
+and come. Antiphon: Fair. Psalm of David:
+O Jerusalem praise our Lord.
+
+/next/ #Fol. 55v
+praise your God o Sion. Because 
+he has strengthened the locks of your 
+gates: he has blessed your children in you.
+Who has placed peace your borders, 
+filled you with the fat of corn. Who 
+sends forth his speech to the earth: his 
+word runs swiftly. Who 
+gives snow as wool: scattered 
+mist as ashes. He casts 
+his crystal as morsels: 
+before the face of his cold 
+who shall abide? He shall send forth 
+his word, and shall melt them: his spirit 
+shall blow, and flow shall the waters.
+Who declares his word 
+to Jacob: justices, and his judgments 
+to Israel. He has not done in like manner to every 
+nation: and his judgments he has not 
+ 
+/next/ #Fol. 56r
+made manifest to them. Glory be to the Father. Antiphon: You are made 
+fair and sweet in your delicateness, 
+o holy mother of God. Chapter: 
+From the beginning, and before worlds was I 
+created, and unto the world to come 
+I shall not cease: and in the holy ha-
+bitation have I ministered 
+before him. Thanks be to God. Hymn:
+All hail star of the sea, God's mother 
+clear and bright, the happy gate of bliss,
+and still in virgin's plight. Receiving that all hail,
+which Gabriel's mouth did give, establish us in peace,
+changing the name of Eve. The guilty's 
+bands unbind, blind men their sight assure:
+all things from us expel, all good 
+for us procure. A mother show your self,
+he take our plaints by you, that being 
+for us born, vouchsafe 
+
+/next/ #Fol. 56v
+your son to be.
+O rarest virgin pure, of all that meekest waste,
+discharged of our sin, make you us meek, and 
+chaste. Grant that our life be pure,
+make safe for us the way, that while we Jesus see,
+our joy may last for ay. To God the father praise,
+to Christ high worship be, and to the holy 
+Spirit, one honour unto three. Amen.
+Verse: Grace is poured out in your 
+lips. Therefore God has blessed you 
+forever. Antiphon: O blessed mother. 
+My soul: does magnify our Lord.
+And my spirit has rejoiced: in 
+God my savior. Because he has regarded 
+the humility of his handmaid: for 
+behold from henceforth all generations 
+shall call me blessed. Because he 
+that is mighty, has done great things to me: 
+and holy is his name. And 
+
+/next/ #Fol. 57r
+his mercy from generation unto generations: 
+to them that fear him. He has shewed 
+might in his arm: he has dispersed 
+the proud in the conceit of their heart. He has 
+deposed the mighty from their seat: and has exalted 
+the humble. The hungry he has filled 
+with good things: and the rich he has sent away 
+empty. He has received Israel his child: 
+being mindful of his mercy. As 
+he spoke to our fathers: 
+to Abraham, and his seed for ever.
+Glory be to the Father. Antiphon: O blessed mother 
+and untouched virgin, glorious queen 
+of the world, make intercession for us unto 
+our Lord. Lord have mercy upon us. Christ have mercy 
+upon us. Lord have mercy upon us. O Lord graciously 
+hear my prayer. And let my cry 
+come unto you. Prayer:
+
+/next/ #Fol. 57v
+O Lord God we beseech you 
+grant us your servants, 
+to enjoy perpetual health of mind, and body: 
+and by the glorious 
+intercession of the ever blessed virgin Mary, 
+to be delivered from this present 
+sorrow, and to enjoy gladness everlasting. 
+Through our Lord Christ.
+Amen. Antiphon: O all ye saints of God. Verse:  
+Be glad in our Lord. Prayer:
+Protect O Lord your people. Prayer:
+And your peace. Bless we 
+our Lord. Thanks be to God. 
+
+/next/ #Fol. 58r
+Convert At Compline
+us O God our savior.
+And avert your ire 
+from us. O god, incline 
+unto my aid.
+Often have they impugned me from 
+my youth: let Israel now 
+say. Often have they impugned 
+me from my youth: but they have not 
+prevailed against me. Sinners have builded 
+upon my back: 
+they have prolonged their 
+iniquity. Our just Lord will cut the 
+necks of sinners: let them be confounded, 
+turned backward all, that hate Sion. Let 
+them be made as hay of the tops of houses: which 
+is withered, before it be plucked up.
+Whereof he that reaped, shall not fill his hand 
+
+
+/next/ #Fol. 58v
+and he that gathereth the sheaves, 
+his bosom. And they said not 
+that passed by, the blessing 
+of our Lord be upon you: we have blessed 
+you in the name of our Lord.
+From the depths I have cried to 
+you O Lord: Lord hear my 
+voice. Let your ears 
+be attentive: unto the voice of my 
+petition. If you will observe iniquities 
+o Lord: Lord who shall endure 
+it? Because with you there is 
+pitifulness: and for your law 
+I have expected you O Lord.
+My soul has stayed in his word: my soul 
+has hoped in our Lord. From the 
+morning watch even until night: 
+let Israel hope in our Lord. Because with 
+
+/next/ #Fol. 59r
+our Lord there is mercy: and with him 
+plentiful redemption. And he shall redeem 
+Israel: from all his iniquities.
+Lord my heart is not exalted 
+neither are mine eyes 
+lofty. Neither have I walked in great 
+matters: nor in marvelous things above 
+me. If I were not humble 
+minded: but exalted my soul.
+As the weaned child is over 
+his mother: so recompense in my soul.
+Let Israel hope in our Lord: from henceforth 
+now and for ever. Chapter:
+I am the mother of beautiful love, 
+and of fear, and of greatness, 
+and of holy hope. Thanks be to God. Verse:
+Pray for us holy mother of God.
+That we may be made worthy the promises 
+
+/next/ #Fol. 59v
+of Christ. Antiphon: Under your. Psalm:
+Now you do dismiss your servant 
+O Lord: according to your word 
+in peace. Because mine eyes have seen: 
+your salvation. Which you have 
+prepared: before the face of all peoples.
+A light to the revelation 
+of the gentiles: and the glory of your people Israel.
+Antiphon: Under your aid 
+we make our refuge O holy mother of God: 
+despise not our petitions in 
+our necessities but deliver us ever 
+from all dangers O virgin, always 
+blessed. Lord have mercy upon us. Christ have mercy upon us. Lord have mercy upon us.
+O Lord graciously hear. Let us pray. Prayer: 
+O blessed and ever glorious 
+virgin, the glorious intercession may protect us, 
+and bring us to life everlasting. Though 
+
+/next/ #Fol. 60r
+Antiphon: O all ye saints of God. Verse: Be glad in our Lord. Prayer: 
+Hear us, O God. Prayer:
+All your saints. Prayer:
+And your peace. Bless we our Lord. Thanks be to God. Antiphon: 
+All hail O queen mother 
+of mercy. Life, sweetness, and our hope, 
+all hail. We exiled 
+the sons of Eve do cry unto you. To you 
+we sigh groaning and weeping 
+in this vale of tears.
+Therefore o you our advocate 
+turn those your merciful eyes unto us.
+And show unto us 
+after this exile blessed Jesus, 
+the fruit of your womb. O clement, 
+O pitiful, O sweet virgin Mary. Verse: Hail 
+Mary, full of grace: our Lord is with you.
+
+/next/ #Fol. 60v
+Blessed are you among women, and 
+blessed is the fruit of your womb. Prayer: 
+O Almighty eternal God, 
+which has prepared the body and soul 
+of the glorious virgin Mary, that it 
+deserved to be made a worthy habitacle 
+of your son, the holy Ghost working therewith: 
+grant, that in whose commemoration 
+we rejoice: by her godly inter-
+cession we may be delivered from all present evils, 
+and death everlasting.
+Through Christ our Lord. Amen.
+
+/next/ #Fol. 61r
+Back of the illumination
+
+/next/ #Fol. 61v
+Illumination
+
+/next/ #Fol. 62r
+Beginning of the seven psalms of David.
+Lord rebuke me not in your fury: 
+nor chastise me 
+in your wrath. Have 
+mercy on me Lord, 
+because I am 
+weak: heal me Lord, because 
+all my bones are 
+troubled. And my soul is troubled 
+exceedingly: but you Lord how long?
+Turn you O Lord, and deliver 
+my soul: save me 
+for your  mercy. Because 
+there is not in death, that is mindful 
+of you: and in hell who shall 
+confess to you? I have laboured 
+in my mourning, I will every night 
+
+
+/next/ #Fol. 62v
+wash my bed: 
+I will water my couch with tears.
+My eye is troubled for fury: 
+I have waxen old among all 
+my enemies. Depart from me all ye, 
+that work iniquity: because 
+our Lord has heard the voice 
+of my weeping. Our Lord has heard 
+my petition: our Lord has received 
+my prayer. Let all my enemies be ashamed, and 
+very sore troubled: 
+let them be converted, and 
+ashamed very speedily. Psalm:
+Blessed are they whose 
+iniquities are forgiven: and whose sins 
+be covered. Blessed is the man to whom 
+our Lord has not imputed sin: neither is 
+there guile in his spirit.
+Because I held 
+
+/next/ #Fol. 63r
+my peace, my bones are waxen old: whilst 
+I cried all the day. Because day, and 
+night your hand is made heavy upon 
+me: I am turned in my 
+anguish, whilst the thorn is fastened.
+I have made my sin known to you: 
+and my injustice I have not 
+hid. I said, I will confess against 
+me my injustice to our Lord: and 
+you have forgiven the impiety of my 
+sin. For this shall every holy one 
+pray to you: in time convenient.
+But yet in the overflow of many 
+waters: they shall not approach 
+to him. You are my refuge 
+from tribulation, which has compassed me: 
+my joy, deliver me from them 
+that compass me. I will give you understanding, 
+
+/next/ #Fol. 63v
+and will instruct thee in the way, 
+that you shalt go: I will fasten my 
+eyes upon you. Do not become as 
+horse and mule: who have no 
+understanding. In bit and bridle 
+bind fast their jaws that 
+approach not to you. Many 
+are the scourges of a sinner: but mercy 
+shall compass him that hopes 
+in our Lord. Be joyful in our Lord, 
+and rejoice ye just: and glory 
+all ye right of heart. Psalm:
+Lord rebuke me not in your 
+fury: nor chastise me 
+in your wrath. Because your arrows 
+are fastened in me: and you have confirmed 
+your hand upon me. There is no 
+health in my flesh in respect 
+
+/next/ #Fol. 64r
+of your wrath: my bones have no peace 
+in respect of my sins. Because
+my iniquities are gone 
+over my head: and as a heavy 
+burden are become heavy upon me.
+My scars are putrified, and corrupted: 
+in respect of my foolishness.
+I am become miserable, and am made crooked, 
+even to the end: I went sorrowful 
+all the day. Because my loins 
+are filled with illusions: 
+and there is no health in my flesh.
+I am afflicted, and am humbled 
+exceedingly: I roared for the groaning 
+of my heart. Lord before you is all 
+my desire: and my groaning 
+is not hidden from you.
+My heart is troubled, 
+
+/next/ #Fol. 64v
+my strength hath forsaken me: and the 
+light of my eyes, and the same 
+is not with me. My friends, and 
+my neighbors: have approached, 
+and stood against me. And 
+they that were near me, stood far 
+off: and they did violence, which sought 
+my soul. And they 
+that sought out evils against me, spake 
+vanities: and devised guiles 
+all the day. But I as 
+deaf did not hear: and as 
+one dumb not opening his mouth.
+And I became as a man not 
+hearing: and not having reprehensions
+ in his mouth. Because in you O Lord 
+have I hoped: you shall hear me O Lord 
+my God. For I have said, lest sometimes 
+
+/next/ #Fol. 65r
+my enemies rejoice over me: 
+and whilst my feet are moved, 
+they spake great things upon me. Because
+I am ready for scourges: and my sorrow 
+is in my sight always.
+Because I will declare my 
+iniquity: and I will think for my sin.
+But my enemies live, and 
+are confirmed over me: and they are 
+multiplied that hate me unjustly.
+They that repay evil things for good, 
+did backbite me: because I followed 
+goodness. Forsake me not 
+O Lord my God: depart not 
+from me. Incline unto my 
+help: O Lord God of my salvation. Psalm:
+Have mercy on me O God: according 
+to your great mercy.
+
+/next/ #Fol. 65v
+And according to the multitude 
+of your tender mercies: blot out 
+my iniquity. Wash me more from 
+my iniquity: and cleanse me from 
+my sin. Because I know my iniquity: 
+and my sin 
+is always against me. To you only 
+have I sinned, and have done evil before you: 
+that you may be justified in your words, 
+and may overcome when thou art judged. For 
+behold I was conceived in iniquities: 
+and my mother conceived me 
+in sins. For behold you have loved truth: 
+the uncertain and hidden things 
+of your wisdom you have made manifest to me.
+You shall sprinkle me with hyssop, and 
+I shall be cleansed: you shall wash me, and 
+I shall be made whiter than snow. To my hearing 
+
+/next/ #Fol. 66r
+you shall give joy, and gladness: and humbled 
+bones shall rejoice. Turn away 
+your face from my sins: and blot out all 
+my iniquities. Create a clean 
+heart in me O God: and renew a right spirit 
+in my 
+bowels. Cast me not away from your face: and 
+your holy spirit take not 
+from me. Render unto me the joy 
+of your salvation: and confirm me 
+with a principal spirit. I will teach the unjust 
+your ways: and the impious shall be converted 
+unto you. Deliver me from bloods 
+O God, the God of my salvation: and 
+my tongue shall extol your 
+justice. You O Lord will open my lips: and 
+my mouth shall declare your 
+praise. Because if you would have had sacrifice, 
+
+/next/ #Fol. 66v
+I had verily given it: with burnt 
+offerings you will not be 
+delighted. A sacrifice to God is a troubled 
+spirit: a contrite, and 
+humble heart O God, you will not despise.
+Deal favorably O Lord, in your good 
+will with Sion: and let the walls 
+of Jerusalem be built up. Then shall you accept 
+sacrifice of justice, oblations, 
+and whole burnt offerings: then shall they lay 
+calves upon your altar. Psalm:
+O Lord hear my prayer: 
+and let my cry come to you.
+Turn not away your face from me: 
+in what day soever I am in tribulation, incline 
+your ear to me. In what 
+day soever I shall call upon you: 
+hear me speedily. For my days 
+have vanished as smoke: and my bones 
+
+/next/ #Fol. 67r
+are withered as a dry burnt thing.
+I am smitten as grass, and my heart 
+is withered: for I forgot 
+to eat my bread. From the voice 
+of any groaning: my bone has cleaved 
+to my flesh. I have become 
+like a pelican of the wilderness: I have become 
+as a night crow in the house. I have 
+watched: and have become as a sparrow 
+solitary in the housetop. All the day 
+did mine enemies upbraid me: 
+and they that praised me, swear 
+against me. For I did eat 
+ashes as bread,
+ and mingled my drink with 
+weeping. At the face of the wrath of your indignation: 
+for that lifting me up you have thrown me down.
+My days have declined as a shadow: 
+
+/next/ #Fol. 67v
+and I am withered as grass. But 
+you O Lord endurest for 
+ever: and your memorial in generation 
+and generation. You 
+rising up shalt have mercy on Sion: 
+for it is time to have mercy on it, for 
+the time has come. Because the stones 
+thereof have pleased your servants: and they 
+shall have pity on the earth thereof. And the Gentiles 
+shall fear your name O Lord: and all 
+the kings of the earth your glory. For 
+our Lord has built Sion: and he shall 
+be seen in his glory. He has had respect 
+to the prayer of the humble: and he has not despised 
+their petition. Let these things be written in 
+another generation: and the people that 
+shall be created, shall praise our Lord. Because 
+he has looked forth from his high holy place: our 
+
+/next/ #Fol. 68r
+Lord from heaven has looked upon the earth.
+That he might hear the groanings 
+of the fettered: that he might unbind the children 
+of them that are slain. That they may show forth the name of our Lord 
+in Sion: and his praise in 
+Jerusalem. In the assembling 
+of the people together in one: and kings to serve 
+our Lord. He answered them 
+in the way of his strength: show me 
+the fewness of my days. Call 
+me not away in the half of my 
+days: your years are unto generation, and 
+generation. In the beginning O Lord 
+you did found the earth: and the heavens are the works 
+of your hands. They shall perish 
+but you remainest: and they shall all 
+wax old as a garment. And 
+as a vesture you shall change them, 
+
+/next/ #Fol. 68v
+and they shall be changed: but you are the 
+selfsame, and your years shall not fail.
+The sons of your servants shall 
+inhabit: and their seed shall be directed 
+for ever. Psalmus: 
+From the depths I have cried to 
+you O Lord: Lord hear my 
+voice. Let your ears be 
+attentive: unto the voice of my 
+petition. If you will observe iniquities 
+O Lord: Lord who shall 
+endure it? Because with you there is 
+pitifulness: and for your law 
+I have expected you O Lord. My soul 
+has stayed in his word: my soul 
+has hoped in our Lord.
+From the morning watch even until 
+night: let Israel hope in our Lord.
+
+/next/ #Fol. 69r
+Because with our Lord there is mercy: 
+and with him plentiful redemption. And 
+he shall redeem Israel: from all 
+his iniquities. Psalm:
+Lord hear my prayer, with 
+your ears receive my petition: 
+in your truth, hear me in your 
+justice. And enter not into 
+judgment with your servant: for 
+every one living shall not be justified 
+in your sight. For the enemy 
+has persecuted my soul: he has humbled 
+my life in the earth. He has 
+set me in obscure places as the 
+dead of the world: and my spirit is in anguish 
+upon me, within me 
+my heart is troubled. I was mindful 
+of old days, I have meditated 
+
+/next/ #Fol. 69v
+in all your works: in the 
+deeds of your hands did I 
+meditate. I have stretched forth my hands to 
+you: my soul as earth without 
+water unto you. Hear me quickly 
+O Lord: my spirit has fainted. Turn not 
+away your face from me: and I shall 
+be like to them that descend into the lake.
+Make me hear your mercy 
+in the morning: for I have hoped 
+in you. Make the way known to me, 
+wherein I may walk: because I have lifted up 
+my soul to you. Deliver me from 
+my enemies, O Lord, to you 
+I have fled: teach me to do your 
+will, because you are my God.
+Your good spirit shall conduct 
+me into the right land: for 
+
+/next/ #Fol. 70r
+your name's sake O Lord you shall 
+quicken me in your equity. You shall bring 
+my soul out of tribulation: 
+and in your mercy you shall destroy all 
+my enemies. And you shall destroy all, 
+that afflict my soul: because 
+I am your servant. Litany:
+Lord have mercy upon us. Christ have mercy upon us. Lord 
+have mercy upon us. Christ hear us.
+God the Father of heaven, have mercy 
+upon us. God the Son redeemer of the world, 
+have mercy upon us. God the Holy Ghost, 
+have mercy upon us. Holy 
+Trinity one God, have mercy upon 
+us. Holy Mary, pray [for us].
+Holy Mother of God, pray [for us].
+Holy virgin of virgins, pray [for us].
+Saint Michael, pray [for us].
+
+/next/ #Fol. 70v
+Saint Gabriel, pray [for us].
+Saint Raphael, pray [for us].
+All ye Holy angels, and archangels, pray [for us].
+Saint John Baptist, pray [for us].
+Saint Peter, pray [for us].
+Saint Paul, pray [for us].
+Saint Andrew, pray [for us].
+Saint James, pray [for us].
+Saint John, pray [for us].
+Saint Thomas, pray [for us].
+Saint James, pray [for us].
+
+Saint Philip, pray [for us].
+Saint Bartholomew, pray [for us].
+Saint Matthew, pray [for us].
+Saint Simon, pray [for us].
+Saint Thadey, pray [for us].
+Saint Barnaby, pray [for us].
+Saint Mark, pray [for us].
+
+/next/ #Fol. 71r
+Saint Luke, pray [for us].
+All ye Holy apostles, pray [for us].
+Saint Stephen, pray [for us].
+Saint Linus, pray [for us].
+Saint Cletus, pray [for us].
+Saint Clement, pray [for us].
+Saint Livinus, pray [for us].
+Saint Amand, pray [for us].
+Saint Bavo, pray [for us].
+Saint Sixtus, pray [for us].
+Saint Callistus, pray [for us].
+Saint Cornelius, pray [for us].
+Saint Cyprian, pray [for us].
+Saint Quentin, pray [for us].
+Saint Lawrence, pray [for us].
+Saint Vincent, pray [for us].
+Saint George, pray [for us].
+Saint Christopher, pray [for us].
+
+/next/ #Fol. 71v
+Saint Denis, pray [for us].
+Saint Maurice, pray [for us].
+Saint Damian, pray [for us].
+Saint Fabian, pray [for us].
+Saint Sebastian, pray [for us].
+Saint Gervasius, pray [for us].
+Saint Crispian, pray [for us].
+Saint Blaise, pray [for us].
+All ye holy martyrs, pray [for us].
+Saint Sylvester, pray [for us].
+Saint Leo, pray [for us].
+Saint Gregory, pray [for us].
+Saint Augustine, pray [for us].
+Saint Ambrose, pray [for us].
+Saint Jerome, pray [for us].
+Saint Nicholas, pray [for us].
+Saint Martin, pray [for us].
+Saint Bernard, pray [for us].
+
+
+/next/ #Fol. 72r
+Saint Willibrord, pray [for us].
+All ye holy confessors, pray [for us].
+Saint Mary Magdalen, pray [for us].
+Saint Agnes, pray [for us].
+Saint Agatha, pray [for us].
+Saint Felicitas, pray [for us].
+Saint Alma, pray [for us].
+Saint Perpetua, pray [for us].
+Saint Agatha, pray [for us].
+Saint Cecilia, pray [for us].
+Saint Catherine, pray [for us].
+Saint Barbara, pray [for us].
+Saint Margaret, pray [for us].
+Saint Petronilla, pray [for us].
+Saint Brigid, pray [for us].
+Saint Gertrude, pray [for us].
+Saint Adetrude, pray [for us].
+Saint Clare, pray [for us].
+Saint Ursula, pray [for us].
+
+/next/ #Fol. 72v
+All holy virgins, and widows, pray [for us].
+All ye men, and women saints of God, pray [for us].
+Be merciful unto us, spare us. Deliver us O Lord.
+From all evil, O Lord deliver. From the deceits 
+of the devil, deliver. From eternal 
+damnation, deliver. From sudden death, 
+deliver. Through your incarnation, 
+deliver. Through your nativity, deliver.
+Through your circumcision, deliver.
+Through your baptism, deliver. Through
+your passion, and cross, and your death, 
+deliver. Through your resurrection, 
+deliver. Through your admirable ascension, 
+deliver. Through the grace of the Holy 
+Ghost the comforter, deliver.We sinners 
+do beseech you hear us. That you grant us peace.
+We beseech you. That your mercy and piety 
+safeguard us. We beseech you. That
+
+/next/ #Fol. 73r
+That you vouchsafe to give eternal rest 
+to all faithful departed. We beseech you. That you 
+vouchsafe graciously to hear us. We beseech you. That you
+hear us. We beseech you. Son of God. We beseech you. Lamb 
+of God that takes away the sins of the world, spare 
+us O Lord. Lamb of God that 
+takes away the sins of the world, hear us graciously 
+O Lord. Lamb of God that takes away the sins 
+of the world, have mercy upon us.
+Lord have mercy upon us. Christ have mercy upon us. Lord 
+have mercy upon us. Christ hear us. Our
+Father. And lead us not. O Lord hear.
+And let my cry. Let us pray. Prayer:
+O God, whose property is always to have 
+mercy, and to spare, receive our petition: 
+that the tender mercy of your piety may mildly 
+absolve us, and all your servants, whom the chain of sins 
+doth bind. Through Christ. Prayer:
+
+
+/next/ #Fol. 73v
+O God the creator, 
+and redeemer of all the faithful, 
+give unto the souls 
+of your servants men, and women 
+remission of all their sins: that through Godly supplications 
+they may obtain the pardon 
+which they have always wished for.
+Rest in peace. Amen.
+
+/next/ #Fol. 74r
+Blank page (back of the illumination)
+
+/next/ #Fol. 74v
+Funeral illumination
+
+/next/ #Fol. 75r
+Beginning of the Office of the Dead. 
+Antiphon: I will please. Psalm of David:
+I have loved, because 
+our Lord: will hear the voice of my prayer.
+Because he has inclined 
+his ear 
+to me: and in my days I will call 
+upon him. The sorrows of death have compassed 
+me: and the pains of hell have 
+found me. I have found tribulation, and 
+sorrow: and I called on the name 
+of our Lord. O Lord, deliver my soul, 
+merciful Lord, and just: 
+and our God has mercy. Our Lord 
+keeps little ones: I was humbled, 
+and he has delivered me. Turn 
+O my soul into your rest: 
+
+/next/ #Fol. 75v
+because our Lord hath done good to you. Because 
+he has delivered my soul from death: my eyes 
+from tears, my feet 
+from sliding. I will please our Lord in the 
+country of the living. Eternal rest 
+give unto them O Lord: and let perpetual light 
+shine unto them. Antiphon: I will please the Lord 
+in the country of the living. Antiphon: Woe is me.
+When I was in tribulation. Antiphon:
+Woe is me O Lord, that my abode 
+is prolonged. Antiphon: Our Lord. Psalm:
+I have lifted up my eyes. Antiphon: Our Lord 
+does keep you from all evil, our Lord 
+can keep your soul. Antiphon: If.  Psalm:
+From the depths I have cried. Antiphon: If
+you O Lord observe iniquities, 
+O Lord who shall be able to endure it? Antiphon:
+The works of your hands. Psalm:
+
+/next/ #Fol. 76r
+I will confess to you O Lord in 
+my whole heart: because you have heard all the
+words of my mouth. In the sight of angels 
+I will sing to you: I will adore toward 
+your holy temple, and will 
+confess to your name. Upon your mercy 
+and your truth: because you have magnified 
+your holy name above all things.
+In what day soever I shall 
+call on you, hear me: you shall multiply 
+strength in my soul.
+Let all the kings of the earth O Lord 
+confess to you: because they have heard all 
+the words of your mouth. And let them sing in 
+the ways of our Lord: because great is the glory of our Lord.
+Because our Lord is high, and he beholds
+low things: and high things 
+he knows far off. If I shall walk in 
+
+/next/ #Fol. 76v
+the midst of tribulation, you will quicken 
+me: and upon the wrath of my enemies 
+you have extended your hand, 
+and your right hand has saved me.
+Our Lord will repay for me, O Lord 
+your mercy is forever: despise not the works 
+of your hands.
+Eternal rest. Antiphon: The works of your hands 
+dispise not O Lord. Verse: 
+I heard a voice from heaven saying 
+unto me. Blessed are the dead which 
+die in our Lord. Antiphon: All.
+My soul: does magnify our Lord.
+Eternal rest. Antiphon: All,
+that my Father gives me, shall come 
+unto me, and he that comes unto me, 
+I will not cast forth. Our Father.
+And lead us not. But deliver. Psalm:
+
+/next/ #Fol. 77r
+My soul praise you our Lord, 
+I will praise our Lord in my life: 
+I will sing to my God as long as I shall 
+be. Put not confidence in princes: 
+in the children of men, in whom 
+there is no salvation. His spirit shall 
+go forth, and shall return into his earth: 
+in that day all their 
+cogitations shall perish. Blessed 
+is he whose God of Jacob is his helper his hope 
+in our Lord his God: which 
+made heaven and earth, the sea, and all 
+things that are in them. Which keeps 
+truth forever, does 
+judgment for them that suffer wrong, 
+gives food to the hungry. Our Lord 
+loses the fettered: our Lord lightens 
+the blind. Our Lord lifts up 
+
+/next/ #Fol. 77v
+the bruised: our Lord loveth the just. Our Lord 
+keeps strangers, the 
+fatherless and widow he will receive: 
+and the ways of sinners he shall destroy.
+Our Lord shall reign forever, your God 
+O Sion: in generation and ge-
+neration. Eternal rest. 
+Antiphon: From the gate of hell. Deliver their souls 
+O Lord. O Lord hear. Prayer:
+Incline your ear 
+to our petitions, O Lord, 
+by which we humbly implore your mercy: 
+that the soul of your servant,
+which you have commanded 
+to depart, may be received by you 
+in a country of peace and light,
+and admitted to the company of your saints. Prayer:
+O God the creator, and redeemer of all the faithful. In
+
+/next/ #Fol. 78r
+the beginning of the nocturne. Antiphon: Direct. Psalm:
+Receive O Lord my words 
+with your ears: understand my 
+cry. Attend to the voice of my 
+prayer: my King, and my God. Because 
+I will pray to you O Lord: in the morning you will 
+hear my voice. In the morning 
+I will stand by you, and will see: because you are 
+a God that will not be iniquity.
+Neither shall the malignant dwell 
+by you: neither shall the unjust abide 
+before your eyes. You hate all, 
+that work iniquity: you shall destroy 
+all, that speak lies.
+The bloody man, and deceitful 
+our Lord will abhor: but I 
+in the multitude of your mercy.
+I will enter into your house: 
+
+/next/ #Fol. 78v
+I will adore towards your holy temple 
+in your fear. Lord conduct 
+me in your justice because of 
+mine enemies: direct my way 
+in your sight. Because there is no 
+truth in their mouth: their heart 
+is vain. Their throat 
+is an open sepulcher: they dealt deceitfully 
+with their tongues, judge them O 
+God. Let them fail of their cogitations, 
+according to the multitude 
+of their impieties expel them: because 
+they have provoked you O Lord. And let 
+all be glad, that hope in you: 
+they shall rejoice forever, and you shall 
+dwell in them. And all that love 
+your name, shall glory in 
+you: because you will bless the just.
+Lord as with a shield, of thy good will: thou hast crowned us.
+
+/next/ #Fol. 79r
+Lord as with a shield, of you good 
+will: you have crowned us. Eternal
+rest. Antiphon: Direct O Lord God
+my way in your sight.
+Antiphon: Turn you. Psalm:
+Lord rebuke me not in your fury. Antiphon: 
+Turn you O Lord, and deliver my 
+soul: because there is not in death, that 
+is mindful of you. Antiphon: Lest peradventure. Psalm: 
+O Lord my God I have hoped in 
+you: save me from all that 
+persecutes me, and 
+deliver me. Lest sometimes he as 
+a lion violently take my soul: whilst there is none 
+to redeem nor to save.
+O Lord my God if I have done 
+this: if there be iniquity in my hands.
+If I have rendered 
+
+/next/ #Fol. 79v
+to me that repaid me evils: let me worthily fall 
+empty from mine enemies. Let the enemy persecute 
+my soul, and take 
+it, and tread down my life in the earth: 
+and bring down my glory 
+into dust. Arise 
+Lord in thy wrath: and be exalted in 
+the coasts of thine enemies.
+And arise O Lord my God 
+in the precept, which you have commanded: 
+and a synagogue of peoples shall 
+compass you. And for it return 
+on high: our Lord judges 
+peoples. Judge me O Lord 
+according to my justice: and according 
+to mine innocence 
+upon me. The wickedness 
+of sinners shall be consumed, and you shall direct the just: 
+
+/next/ #Fol. 80r
+which searches the hearts and reins O God.
+My just help is 
+from our Lord: who saves those that be right 
+of heart. God is a just judge, strong 
+and patient: is he angry 
+every day? Unless you will be 
+converted, he has shaken his sword: 
+he has bent his bow, and prepared 
+it. And in it he has prepared the instruments 
+of death: he has made his arrows 
+for them that burn. Behold he travails with injustice, 
+he has conceived sorrow: and brought forth 
+iniquity. He has opened a pit, 
+and digged it up: and he has fallen 
+into the ditch, which he made. His sorrow 
+shall be turned upon his head: 
+and his iniquity shall descend 
+upon his crown. I will con-
+
+/next/ #Fol. 80v
+fess to our Lord according to his justice: 
+and will sing to the name of our Lord 
+most high. Eternal rest. Antiphon: Lest 
+peradventure he may catch my soul as a lion, 
+whilst there is none which may redeem it, or 
+which may save it. Verse: From the gates 
+of hell. Deliver O Lord their souls.
+Our Father. First lesson:
+Spare me O Lord for 
+my days are nothing. What is man, 
+that you magnifies him: or why 
+set you your heart toward him? 
+You do visit him early in the morning, and suddenly 
+you prove him. How long do you not spare 
+me, nor suffer me, that I swallow 
+my spittle? I have sinned. What shall 
+I do to you, O keeper of men? Why 
+have you set me contrary to you, and 
+
+/next/ #Fol. 81r
+I have become burdensome to myself? 
+Why do you not take away my sin, 
+and why do you not take away mine 
+iniquity? Behold now I shall sleep in the 
+dust, and if you seek me in the morning, I shall 
+not be. Response: I believe that my redeemer 
+lives, and that in the last day 
+I shall rise from the earth: and 
+in my flesh shall see God 
+my savior. Verse: Whom I myself 
+shall see and not another, and mine eyes 
+shall behold. And in my flesh.
+My soul is weary Second lesson
+of my life, I will let my speech 
+pass against myself. I will 
+speak in the bitterness of my 
+soul: I will say to God condemn me not. 
+Shew me why you judges me so? 
+
+/next/ #Fol. 81v
+Does it seem good to you, 
+if you calumniate me, and oppress 
+me, the work of your hands, and 
+help the counsel of the impious? Have 
+you eyes of flesh: or 
+as a man sees, shall you also see? 
+Are your days as the days of a man, 
+and are your years as the times of men, 
+that you should seek my 
+iniquity, and should search my 
+sin? And should know that I have done 
+no impious thing, whereas there is no man, 
+that can deliver out of your hand.
+
+Response: You which did raise Lazarus stinking 
+from the grave: You O Lord give 
+them rest, and place of 
+Pardon. Verse: Which are to come to judge 
+the living, and the dead, and the world by fire. 
+
+/next/ #Fol. 82r
+You O Lord. Third lesson.
+Your hands O Lord have made 
+me, and framed me wholly 
+round about: and do you so suddenly cast 
+me down headlong? Remember, I beseech you, that 
+as clay you made me, and into dust 
+you will bring me again. Have you not 
+as milk milked me, and curded me 
+as cheese? With skin, and flesh 
+you have clothed me: with bones, and sinews 
+you have compacted me. Life and mercy 
+you have given me, and your visitation 
+has kept my spirit. Response: 
+Deliver me Lord, from eternal death,
+on the fearful day, when 
+the heavens and the earth shall be moved: when
+You shall come to judge the world by
+fire. Verse: That day, day of wrath, cala-
+
+/next/ #Fol. 82v
+mity and misery, day of great and 
+exceeding bitterness. When you shall come 
+to judge the world by fire. Verse: Eternal 
+rest give unto them O Lord: and 
+let perpetual light shine unto them. Deliver me.
+When you shall come. Antiphon: They shall rejoice. Psalm:
+Have mercy on me, O God, according. Antiphon: 
+The bones that have been humbled shall 
+rejoice. Antiphon: Hear, O God, my prayer. 
+A hymn, O God, becomes you in Sion: 
+and a vow shall be paid to thee in 
+Jerusalem. Hear, O God, 
+my prayer: all flesh shall come to you.
+The words of the wicked have prevailed 
+over us: and you will pardon 
+our transgressions. Blessed is he 
+whom you have chosen and taken to you: he shall dwell 
+in your courts. We shall be 
+
+/next/ #Fol. 83r
+filled with the good things of your house; holy 
+is your temple, wonderful in 
+justice. Hear us, O God 
+our saviour, who are the hope of all the ends 
+of the earth, and in the sea afar off. You who prepares 
+the mountains by your strength, being girded 
+with power: who troubles the depth 
+of the sea, the noise of its 
+waves. The Gentiles shall be 
+troubled, and they that dwell in the uttermost borders 
+shall be afraid at your signs: you shall make the outgoings of the morning and 
+of the evening to be joyful. You have visited the 
+earth, and have plentifully watered it; you have many 
+ways enriched it. The river 
+of God is filled with water, you have 
+prepared their food: for so is its prepa-
+ration. Fill up plentifully the streams thereof, 
+multiply its fruits; it 
+
+/next/ #Fol. 83v
+shall spring up and rejoice in its showers.
+You shall bless the crown of the year 
+of your goodness: and your fields shall be filled 
+with plenty. The beautiful places of the wilderness 
+shall grow fat: and the hills shall be girded about 
+with joy. The rams of the flock are 
+clothed, and the vales shall abound with corn: 
+they shall sing a hymn. Eternal 
+rest. Antiphon: Hear, O God, my prayer: 
+all flesh shall come to you.
+Antiphon: Has received me. Psalm: O God my God.
+God have mercy upon us. Antiphon:
+Your right hand has received me.
+Antiphon: From the gates of hell. Psalm: 
+I have said in the midst of my days, 
+shall I go to the gates of 
+Hell. I have sought the residue of my years: 
+I have said, I shall not see our Lord 
+
+/next/ #Fol. 84r
+God in the land of the living. I shall 
+behold man no more: and the inhabiter 
+of rest. My generation 
+is taken away: and is wrapped up 
+from me as the tents of shepherds.
+My life is cut off as 
+by a weaver, while I yet began, 
+he cut me off: from morning unto night 
+you will make an end of me. I hope 
+even until the morning: as a lion so has he 
+broken all my bones. From morning, 
+until evening you will make an end of me: 
+as a young swallow, so 
+will I cry, I will meditate as a dove.
+Mine eyes are weakened: looking up 
+on high. Lord I suffer 
+violence, answer for me: what shall I say 
+or what shall he answer me, whereas 
+
+/next/ #Fol. 84v
+myself have done it? I will recount all 
+my years: in the bitterness of my 
+soul. Lord if man's life be such, and 
+the life of my spirit in such things, you shall chasten me, 
+and shall quicken me: behold in peace 
+is my bitterness most bitter. But you 
+have delivered my soul that 
+it should not perish: you have cast all my sins 
+behind your back. Because 
+hell shall not confess to you, 
+neither shall death praise you: they that go down 
+into the lake, 
+shall not expect your truth. The living, the living 
+he shall confess to you, as 
+I also this day: the father to the children shall make 
+your truth known. O Lord save 
+me: and we will sing our Psalms 
+all the days of our life, 
+
+/next/ #Fol. 85r
+in the house of our Lord. Eternal
+rest. Antiphon: From the gate of hell deliver 
+my soul O Lord. Antiphon: Let every spirit.
+Praise ye our Lord from the heavens. Psalm of David:
+Sing ye to our Lord a new song. Psalm:
+Praise ye our Lord in his saints. Antiphon: Let every 
+spirit praise our Lord. Verse: I heard 
+a voice from heaven saying unto me.
+Blessed are the dead that die in Our 
+Lord. Antiphon: I am. Psalm:
+Blessed be our Lord God of Israel. Antiphon: 
+I am the resurrection and the life: he which 
+believes in me, although he 
+was dead, yet shall he live: and everyone which 
+lives, and believes in me, shall not die 
+forever. Our Father. And lead us not. Psalm:
+From the depths. Antiphon: From the gates of hell. 
+Deliver their souls O Lord. O Lord hear.
+
+/next/ #Fol. 85v
+ar [sic]. And let my cry. Let us pray. Prayer:
+May the souls of all the faithful departed
+be part of the holy 
+resurrection, and deserve to live
+in heaven by you Jesus
+Christ, savior of the world, who with 
+the Father and the Holy Spirit, who [sic] lives 
+and reigns, God, forever and 
+ever. Amen.  
+
+
+/next/ #Fol. 86r
+Blank page. 
+
+/next/ #Fol. 86v
+Blank page. 
+
+/next/ #Fol. 87r
+Blank page. 
+
+
+/next/ #Fol. 87v
+Blank page. 
+
+
+/next/ #Fol. 88r
+Blank page. 
+
+/next/ #Fol. 88v
+Blank page. 
+
+/next/ #Fol. 89r
+Blank page. 
+
+
+/next/ #Fol. 89v
+Blank page. 
+
+/next/ #Fol. 90r
+Blank page. 
+
+/next/ #Fol. 90v
+Rare books
+Vault
+Z
+105.5
+1450
+C378
