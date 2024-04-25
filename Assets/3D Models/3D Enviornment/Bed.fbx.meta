@@ -12,43 +12,33 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Frame Wood
+    second: {fileID: 2100000, guid: bfb5ea4d7ac1ab8439c41d92085482be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Legs
+    second: {fileID: 2100000, guid: aeecf66a8ec96db43bc8d250be45547e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Mattress
     second: {fileID: 2100000, guid: d3b63f6c8923da949a912da4eee23ce9, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Metal
-    second: {fileID: 2100000, guid: 62a6ed41e7212324387fe98fd174a978, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Wood
-    second: {fileID: 2100000, guid: e9175e62b61ad5a41afcea088dc69e81, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Wood 4
-    second: {fileID: 2100000, guid: bfb5ea4d7ac1ab8439c41d92085482be, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Wood 5
+      name: Side Wood
     second: {fileID: 2100000, guid: 18c7353d2fddbd249a9547d8dd44df3d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Wood 6
+      name: Top Wood
     second: {fileID: 2100000, guid: 512d92da93bf9a24780ccaaad11c60fb, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Wood2
-    second: {fileID: 2100000, guid: aeecf66a8ec96db43bc8d250be45547e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Wood3
-    second: {fileID: 2100000, guid: eaa2d0e66f384f347bdfe4d08e6e96c6, type: 2}
+      name: Wood Pillars
+    second: {fileID: 2100000, guid: e9175e62b61ad5a41afcea088dc69e81, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -76,7 +66,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
-    isReadable: 1
+    isReadable: 0
   meshes:
     lODScreenPercentages: []
     globalScale: 1
@@ -90,7 +80,7 @@ ModelImporter:
     importLights: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
