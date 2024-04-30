@@ -10,7 +10,7 @@ public class BuildVersion : MonoBehaviour
     [SerializeField] TextMeshPro buildNameText;
     void Start()
     {
-        string buildName = PlayerSettings.bundleVersion;
+        string buildName = Application.version;
         buildNameText.text = "VERSION: BoH APK " + buildName;
     }
 }
