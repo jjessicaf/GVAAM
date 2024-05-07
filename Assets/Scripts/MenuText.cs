@@ -13,28 +13,53 @@ public class MenuText : MonoBehaviour
     [SerializeField] private List<string> stateList = new List<string>();
     [SerializeField] private BookManager bookManager;
     private int stateNum = 0;
+    private int vStart = 0;
+    private int rStart = 1;
+    private int vCurrent = 6;
+    private int rCurrent = 7;
+    private int leftPageNum = 0;
 
 
     private void Start()
     {
         if (stateList.Count >= 0)
         {
-            GetComponent<TextMeshPro>().text = stateList[0]; // always start at the first page
+            //ex: FOLS. 6v-7r, FOLS. 8v-9r
+            vCurrent = vStart;
+            rCurrent = rStart;
+            leftPageNum = 0;
+            GetComponent<TextMeshPro>().text = "FOLS. " + vCurrent + "v-" + rCurrent + "r"; // always start at the first page
         }
 
     }
 
-    // update based on code in PagesideTextManager that recognizes if the page has been turned
+    // update based on bookmanager increment or decrement 
     public void updateState()
     {
         stateNum = bookManager.getLeftPageNum(); // get the left page number
-        GetComponent<TextMeshPro>().text = stateList[stateNum];
+
+        if (stateNum > leftPageNum) // turn right 
+        {
+            leftPageNum = stateNum;
+            vCurrent++;
+            rCurrent++;
+        }
+        else if (stateNum < leftPageNum) // turn left 
+        {
+            leftPageNum = stateNum;
+            vCurrent--;
+            rCurrent--;
+        }
+        GetComponent<TextMeshPro>().text = "FOLS. " + vCurrent + "v-" + rCurrent + "r";
     }
 
 
     public void ResetExperienceMT()
     {
         stateNum = 0;
+        vCurrent = vStart;
+        rCurrent = rStart;
+        leftPageNum = 0;
         GetComponent<TextMeshPro>().text = stateList[stateNum];
     }
 

@@ -75,9 +75,10 @@ public class BookManager : MonoBehaviour
     public void Increment(GameObject page,ref int pgn)
     {
         pgn++;
-        if(pgn>= currList.Count)
+        if(pgn>= currList.Count) // don't increment if last page 
         {
-            pgn = 0;
+            //pgn = 0;
+            pgn = currList.Count - 1; 
         }
         page.GetComponent<Renderer>().material = currList[pgn];
     }
@@ -85,9 +86,10 @@ public class BookManager : MonoBehaviour
     public void Decrement(GameObject page,ref int pgn)
     {
         pgn--;
-        if ( pgn < 0)
+        if ( pgn < 0) // don't decrement if page 0 
         {
-            pgn = currList.Count-1;
+            //pgn = currList.Count-1;
+            pgn = 0;
         }
         page.GetComponent<Renderer>().material = currList[pgn];
     }
