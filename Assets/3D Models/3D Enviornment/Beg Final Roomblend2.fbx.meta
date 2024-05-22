@@ -3,72 +3,7 @@ guid: 50cc099270dd92843b9e09c472002c7b
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Ceramic gray.001
-    second: {fileID: 2100000, guid: 14d822c1a4dccf94e9dcac4a0f08f530, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Chimney
-    second: {fileID: 2100000, guid: 98d208e76751d8843922e2f9de62946b, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Dirt
-    second: {fileID: 2100000, guid: 98fe2b6176462f24da7df7edf8d3ad31, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Frosted Clear Glass
-    second: {fileID: 2100000, guid: 8600db4284a73074c8f306406918afeb, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Oak dark
-    second: {fileID: 2100000, guid: 6370f0507443cf04f91febab574d1ea6, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Off-White Plaster
-    second: {fileID: 2100000, guid: 081743e8ee4e51e499d77146f701a8af, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Off-White Plaster (1)
-    second: {fileID: 2100000, guid: ec1760332a58cf74fabcda7c6e910c56, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Plaster
-    second: {fileID: 2100000, guid: 62778de663404f14fa0ae7b45d386235, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Plaster (5)
-    second: {fileID: 2100000, guid: ffca9933fed00924ebab2adf6dff2241, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Poured cement
-    second: {fileID: 2100000, guid: 5f6d40caa80b9c84d86b287938d65ee3, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Roof
-    second: {fileID: 2100000, guid: 33c2b12d7f2ed1249b77dc6574c0bac6, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Stretch bond bricks washed
-    second: {fileID: 2100000, guid: da05aa581d4d11840a6c5a8a1a794806, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: diffuse_0
-    second: {fileID: 2100000, guid: d98d23e09d88f6541824480fe5e3419c, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
