@@ -3,7 +3,77 @@ guid: 704f7818a0f019d48a8ee2245ff65d28
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brick Floor
+    second: {fileID: 2100000, guid: d491956291af5144a9350d59d39c822b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chair Oak
+    second: {fileID: 2100000, guid: 08f369e64609f6d42b87af5ee96d0948, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chair Oak2
+    second: {fileID: 2100000, guid: 81575f28368345f429fc0bc9452ccfd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Deco Oak Door
+    second: {fileID: 2100000, guid: e61fc8ac3fcb06342be53832ec2cedb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door Frame
+    second: {fileID: 2100000, guid: e61fc8ac3fcb06342be53832ec2cedb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frosted Clear Glass
+    second: {fileID: 2100000, guid: 4195445e016cfbd4faac75fe73748218, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green Wood
+    second: {fileID: 2100000, guid: fd5f014111af14d4fb1b1994704c2378, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 955fc74a9334022449dbadf40f75d864, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oak dark
+    second: {fileID: 2100000, guid: 20ac978fe04599d459c505fe1a024e9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Off-White Plaster
+    second: {fileID: 2100000, guid: 20d518ea15f94494aa81f15fcf1ffa08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poured cement
+    second: {fileID: 2100000, guid: 97303a0814b0a2745b24ee73e9c18fbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Seat Cushion
+    second: {fileID: 2100000, guid: 6aac316240d4ea24facea7303cdaafcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window Wood
+    second: {fileID: 2100000, guid: 1dcfe64d4fa15234bb107c164121c643, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood Ceiling
+    second: {fileID: 2100000, guid: f3d6413925fe29f48b747af0342a35bc, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -31,7 +101,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
-    isReadable: 1
+    isReadable: 0
   meshes:
     lODScreenPercentages: []
     globalScale: 1
